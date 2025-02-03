@@ -1,0 +1,988 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Admin</Author>
+  <LastAuthor>Sil</LastAuthor>
+  <Created>2005-02-26T16:04:39Z</Created>
+  <LastSaved>2018-11-18T17:53:41Z</LastSaved>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <Colors>
+   <Color>
+    <Index>16</Index>
+    <RGB>#8080FF</RGB>
+   </Color>
+   <Color>
+    <Index>17</Index>
+    <RGB>#802060</RGB>
+   </Color>
+   <Color>
+    <Index>18</Index>
+    <RGB>#FFFFC0</RGB>
+   </Color>
+   <Color>
+    <Index>19</Index>
+    <RGB>#A0E0E0</RGB>
+   </Color>
+   <Color>
+    <Index>20</Index>
+    <RGB>#600080</RGB>
+   </Color>
+   <Color>
+    <Index>22</Index>
+    <RGB>#0080C0</RGB>
+   </Color>
+   <Color>
+    <Index>23</Index>
+    <RGB>#C0C0FF</RGB>
+   </Color>
+   <Color>
+    <Index>33</Index>
+    <RGB>#69FFFF</RGB>
+   </Color>
+   <Color>
+    <Index>36</Index>
+    <RGB>#A6CAF0</RGB>
+   </Color>
+   <Color>
+    <Index>37</Index>
+    <RGB>#CC9CCC</RGB>
+   </Color>
+   <Color>
+    <Index>39</Index>
+    <RGB>#E3E3E3</RGB>
+   </Color>
+   <Color>
+    <Index>42</Index>
+    <RGB>#339933</RGB>
+   </Color>
+   <Color>
+    <Index>43</Index>
+    <RGB>#999933</RGB>
+   </Color>
+   <Color>
+    <Index>44</Index>
+    <RGB>#996633</RGB>
+   </Color>
+   <Color>
+    <Index>45</Index>
+    <RGB>#996666</RGB>
+   </Color>
+   <Color>
+    <Index>48</Index>
+    <RGB>#3333CC</RGB>
+   </Color>
+   <Color>
+    <Index>49</Index>
+    <RGB>#336666</RGB>
+   </Color>
+   <Color>
+    <Index>52</Index>
+    <RGB>#663300</RGB>
+   </Color>
+   <Color>
+    <Index>55</Index>
+    <RGB>#424242</RGB>
+   </Color>
+  </Colors>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12525</WindowHeight>
+  <WindowWidth>21720</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#3333CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#CC99FF"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#CC99FF"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#CC99FF"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#CC99FF"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#3366FF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat ss:Format="0.000"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s73">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s74">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s75">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s76">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#999933" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s78">
+   <Font ss:FontName="Arial Unicode MS" x:CharSet="204" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s80">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s81">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s82">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s83">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="s84">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#999933" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s85">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s86">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s87">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s88">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s89">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#00B050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s90">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#999933" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s91">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s92">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFF00"/>
+   <Interior ss:Color="#3333CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s93">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s94">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s95">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s96">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#00B050" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s97">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#A5A5A5" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s99">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FF0000"/>
+   <Interior ss:Color="#A5A5A5" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s100">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#A5A5A5" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s101">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#A5A5A5" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.000"/>
+  </Style>
+  <Style ss:ID="s102">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#A5A5A5" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s103">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#A5A5A5" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s104">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#A5A5A5" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s105">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#A5A5A5" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s106">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#00B050" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s107">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s108">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="s109">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s110">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.000"/>
+  </Style>
+  <Style ss:ID="s111">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s112">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s113">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s114">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s115">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s116">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s117">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s118">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s119">
+   <Borders/>
+   <Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s120">
+   <Borders/>
+   <Interior/>
+   <NumberFormat ss:Format="0.000"/>
+  </Style>
+  <Style ss:ID="s121">
+   <Borders/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s122">
+   <Borders/>
+   <Interior/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s123">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"/>
+   </Borders>
+   <Interior/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s124">
+   <Borders/>
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s125">
+   <Borders/>
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s126">
+   <Borders/>
+   <Interior ss:Color="#999933" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s127">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#008080" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s128">
+   <Borders/>
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="s129">
+   <Borders/>
+   <Interior ss:Color="#999933" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s130">
+   <Borders/>
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s131">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s132">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"/>
+   </Borders>
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s133">
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s134">
+   <Borders/>
+   <Interior ss:Color="#999933" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s135">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"/>
+   </Borders>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s136">
+   <Interior ss:Color="#999933" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s137">
+   <Borders/>
+   <Interior ss:Color="#008080" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s138">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s139">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"/>
+   </Borders>
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s140">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s141">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Interior ss:Color="#008080" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s142">
+   <Font ss:FontName="Arial" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#999933" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s143">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FF0000"/>
+   <Interior ss:Color="#3333CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s144">
+   <Borders/>
+   <Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s145">
+   <Borders/>
+   <Interior ss:Color="#008080" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s146">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#3366FF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s147">
+   <Borders/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s148">
+   <Borders/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.000"/>
+  </Style>
+  <Style ss:ID="s149">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"/>
+   </Borders>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s150">
+   <Borders/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="s151">
+   <Borders/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s152">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s153">
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s154">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFF00"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s155">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s156">
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#999933" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s157">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFF00"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s158">
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s159">
+   <Borders/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s160">
+   <Borders/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s161">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s163">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FF0000"/>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s164">
+   <Borders/>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s165">
+   <Borders/>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.000"/>
+  </Style>
+  <Style ss:ID="s166">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"/>
+   </Borders>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s167">
+   <Font ss:FontName="Arial Unicode MS" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s168">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s169">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s170">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s171">
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s175">
+   <Borders/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s176">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#008000" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="tanks">
+  <Table ss:ExpandedColumnCount="78" ss:ExpandedRowCount="55" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultColumnWidth="51">
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="168"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="31.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="82.5" ss:Span="1"/>
+   <Column ss:Index="5" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="61.5"/>
+   <Column ss:StyleID="s62" ss:Width="87.75"/>
+   <Column ss:StyleID="s62" ss:Width="99"/>
+   <Column ss:StyleID="s62" ss:Width="102.75"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="75"/>
+   <Column ss:StyleID="s62" ss:Width="73.5" ss:Span="2"/>
+   <Column ss:Index="13" ss:StyleID="s62" ss:Width="97.5"/>
+   <Column ss:StyleID="s62" ss:Width="38.25"/>
+   <Column ss:StyleID="s62" ss:Width="29.25"/>
+   <Column ss:StyleID="s62" ss:Width="39"/>
+   <Column ss:StyleID="s62" ss:Width="23.25"/>
+   <Column ss:StyleID="s62" ss:Width="60.75"/>
+   <Column ss:StyleID="s62" ss:Width="102"/>
+   <Column ss:StyleID="s62" ss:Width="105.75"/>
+   <Column ss:StyleID="s62" ss:Width="107.25"/>
+   <Column ss:StyleID="s62" ss:Width="60.75"/>
+   <Column ss:StyleID="s62" ss:Width="76.5"/>
+   <Column ss:StyleID="s62" ss:Width="66"/>
+   <Column ss:StyleID="s62" ss:Width="81.75"/>
+   <Column ss:StyleID="s62" ss:Width="87"/>
+   <Column ss:StyleID="s62" ss:Width="76.5"/>
+   <Column ss:StyleID="s62" ss:Width="122.25"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="95.25"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="95.25" ss:Span="1"/>
+   <Column ss:Index="32" ss:StyleID="s62" ss:Width="105"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="213.75"/>
+   <Column ss:StyleID="s62" ss:Width="70.5" ss:Span="1"/>
+   <Column ss:Index="36" ss:StyleID="s62" ss:Width="82.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="77.25"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="555.75"/>
+   <Column ss:StyleID="s62" ss:Width="479.25"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="441"/>
+   <Column ss:StyleID="s62" ss:Width="66"/>
+   <Column ss:StyleID="s62" ss:Width="75" ss:Span="1"/>
+   <Column ss:Index="44" ss:StyleID="s62" ss:Width="84.75"/>
+   <Column ss:StyleID="s62" ss:Width="66"/>
+   <Column ss:StyleID="s62" ss:Width="95.25"/>
+   <Column ss:StyleID="s62" ss:Width="157.5" ss:Span="1"/>
+   <Column ss:Index="49" ss:StyleID="s62" ss:Width="210"/>
+   <Column ss:StyleID="s62" ss:Width="75.75"/>
+   <Column ss:StyleID="s62" ss:Width="75"/>
+   <Column ss:StyleID="s62" ss:Width="227.25"/>
+   <Column ss:StyleID="s62" ss:Width="166.5"/>
+   <Column ss:StyleID="s62" ss:Width="69.75"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="134.25"/>
+   <Column ss:StyleID="s62" ss:Width="35.25"/>
+   <Column ss:StyleID="s62" ss:Width="63"/>
+   <Column ss:StyleID="s62" ss:Width="52.5"/>
+   <Column ss:StyleID="s62" ss:Width="89.25" ss:Span="1"/>
+   <Column ss:Index="61" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="103.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="267"/>
+   <Column ss:StyleID="s62" ss:Width="102.75"/>
+   <Column ss:StyleID="s62" ss:Width="136.5"/>
+   <Column ss:StyleID="s62" ss:Width="94.5"/>
+   <Column ss:StyleID="s62" ss:Width="99" ss:Span="2"/>
+   <Column ss:Index="70" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="478.5"/>
+   <Column ss:StyleID="s62" ss:Width="106.5"/>
+   <Column ss:StyleID="s62" ss:Width="96"/>
+   <Column ss:StyleID="s62" ss:Width="104.25"/>
+   <Column ss:StyleID="s62" ss:Width="123.75"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="126"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="61.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="56.25"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="87"/>
+   <Row ss:StyleID="s65">
+    <Cell><Data ss:Type="String">sysname</Data></Cell>
+    <Cell><Data ss:Type="String">mass</Data></Cell>
+    <Cell><Data ss:Type="String">max_acceleration</Data></Cell>
+    <Cell><Data ss:Type="String">max_deceleration</Data></Cell>
+    <Cell><Data ss:Type="String">max_velocity</Data></Cell>
+    <Cell><Data ss:Type="String">deceleration_factor</Data></Cell>
+    <Cell><Data ss:Type="String">max_reverse_velocity</Data></Cell>
+    <Cell><Data ss:Type="String">max_oscillation_angle</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">max_vert_angle</Data></Cell>
+    <Cell><Data ss:Type="String">angle_accel</Data></Cell>
+    <Cell><Data ss:Type="String">angle_velocity</Data></Cell>
+    <Cell><Data ss:Type="String">turn_radius</Data></Cell>
+    <Cell><Data ss:Type="String">turn_radius_deviation</Data></Cell>
+    <Cell><Data ss:Type="String">abilities</Data></Cell>
+    <Cell><Data ss:Type="String">perks</Data></Cell>
+    <Cell><Data ss:Type="String">defence</Data></Cell>
+    <Cell><Data ss:Type="String">hide</Data></Cell>
+    <Cell><Data ss:Type="String">vision_radius</Data></Cell>
+    <Cell><Data ss:Type="String">detection_radius_stay</Data></Cell>
+    <Cell><Data ss:Type="String">detection_radius_move</Data></Cell>
+    <Cell><Data ss:Type="String">detection_radius_shoot</Data></Cell>
+    <Cell><Data ss:Type="String">sprite_type</Data></Cell>
+    <Cell><Data ss:Type="String">crushable_class</Data></Cell>
+    <Cell><Data ss:Type="String">crusher_class</Data></Cell>
+    <Cell><Data ss:Type="String">fuel_consumption</Data></Cell>
+    <Cell><Data ss:Type="String">fuel_tank_capacity</Data></Cell>
+    <Cell><Data ss:Type="String">people_capacity</Data></Cell>
+    <Cell><Data ss:Type="String">capacity_ammo_recharger</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">cost_of_dead</Data></Cell>
+    <Cell><Data ss:Type="String">command_points</Data></Cell>
+    <Cell><Data ss:Type="String">cost</Data></Cell>
+    <Cell><Data ss:Type="String">spares</Data></Cell>
+    <Cell><Data ss:Type="String">reaction_blackboard</Data></Cell>
+    <Cell><Data ss:Type="String">is_tractor</Data></Cell>
+    <Cell><Data ss:Type="String">is_trailer</Data></Cell>
+    <Cell><Data ss:Type="String">max_trailer_angle</Data></Cell>
+    <Cell><Data ss:Type="String">guns</Data></Cell>
+    <Cell><Data ss:Type="String">gun_mounts</Data></Cell>
+    <Cell><Data ss:Type="String">ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">modules</Data></Cell>
+    <Cell><Data ss:Type="String">category</Data></Cell>
+    <Cell><Data ss:Type="String">unit_class</Data></Cell>
+    <Cell><Data ss:Type="String">line_of_fire_rank</Data></Cell>
+    <Cell><Data ss:Type="String">unit_set</Data></Cell>
+    <Cell><Data ss:Type="String">driving_class</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">hover_image_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">hover_image_player</Data></Cell>
+    <Cell><Data ss:Type="String">mesh</Data></Cell>
+    <Cell><Data ss:Type="String">voices</Data></Cell>
+    <Cell><Data ss:Type="String">infogramm_type</Data></Cell>
+    <Cell><Data ss:Type="String">exhaust_points</Data></Cell>
+    <Cell><Data ss:Type="String">dust_points</Data></Cell>
+    <Cell><Data ss:Type="String">exhaust_effect</Data></Cell>
+    <Cell><Data ss:Type="String">dust_effect</Data></Cell>
+    <Cell><Data ss:Type="String">wheels</Data></Cell>
+    <Cell><Data ss:Type="String">destroy_flash</Data></Cell>
+    <Cell><Data ss:Type="String">animations</Data></Cell>
+    <Cell><Data ss:Type="String">special_animation1</Data></Cell>
+    <Cell><Data ss:Type="String">special_animation2</Data></Cell>
+    <Cell><Data ss:Type="String">open_door_animation</Data></Cell>
+    <Cell><Data ss:Type="String">close_door_animation</Data></Cell>
+    <Cell><Data ss:Type="String">destroy_sound</Data></Cell>
+    <Cell><Data ss:Type="String">destroy_spot_texture</Data></Cell>
+    <Cell><Data ss:Type="String">destroy_spot_radius</Data></Cell>
+    <Cell><Data ss:Type="String">destroy_spot_lifetime</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">explode_damage</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">explode_splash_radius</Data></Cell>
+    <Cell><Data ss:Type="String">passable_type</Data></Cell>
+    <Cell><Data ss:Type="String">hatch_animations</Data></Cell>
+    <Cell><Data ss:Type="String">destroy_flash_intensity</Data></Cell>
+    <Cell><Data ss:Type="String">destroy_flash_radius</Data></Cell>
+    <Cell><Data ss:Type="String">destroy_flash_duration</Data></Cell>
+    <Cell><Data ss:Type="String">destroy_effect</Data></Cell>
+    <Cell><Data ss:Type="String">tech_pic</Data></Cell>
+    <Cell><Data ss:Type="String">status_pic</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sort_priority</Data></Cell>
+    <Cell><Data ss:Type="String">call_crew</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s175">
+    <Cell ss:StyleID="s109"><Data ss:Type="String">tank_tiger1</Data></Cell>
+    <Cell ss:StyleID="s119"><Data ss:Type="Number">13.2</Data></Cell>
+    <Cell ss:StyleID="s148"><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s147"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s147"><Data ss:Type="Number">0.33</Data></Cell>
+    <Cell ss:StyleID="s147"><Data ss:Type="Number">6.02</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s149"><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s147"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s147"/>
+    <Cell ss:StyleID="s147"/>
+    <Cell ss:StyleID="s147"/>
+    <Cell ss:StyleID="s147"/>
+    <Cell><Data ss:Type="Number">120</Data></Cell>
+    <Cell><Data ss:Type="Number">80</Data></Cell>
+    <Cell><Data ss:Type="Number">150</Data></Cell>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell><Data ss:Type="String">directed</Data></Cell>
+    <Cell ss:StyleID="s147"/>
+    <Cell ss:StyleID="s113"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="Number">84</Data></Cell>
+    <Cell ss:StyleID="s114"><Data ss:Type="Number">462</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="Number">2000</Data></Cell>
+    <Cell ss:StyleID="s150"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s151"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s151"><Data ss:Type="Number">1000</Data></Cell>
+    <Cell ss:StyleID="s151"><Data ss:Type="Number">1500</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="String">medium_vehicle,heavy_vehicle</Data></Cell>
+    <Cell ss:StyleID="s147"/>
+    <Cell ss:StyleID="s147"/>
+    <Cell ss:StyleID="s147"/>
+    <Cell ss:StyleID="s116"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">tiger1_main_gun,tiger1_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">shell_125ap:40,ammo_762x54:1200</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">tiger1_tracks,tiger1_turret,tiger1_gun,tiger1_engine,tiger1_base</Data></Cell>    
+	<Cell ss:StyleID="s147"><Data ss:Type="String">tank</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">tank</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="String">tank</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">tank</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">sirian_tank_crew_01</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">UnitTypeIcon\vehicle_enemy</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">UnitTypeIcon\vehicle_player</Data></Cell>
+    <Cell ss:StyleID="s125"><Data ss:Type="String">models/vehicles/tank_tiger1.mld</Data></Cell>
+    <Cell ss:StyleID="s156"><Data ss:Type="String">bmd_voices</Data></Cell>
+    <Cell><Data ss:Type="String">tank</Data></Cell>
+    <Cell ss:StyleID="s147"><Data ss:Type="String">korpus.exhaustsmoke01</Data></Cell>
+    <Cell ss:StyleID="s147"><Data ss:Type="String">korpus.exhaust01,korpus.exhaust02</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">_exhaust_tank</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">_dust_tank_medium</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">korpus.st_wheel01,korpus.st_wheel02,korpus.st_wheel03,korpus.st_wheel04,korpus.st_wheel05,korpus.st_wheel06,korpus.st_wheel07,korpus.st_wheel08,korpus.st_wheel09,korpus.st_wheel10,korpus.st_wheel11,korpus.st_wheel12,korpus.st_wheel13,korpus.st_wheel14,korpus.st_wheel15,korpus.st_wheel16,korpus.st_wheel17,korpus.st_wheel18,korpus.st_wheel19,korpus.st_wheel20</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">yes</Data></Cell>
+    <Cell ss:StyleID="s147"/>
+    <Cell ss:StyleID="s147"/>
+    <Cell ss:StyleID="s147"/>
+    <Cell ss:StyleID="s125"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s125"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">blast/destroy_sound/3</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">spots/blast_vehicle_burned</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">390</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">2-5:he400</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">heavy</Data></Cell>
+	<Cell ss:StyleID="s140"><Data ss:Type="String">animations\vehicles\tank_tiger1_open.mld; animations\vehicles\tank_tiger1_close.mld</Data></Cell>
+    <Cell ss:Index="71"><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">_destruction_tank_light:0.9</Data></Cell>
+    <Cell><Data ss:Type="String">pic_tank_tiger1</Data></Cell>
+    <Cell ss:Index="76" ss:StyleID="s72"><Data ss:Type="String">tank_t72</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Boolean">1</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Data="&amp;Я"/>
+    <Footer x:Data="Page &amp;С"/>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+    <Gridlines/>
+   </Print>
+   <PageBreakZoom>60</PageBreakZoom>
+   <Selected/>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>28</TopRowBottomPane>
+   <SplitVertical>1</SplitVertical>
+   <LeftColumnRightPane>71</LeftColumnRightPane>
+   <ActivePane>0</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>1</Number>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>1</ActiveRow>
+    </Pane>
+    <Pane>
+     <Number>0</Number>
+     <ActiveRow>48</ActiveRow>
+     <ActiveCol>75</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

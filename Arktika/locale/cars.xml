@@ -1,0 +1,779 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>dieman</LastAuthor>
+  <Created>2005-02-26T16:04:39Z</Created>
+  <LastSaved>2017-02-17T00:30:10Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12480</WindowHeight>
+  <WindowWidth>25200</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <RefModeR1C1/>
+  <NoAutoRecover/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Normal 4">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#3333CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#CC99FF"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#CC99FF"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+  </Style>
+  <Style ss:ID="s71" ss:Parent="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#002060" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s72" ss:Parent="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s74" ss:Parent="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s75">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s76">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s77">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#002060" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s78" ss:Parent="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s79" ss:Parent="s62">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s80">
+   <Alignment ss:Vertical="Bottom"/>
+   <Interior ss:Color="#002060" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s81">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#0070C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s82">
+   <Alignment ss:Vertical="Bottom"/>
+   <Interior ss:Color="#0070C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s83" ss:Parent="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#0070C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s84" ss:Parent="s62">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s85" ss:Parent="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s86">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFF00"/>
+   <Interior ss:Color="#002060" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s87">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s88">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#0070C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s89">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s90">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s92">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s93" ss:Parent="s62">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s95">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Interior ss:Color="#0070C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s96" ss:Parent="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#0070C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s97" ss:Parent="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#0070C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s98" ss:Parent="s62">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s99" ss:Parent="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#002060" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s100">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s101" ss:Parent="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#538DD5" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s102" ss:Parent="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#002060" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s103">
+   <Alignment ss:Vertical="Bottom"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="tanks">
+  <Table ss:ExpandedColumnCount="14" ss:ExpandedRowCount="84" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s63">
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="252"/>
+   <Column ss:StyleID="s63" ss:Width="130.5"/>
+   <Column ss:StyleID="s65" ss:AutoFitWidth="0" ss:Width="982.5"/>
+   <Column ss:StyleID="s63" ss:Width="61.5"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="258"/>
+   <Column ss:StyleID="s63" ss:Width="31.5"/>
+   <Column ss:StyleID="s63" ss:Width="193.5"/>
+   <Column ss:StyleID="s63" ss:Width="56.25"/>
+   <Column ss:Index="10" ss:StyleID="s63" ss:Width="170.25"/>
+   <Column ss:StyleID="s63" ss:Width="66"/>
+   <Column ss:StyleID="s63" ss:Width="72"/>
+   <Column ss:StyleID="s63" ss:Width="55.5"/>
+   <Column ss:StyleID="s63" ss:Width="69"/>
+   <Row ss:StyleID="s66">
+    <Cell><Data ss:Type="String">sysname</Data></Cell>
+    <Cell><Data ss:Type="String">content</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">description</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s69">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">btr80_gun</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">БТР-80A усиленный</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Самая современная и самая тяжёлая модификация старого БТР-80 советского производства. &quot;Лучшая защита - это нападение&quot;, подумали конструкторы и усилили вооружение. Автоматическая 30-мм пушка в башне - неплохой аргумент при общении с пехотой противника, засевшей в доме. Чтобы устранить проблемы защиты, борта машины были усилены навесной противокумулятивной сеткой, которая повысила живучесть не только от гранат РПГ, но и от пуль калибра 7.62 и 12.7 мм. Но увеличение массы почти на две тонны не прошло бесследно: максимальная скорость машины заметно снизилась.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s69">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">btr80_arm</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">БТР-80 усиленный</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Продолжение эволюции колёсных БТР, созданных в СССР на опыте афганской войны. Получив новый двигатель и переработанный корпус, БТР-80 стал быстрее, надёжнее и мобильнее. Новая трансмиссия лучше переносит попадания пуль и осколков, а десант может быстрее покидать машину через двустворчатые двери в бортах. Чтобы устранить проблемы защиты, борта машины были усилены навесной противокумулятивной сеткой, которая повысила живучесть не только от гранат РПГ, но и от пуль калибра 7.62 и 12.7 мм. Правда, при этом немного пострадали скоростные характеристики, но на проходимости увеличение массы практически не сказалось.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s69">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">btr80_base</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">БТР-80</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Продолжение эволюции колёсных БТР, созданных в СССР на опыте афганской войны. Получив новый двигатель и переработанный корпус, БТР-80 стал быстрее, надёжнее и мобильнее. Новая трансмиссия лучше переносит попадания пуль и осколков, а десант может быстрее покидать машину через двустворчатые двери в бортах. Впрочем, старые проблемы с защитой остались: броня уверенно держит с любого расстояния только пули калибра 5.45, а реактивные гранаты при попадании её просто проламывают.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s69">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">btr70</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">БТР-70</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Старый колёсный БТР, в целом повторяющий компоновку своего предшественника БТР-60ПБ. Вооружён спаренными пулемётами калибра 14,5 мм и 7,62 мм.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s69">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">brdm</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">БРДМ-2</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">В шестидесятых годах прошлого века это был настоящий прорыв в области дозорно-разведывательных машин, однако к моменту начала боевых действий в Сирии, БРДМ уже считали безнадёжно устаревшей. Но реалии сирийский войны показали, что на фоне самодельных &quot;техничек&quot; и &quot;гантраков&quot; БРДМ-2 еще смотрится молодцом и способна при умелом использовании сильно навредить вражеской пехоте и легкобронированной техники. Вооружена спаренными пулемётами калибра 14,5 мм и 7,62 мм.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s69">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">brdm_missile</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">БРДМ-2 (ПТУР)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Относительно редкая модификация советских БРДМ-2, снаряжённая пусковой установкой для ПТУР. Несмотря на древность конструкции, смертельно опасна для танков и других машин.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s69">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">grad</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">«Град» РСЗО</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Дивизионная система залпового огня &quot;Град&quot; так же эффективна, как и проста. По сути, она отличается от легендарной &quot;Катюши&quot; только новыми боеприпасами и прицельными приборами, принцип поражения врага на большой площади огромной огневой мощью остался прежним. &quot;Град&quot; с 60-х годов прошлого века массово распространялся по миру. Он никогда не был аргументом убеждения или точным инструментом - это всегда было последнее слово в споре. После залпов 122-мм снарядов на площади в несколько гектаров разговаривать уже было не с кем...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">guntrack_kpvt</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">«Техничка» с башней (КП)</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Стандартная &quot;боевая машина&quot; террористов. Собрана из подручных материалов на основе гражданского автомобиля. Металлические пластины обеспечивают минимальную защиту, а кузов позволяет оборудовать её вооружением. Практически ничем не уступает правительственным гантракам кроме эстетических качеств.&#10;Данная модель оборудована башней с крупнокалиберным пулемётом, снятой с подбитого БТР.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">guntrack_grenade</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">«Техничка» (АГ)</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Стандартная &quot;боевая машина&quot; террористов. Собрана из подручных материалов на основе гражданского автомобиля. Металлические пластины обеспечивают минимальную защиту, а кузов позволяет оборудовать её вооружением. Практически ничем не уступает правительственным гантракам кроме эстетических качеств.&#10;Данная модель предназначена для разведки и прикрытия пехоты, вооружена 40-мм автоматическим гранатомётом в бронированной турели.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">guntrack_turret</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">«Техничка» (АГ)</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Стандартная &quot;боевая машина&quot; террористов. Собрана из подручных материалов на основе гражданского автомобиля. Металлические пластины обеспечивают минимальную защиту, а кузов позволяет оборудовать её вооружением. Практически ничем не уступает правительственным гантракам кроме эстетических качеств.&#10;Данная модель предназначена для разведки и прикрытия пехоты, вооружена крупнокалиберным пулемётом  в бронированной турели.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">guntrack_agtm</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">«Техничка» (ПТУР)</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Стандартная &quot;боевая машина&quot; террористов. Собрана из подручных материалов на основе гражданского автомобиля. Металлические пластины обеспечивают минимальную защиту, а кузов позволяет оборудовать её вооружением. Практически ничем не уступает правительственным гантракам кроме эстетических качеств.&#10;Данная модель предназначена для уничтожения вражеской техники, оборудована системой пуска ПТУР.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">guntrack_grenade_noarm</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">«Техничка» (АГ)</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Стандартная &quot;боевая машина&quot; террористов. Собрана из подручных материалов на основе гражданского автомобиля. Металлические пластины обеспечивают минимальную защиту, а кузов позволяет оборудовать её вооружением. Практически ничем не уступает правительственным гантракам кроме эстетических качеств.&#10;Данная модель предназначена для разведки и прикрытия пехоты, вооружена 40-мм автоматическим гранатомётом в бронированной турели.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">guntrack_turret_noarm</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">«Техничка» (КП)</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Стандартная &quot;боевая машина&quot; террористов. Собрана из подручных материалов на основе гражданского автомобиля. Металлические пластины обеспечивают минимальную защиту, а кузов позволяет оборудовать её вооружением. Практически ничем не уступает правительственным гантракам кроме эстетических качеств.&#10;Данная модель предназначена для разведки и прикрытия пехоты, вооружена крупнокалиберным пулемётом  в бронированной турели.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s80">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">guntrack</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">«Техничка» транспорт</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Стандартная &quot;боевая машина&quot; террористов. Собрана из подручных материалов на основе гражданского автомобиля. Металлические пластины обеспечивают минимальную защиту, а кузов позволяет оборудовать её вооружением. Практически ничем не уступает правительственным гантракам кроме эстетических качеств.&#10;Данная модель предназначена для перевозки десанта в закрытом кузове, поэтому не несет дополнительного вооружения.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">guntrack_mlrs</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">«Техничка» (РСЗО)</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Стандартная &quot;боевая машина&quot; террористов. Собрана из подручных материалов на основе гражданского автомобиля. Металлические пластины обеспечивают минимальную защиту, а кузов позволяет оборудовать её вооружением. Практически ничем не уступает правительственным гантракам кроме эстетических качеств.&#10;Данная модель вооружена установкой залпового огня. Дальность залпа и его точность принесены в жертву большей мощности и области поражения.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s82">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">guntrack_bmp1</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">«Техничка» с башней БМП-1</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Стандартная &quot;боевая машина&quot; террористов. Собрана из подручных материалов на основе гражданского автомобиля. Металлические пластины обеспечивают минимальную защиту, а кузов позволяет оборудовать её вооружением. Практически ничем не уступает правительственным гантракам кроме эстетических качеств.&#10;Данная модель оборудована башней, снятой с подбитой БМП-1.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s82">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">guntrack_b10</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">«Техничка» (БО)</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Стандартная &quot;боевая машина&quot; террористов. Собрана из подручных материалов на основе гражданского автомобиля. Металлические пластины обеспечивают минимальную защиту, а кузов позволяет оборудовать её вооружением. Практически ничем не уступает правительственным гантракам кроме эстетических качеств.&#10;Данная модель оборудована 82-мм безоткатным орудием.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s82">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">hamvee_browning</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">«Хамви» (КП)</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Американский армейский внедорожник HMMWV, захваченный террористами в Ираке. По бронированию и ходовым качествам мало отличается от обычного гантрака, оборудован крупнокалиберным пулемётом, эффективным против живой силы и лёгкой техники.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">guntrack_01</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Гантрак усиленный (КП)</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Гантрак - это собирательное название для гражданских грузовиков, переоборудованных в боевые машины. Как правило, у них плохая броня и узкая специализация, но они всё равно пользуются популярностью за счёт быстрого и дешёвого производства. Даже правительственные войска не брезгуют ими.&#10;Данная модель предназначена для разведки и прикрытия пехоты, вооружена крупнокалиберным пулемётом в бронированной турели.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">guntrack_01_noarm</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Гантрак (КП)</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Гантрак - это собирательное название для гражданских грузовиков, переоборудованных в боевые машины. Как правило, у них плохая броня и узкая специализация, но они всё равно пользуются популярностью за счёт быстрого и дешёвого производства. Даже правительственные войска не брезгуют ими.&#10;Данная модель предназначена для разведки и прикрытия пехоты, вооружена крупнокалиберным пулемётом.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">guntrack_01_grenade</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Гантрак усиленный (АГ)</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Гантрак - это собирательное название для гражданских грузовиков, переоборудованных в боевые машины. Как правило, у них плохая броня и узкая специализация, но они всё равно пользуются популярностью за счёт быстрого и дешёвого производства. Даже правительственные войска не брезгуют ими.&#10;Данная модель предназначена для разведки и прикрытия пехоты, вооружена 40-мм автоматическим гранатомётом в бронированной турели.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">guntrack_01_grenade_noarm</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Гантрак (АГ)</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Гантрак - это собирательное название для гражданских грузовиков, переоборудованных в боевые машины. Как правило, у них плохая броня и узкая специализация, но они всё равно пользуются популярностью за счёт быстрого и дешёвого производства. Даже правительственные войска не брезгуют ими.&#10;Данная модель предназначена для разведки и прикрытия пехоты, вооружена 40-мм автоматическим гранатомётом.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">guntrack_01_ptur</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Гантрак (ПТУР)</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Гантрак - это собирательное название для гражданских грузовиков, переоборудованных в боевые машины. Как правило, у них плохая броня и узкая специализация, но они всё равно пользуются популярностью за счёт быстрого и дешёвого производства. Даже правительственные войска не брезгуют ими.&#10;Данная модель предназначена для уничтожения вражеской техники, оборудована системой пуска ПТУР.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">guntrack_01_kpvt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Гантрак с башней (КП)</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Гантрак - это собирательное название для гражданских грузовиков, переоборудованных в боевые машины. Как правило, у них плохая броня и узкая специализация, но они всё равно пользуются популярностью за счёт быстрого и дешёвого производства. Даже правительственные войска не брезгуют ими.&#10;Данная модель оборудована башней от списанного БТР с крупнокалиберным пулемётом.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">guntrack_01_mlrs</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Гантрак (РСЗО)</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Гантрак - это собирательное название для гражданских грузовиков, переоборудованных в боевые машины. Как правило, у них плохая броня и узкая специализация, но они всё равно пользуются популярностью за счёт быстрого и дешёвого производства. Даже правительственные войска не брезгуют ими.&#10;Данная модель вооружена установкой залпового огня. Дальность залпа и его точность принесены в жертву большей мощности и области поражения.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">guntrack_01_transporter</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Гантрак транспорт</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Гантрак - это собирательное название для гражданских грузовиков, переоборудованных в боевые машины. Как правило, у них плохая броня и узкая специализация, но они всё равно пользуются популярностью за счёт быстрого и дешёвого производства. Даже правительственные войска не брезгуют ими. &#10;Данная модель предназначена для перевозки десанта в закрытом кузове, поэтому не несет дополнительного вооружения.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">guntrack_01_zsu</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Гантрак (ЗУ)</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Гантрак - это собирательное название для гражданских грузовиков, переоборудованных в боевые машины. Как правило, у них плохая броня и узкая специализация, но они всё равно пользуются популярностью за счёт быстрого и дешёвого производства. Даже правительственные войска не брезгуют ими.&#10;Данная модель оборудована спаренной зенитной установкой ЗУ-23-2, смонтированной в закрытой бронированной турели.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s82">
+    <Cell ss:StyleID="s88"><Data ss:Type="String">guntrack_01_b10</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Гантрак (БО)</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Гантрак - это собирательное название для гражданских грузовиков, переоборудованных в боевые машины. Как правило, у них плохая броня и узкая специализация, но они всё равно пользуются популярностью за счёт быстрого и дешёвого производства. Даже правительственные войска не брезгуют ими.&#10;Данная модель оборудована 82-мм безоткатным орудием.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s69">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">toyota_gun</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">«Хайлакс» (КП)</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">&quot;Рабочая лошадка&quot; пастуха, крестьянина или мелкого торговца - полноприводный пикап. Благодаря мощному двигателю и усиленной раме неожиданно стал заменой полноценным боевым машинам. В кузове восточные и африканские умельцы монтировали любое оружие, которое не под силу переносить пехотному взводу - от пулемёта до реактивных миномётов.&#10;Данная модель предназначена для разведки и прикрытия пехоты, вооружена крупнокалиберным пулемётом.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s69">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">toyota_40mm</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">«Хайлакс» (АГ)</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">&quot;Рабочая лошадка&quot; пастуха, крестьянина или мелкого торговца - полноприводный пикап. Благодаря мощному двигателю и усиленной раме неожиданно стал заменой полноценным боевым машинам. В кузове восточные и африканские умельцы монтировали любое оружие, которое не под силу переносить пехотному взводу - от пулемёта до реактивных миномётов.&#10;Данная модель предназначена для разведки и прикрытия пехоты, вооружена 40-мм автоматическим гранатомётом.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s69">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">toyota_track</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">«Хайлакс» транспорт</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">&quot;Рабочая лошадка&quot; пастуха, крестьянина или мелкого торговца - полноприводный пикап. Благодаря мощному двигателю и усиленной раме неожиданно стал заменой полноценным боевым машинам. В кузове восточные и африканские умельцы монтировали любое оружие, которое не под силу переносить пехотному взводу - от пулемёта до реактивных миномётов.&#10;Данная модель предназначена для перевозки десанта в закрытом кузове, поэтому не несет дополнительного вооружения.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s69">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">toyota_guntruck</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">«Хайлакс» (РСЗО) </Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">&quot;Рабочая лошадка&quot; пастуха, крестьянина или мелкого торговца - полноприводный пикап. Благодаря мощному двигателю и усиленной раме неожиданно стал заменой полноценным боевым машинам, преимущественно в странах Азии и Африки. В кузове местные умельцы монтировали любое оружие, которое не под силу переносить пехотному взводу - от пулемёта до реактивных миномётов.&#10;Данная модель вооружена установкой залпового огня. Дальность залпа и его точность принесены в жертву большей мощности и области поражения.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">toyota_shahid</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Смертник на пикапе</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Гражданский пикап, до краёв напичканный взрывчаткой.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s95">
+    <Cell ss:StyleID="s96"><Data ss:Type="String">toyota_b10</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">«Хайлакс» (БО) </Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">&quot;Рабочая лошадка&quot; пастуха, крестьянина или мелкого торговца - полноприводный пикап. Благодаря мощному двигателю и усиленной раме неожиданно стал заменой полноценным боевым машинам, преимущественно в странах Азии и Африки. В кузове местные умельцы монтировали любое оружие, которое не под силу переносить пехотному взводу - от пулемёта до реактивных миномётов.&#10;Данная модель оборудована 82-мм безоткатным орудием.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s95">
+    <Cell ss:StyleID="s96"><Data ss:Type="String">gaz_tiger</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">«Тигр» (КП)</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">Российский многоцелевой бронеавтомобиль повышенной проходимости, изначально сделанный по заказу компании из ОАЭ. Впоследствии после доработок принят на вооружение РФ для использования в различных модификациях подразделениями ГРУ, МВД и спецназа. Данная модель в дополнение к крупнокалиберному пулемёту &quot;Корд&quot; оборудована системой пуска дымовых гранат. По бронированию и ходовым качествам мало отличается от обычного гантрака.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:StyleID="s95">
+    <Cell ss:StyleID="s96"><Data ss:Type="String">zu23</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">ЗУ-23</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">Стационарная спаренная зенитная установка, смонтированная в закрытой бронированной турели. Предназначена для противовоздушной обороны, но может с успехом использоваться против пехоты и легкобронированной наземной техники.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s69">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sadko_cabin</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">«ГАЗ» транспорт</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">ГАЗ-3308 &quot;Садко&quot; - сравнительно недавняя модель грузовика-вездехода, выпускаемая на знаменитом Горьковском автомобильном заводе. &quot;Садко&quot; с его высокой проходимостью, скоростью и надёжностью хорошо зарекомендовал себя в боевых условиях, в частности, в качестве транспортного средства для пехотных подразделений. Первая партия Газ-3308 была отправлена в Сирию 10 лет назад. Сирийские военные после испытаний потребовали внести лишь минимальные изменения в изначально удачную модель.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="51" ss:StyleID="s69">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sadko_truck</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">«ГАЗ» машина снабжения</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">ГАЗ-3308 &quot;Садко&quot; - сравнительно недавняя модель грузовика-вездехода, выпускаемая на знаменитом Горьковском автомобильном заводе. &quot;Садко&quot; с его высокой проходимостью, скоростью и надёжностью хорошо зарекомендовал себя в боевых условиях, в частности, в качестве транспортного средства для пехотных подразделений. Первая партия Газ-3308 была отправлена в Сирию 10 лет назад. Сирийские военные после испытаний потребовали внести лишь минимальные изменения в изначально удачную модель.&#10;Данная модель перевозит амуницию для пехоты и техники.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:StyleID="s69">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ural_cabin</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">«Урал» транспорт</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Семейство грузовиков &quot;Урал-375&quot; сразу создавалось с прицелом на широкую унификацию в армейских подразделениях, хотя его главной задачей была и остается перевозка грузов и солдат. Пятитонный грузовик отлично справлялся с этим в самых трудных условиях - от морозов Крайнего Севера до палящей жары Афганистана.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s69">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ural_tanker</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">«Урал» топливозаправщик</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Семейство грузовиков &quot;Урал-375&quot; сразу создавалось с прицелом на широкую унификацию в армейских подразделениях, хотя его главной задачей была и остается перевозка грузов и солдат. Пятитонный грузовик отлично справлялся с этим в самых трудных условиях - от морозов Крайнего Севера до палящей жары Афганистана. &#10;Данная модель перевозит топливо в цистерне и может служить мобильной заправочной станцией.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="39" ss:StyleID="s69">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ural_truck</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">«Урал» машина снабжения</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Семейство грузовиков &quot;Урал-375&quot; сразу создавалось с прицелом на широкую унификацию в армейских подразделениях, хотя его главной задачей была и остается перевозка грузов и солдат. Пятитонный грузовик отлично справлялся с этим в самых трудных условиях - от морозов Крайнего Севера до палящей жары Афганистана. &#10;Данная модель перевозит амуницию для пехоты и техники.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s99"><Data ss:Type="String">ambulancespeed</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Скорая помощь</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Угнанная машина скорой помощи. Движется подозрительно медленно.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">bus_01</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Автобус</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Автобус для перевозки большого количества пассажиров.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">bus_02</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Автобус</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Автобус для перевозки большого количества пассажиров.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">bus_03</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Автобус</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Автобус для перевозки большого количества пассажиров.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">bus_04_green</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Автобус</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Знаменитый зеленый автобус.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">concretemixer</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Бетономешалка</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Мешает бетон. Бригада строителей…</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">crane</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Кран</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Машина для строительных работ.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">fiat</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Автомобиль</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Легковой автомобиль.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s101"><Data ss:Type="String">firetanker</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Пожарная машина</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Правительственная машина пожарных.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">honda</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Автомобиль</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Легковой автомобиль.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mazda</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Автомобиль</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Легковой автомобиль.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">minivan</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Микроавтобус</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Микроавтобус</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mitsubishi</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Автомобиль</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Легковой автомобиль.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">nissan</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Автомобиль</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Легковой автомобиль.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">plymouth</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Автомобиль</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Легковой автомобиль.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">police_01</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Полицейский автомобиль</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Полицейская служебная машина.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">police_02</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Полицейский автомобиль</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Полицейская служебная машина.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">renault</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Автомобиль</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Легковой автомобиль.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s92">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">willis</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Автомобиль</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Легковой автомобиль.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">tractor</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Трактор</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Трактор для сельскохозяйственных работ.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">tractor02</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Трактор</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Трактор для сельскохозяйственных работ.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">tractor03</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Трактор</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Трактор для сельскохозяйственных работ.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">truck_01</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Грузовик</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Гражданский грузовик.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">truck_02</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Грузовик</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Гражданский грузовик.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">truck_03</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Грузовик</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Гражданский грузовик.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ural_VBIED</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Смертник на грузовике</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Грузовик «Урал», до краёв напичканный взрывчаткой.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ural_VBIED_armored</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Смертник на грузовике</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Грузовик «Урал», до краёв напичканный взрывчаткой и обвешанный железными листами для защиты.</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ural_trailer</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Прицеп</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Прицеп от «Урала».</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s92">
+    <Cell ss:StyleID="s101"><Data ss:Type="String">ural_demopack</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">«Урал»</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Грузовик «Урал».</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">truck01_yellow</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Грузовик</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Большой гражданский грузовик без прицепа.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">truck01_red</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Грузовик</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Большой гражданский грузовик без прицепа.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">truck01_blue</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Грузовик</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Большой гражданский грузовик без прицепа.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">truck01_fuel_blue</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Бензовоз</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Машина для перевозки топлива и дозаправки других машин.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">truck01_fuel_red</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Бензовоз</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Машина для перевозки топлива и дозаправки других машин.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">truck01_fuel_yellow</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Бензовоз</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Машина для перевозки топлива и дозаправки других машин.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">pickup_blue</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Пикап</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Гражданский пикап.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">pickup_dark_blue</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Пикап</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Гражданский пикап.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">pickup_dark_red</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Пикап</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Гражданский пикап.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">pickup_gold</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Пикап</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Гражданский пикап.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">pickup_green</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Пикап</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Гражданский пикап.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">pickup_police</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Полицейский пикап</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Полицейский служебный пикап, который используют тогда, когда легковая машина не подходит.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">low_poly_btr</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Странный БТР</Data></Cell>
+    <Cell><Data ss:Type="String">Какой то странный БТР, говорят для тестирования новых моделей</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Data="&amp;Я"/>
+    <Footer x:Data="Page &amp;С"/>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+    <Gridlines/>
+   </Print>
+   <Selected/>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>55</TopRowBottomPane>
+   <SplitVertical>1</SplitVertical>
+   <LeftColumnRightPane>1</LeftColumnRightPane>
+   <ActivePane>0</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>1</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>1</ActiveRow>
+    </Pane>
+    <Pane>
+     <Number>0</Number>
+     <ActiveRow>70</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

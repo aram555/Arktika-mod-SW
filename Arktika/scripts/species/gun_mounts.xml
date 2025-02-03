@@ -1,0 +1,2675 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Admin</Author>
+  <LastAuthor>Test</LastAuthor>
+  <Created>2005-02-26T16:04:39Z</Created>
+  <LastSaved>2018-11-10T06:21:04Z</LastSaved>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <Colors>
+   <Color>
+    <Index>16</Index>
+    <RGB>#8080FF</RGB>
+   </Color>
+   <Color>
+    <Index>17</Index>
+    <RGB>#802060</RGB>
+   </Color>
+   <Color>
+    <Index>18</Index>
+    <RGB>#FFFFC0</RGB>
+   </Color>
+   <Color>
+    <Index>19</Index>
+    <RGB>#A0E0E0</RGB>
+   </Color>
+   <Color>
+    <Index>20</Index>
+    <RGB>#600080</RGB>
+   </Color>
+   <Color>
+    <Index>22</Index>
+    <RGB>#0080C0</RGB>
+   </Color>
+   <Color>
+    <Index>23</Index>
+    <RGB>#C0C0FF</RGB>
+   </Color>
+   <Color>
+    <Index>33</Index>
+    <RGB>#69FFFF</RGB>
+   </Color>
+   <Color>
+    <Index>36</Index>
+    <RGB>#A6CAF0</RGB>
+   </Color>
+   <Color>
+    <Index>37</Index>
+    <RGB>#CC9CCC</RGB>
+   </Color>
+   <Color>
+    <Index>39</Index>
+    <RGB>#E3E3E3</RGB>
+   </Color>
+   <Color>
+    <Index>42</Index>
+    <RGB>#339933</RGB>
+   </Color>
+   <Color>
+    <Index>43</Index>
+    <RGB>#999933</RGB>
+   </Color>
+   <Color>
+    <Index>44</Index>
+    <RGB>#996633</RGB>
+   </Color>
+   <Color>
+    <Index>45</Index>
+    <RGB>#996666</RGB>
+   </Color>
+   <Color>
+    <Index>48</Index>
+    <RGB>#3333CC</RGB>
+   </Color>
+   <Color>
+    <Index>49</Index>
+    <RGB>#336666</RGB>
+   </Color>
+   <Color>
+    <Index>52</Index>
+    <RGB>#663300</RGB>
+   </Color>
+   <Color>
+    <Index>55</Index>
+    <RGB>#424242</RGB>
+   </Color>
+  </Colors>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9120</WindowHeight>
+  <WindowWidth>15480</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#3333CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#CC99FF"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s70">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FF0000"/>
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s74">
+   <Interior ss:Color="#E3E3E3" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s75">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#E3E3E3" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s76">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#E3E3E3" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s78">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#C0C0C0"/>
+   <Interior ss:Color="#E3E3E3" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s79">
+   <Interior ss:Color="#CC99FF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s80">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#CC99FF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s81">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#CC99FF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s82">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#FFFF99" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s83">
+   <Interior ss:Color="#FFFF99" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s84">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#3333CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s85">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#FFFF99" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s86">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#00FFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s87">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#00CCFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s88">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#FFFF99" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="gun_mounts">
+  <Table ss:ExpandedColumnCount="46" ss:ExpandedRowCount="321" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="157.5"/>
+   <Column ss:Width="157.5"/>
+   <Column ss:Width="298.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="223.5"/>
+   <Column ss:Width="204.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="115.5"/>
+   <Row ss:StyleID="s63">
+    <Cell><Data ss:Type="String">sysname</Data></Cell>
+    <Cell><Data ss:Type="String">gun</Data></Cell>
+    <Cell><Data ss:Type="String">joints</Data></Cell>
+    <Cell><Data ss:Type="String">shot_point</Data></Cell>
+    <Cell><Data ss:Type="String">man</Data></Cell>
+    <Cell><Data ss:Type="String">forced_vert_angle</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s65">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">#tanks</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">abrams_main_gun</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gun_m256</Data></Cell>
+    <Cell><Data ss:Type="String">abrams_main_gun_hor,abrams_main_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">abrams_machine_gun_1</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_browning_m2</Data></Cell>
+    <Cell><Data ss:Type="String">abrams_machine_gun_1_hor,abrams_machine_gun_1_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret02.sight01</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">abrams_machine_gun_2</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_m240</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">abrams_machine_gun_2_hor,abrams_machine_gun_2_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turretbase02.turret01.sight01</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">korpus.bashnya.turretbase02.man02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">abrams_machine_gun_coaxial</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_m240</Data></Cell>
+    <Cell><Data ss:Type="String">abrams_main_gun_hor,abrams_main_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">abrams_grenade_launcher_1</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">gl_m6</Data></Cell>
+    <Cell><Data ss:Type="String">abrams_main_gun_hor,abrams_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">abrams_grenade_launcher_2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">gl_m6</Data></Cell>
+    <Cell><Data ss:Type="String">abrams_main_gun_hor,abrams_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">abrams_muss</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">muss_launcher</Data></Cell>
+    <Cell><Data ss:Type="String">abrams_muss_hor,abrams_muss_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.muss.sight01,korpus.bashnya.muss.sight02,korpus.bashnya.muss.sight03,korpus.bashnya.muss.sight04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">leclerc_gun</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gun_cn120_26</Data></Cell>
+    <Cell><Data ss:Type="String">leclerc_gun_hor,leclerc_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">leclerc_machine_gun_coaxial</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_browning_m2hb</Data></Cell>
+    <Cell><Data ss:Type="String">leclerc_gun_coaxial_hor,leclerc_gun_coaxial_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret02.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">leclerc_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_m240</Data></Cell>
+    <Cell><Data ss:Type="String">leclerc_machine_gun_hor,leclerc_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turretbase01.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">leclerc_grenade_launcher_1</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">gl_galix</Data></Cell>
+    <Cell><Data ss:Type="String">leclerc_gun_hor,leclerc_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">leclerc_grenade_launcher_2</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">gl_galix</Data></Cell>
+    <Cell><Data ss:Type="String">leclerc_gun_hor,leclerc_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">challenger2_gun</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gun_l30</Data></Cell>
+    <Cell><Data ss:Type="String">challenger2_gun_hor,challenger2_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">challenger2_machine_gun_coaxial</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">cg_l94a1</Data></Cell>
+    <Cell><Data ss:Type="String">challenger2_gun_hor,challenger2_machine_gun_coaxial_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight03</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">challenger2_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">mg_l7a2</Data></Cell>
+    <Cell><Data ss:Type="String">challenger2_machine_gun_hor,challenger2_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turretbase01.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turretbase01.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">challenger2_grenade_launcher_1</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">gl_l8</Data></Cell>
+    <Cell><Data ss:Type="String">challenger2_gun_hor,challenger2_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">challenger2_grenade_launcher_2</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">gl_l8</Data></Cell>
+    <Cell><Data ss:Type="String">challenger2_gun_hor,challenger2_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">bmp1_gun</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gun_grom_2a28</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">bmp1_gun_hor,bmp1_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">bmp1_ptur</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">rl_malutka_9k11</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">bmp1_gun_hor,bmp1_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">bmp1_machine_gun_coaxial</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_pkt</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">bmp1_gun_hor,bmp1_machine_gun_coaxial_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret02.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">bmp1_grenade_launcher_1</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">gl_902b</Data></Cell>
+    <Cell><Data ss:Type="String">bmp1_gun_hor,bmp1_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">bmp1_grenade_launcher_2</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">gl_902b</Data></Cell>
+    <Cell><Data ss:Type="String">bmp1_gun_hor,bmp1_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">bmp3_gun</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gun_2a70</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">bmp3_gun_hor,bmp3_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">bmp3_gun_coaxial</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">cg_2a72</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">bmp3_gun_hor,bmp3_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">bmp3_machine_gun_coaxial</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_pkt</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">bmp3_gun_hor,bmp3_machine_gun_coaxial_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret02.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">bmp3_machine_gun_2</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_pkt</Data></Cell>
+    <Cell><Data ss:Type="String">bmp3_machine_gun_hor,bmp3_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">bmp3_machine_gun_3</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_pkt</Data></Cell>
+    <Cell><Data ss:Type="String">bmp3_machine_gun_hor,bmp3_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">bmp3_grenade_launcher_1</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">gl_902b</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">bmp3_gun_hor,bmp3_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">bmp3_grenade_launcher_2</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">gl_902b</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">bmp3_gun_hor,bmp3_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight02</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s74">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">bmd3_gun</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">cg_2a72</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">bmp1_gun_hor,bmp1_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s74">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">bmd3_ptur</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">rl_malutka_9k11</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">bmp1_gun_hor,bmp1_gun_ver</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">korpus.bashnya.turret03.sight03</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s74">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">bmd3_ags17</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">gl_ags17</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">bmp3_machine_gun_hor,bmp3_machine_gun_ver</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">korpus.turret04.sight04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">btrd_grenade_launcher_1</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">gl_902b</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">m113_gl_hor,m113_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">btrd_grenade_launcher_2</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">gl_902b</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">m113_gl_hor,m113_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight05</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s74">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">btrd_ags17</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">gl_ags17</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">bmp3_machine_gun_hor,bmp3_machine_gun_ver</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">korpus.turret01.sight01</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">korpus.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">btrd_machine_gun_2</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_pkt</Data></Cell>
+    <Cell><Data ss:Type="String">bmp3_machine_gun_hor,bmp3_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.turret02.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">btrd_machine_gun_3</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_pkt</Data></Cell>
+    <Cell><Data ss:Type="String">bmp3_machine_gun_hor,bmp3_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.turret03.sight03</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">warrior_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">cg_m242</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">warrior_gun_hor,warrior_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">warrior_machine_gun_coaxial</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">cg_l94a1</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">warrior_machine_gun_coaxial_hor,warrior_machine_gun_coaxial_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret02.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">warrior_grenade_launcher_1</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">gl_l8</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">warrior_gun_hor,warrior_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">warrior_grenade_launcher_2</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">gl_l8</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">warrior_gun_hor,warrior_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">warrior_ptur</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">rl_tow</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">warrior_gun_hor,warrior_ptur_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret03.sight01,korpus.bashnya.turret04.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">bradley_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">cg_m242</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">bradley_gun_hor,bradley_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">bradley_machine_gun_coaxial</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_m240</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">bradley_gun_hor,bradley_gun_coaxial_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret03.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">bradley_missile</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">rl_tow</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">bradley_gun_hor,bradley_missile_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret02.sight01,korpus.bashnya.turret02.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">bradley_grenade_launcher_1</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">gl_m6</Data></Cell>
+    <Cell><Data ss:Type="String">bradley_gun_hor,bradley_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">bradley_grenade_launcher_2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">gl_m6</Data></Cell>
+    <Cell><Data ss:Type="String">bradley_gun_hor,bradley_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">bradley_muss</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">muss_launcher</Data></Cell>
+    <Cell><Data ss:Type="String">bradley_muss_hor,bradley_muss_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.muss.sight01,korpus.bashnya.muss.sight02,korpus.bashnya.muss.sight03,korpus.bashnya.muss.sight04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">crusader_main_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">howitzer_xm2001</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">crusader_main_gun_hor,crusader_main_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">crusader_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_browning_m2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">crusader_machine_gun_hor,crusader_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turretbase01.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">m109_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_browning_m2</Data></Cell>
+    <Cell><Data ss:Type="String">abrams_machine_gun_1_hor,abrams_machine_gun_1_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret02.sight02</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">gvozdika_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">howitzer_2a31</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">gvozdika_gun_hor,gvozdika_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">nona_gun</Data></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">howitzer_2a51</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">nona_gun_hor,nona_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.gun.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">nona_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_nsvt_utes</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">nona_machine_gun_hor,nona_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tos_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">rl_tos</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">mlrs_gun_hor,mlrs_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01,korpus.bashnya.turret01.sight02,korpus.bashnya.turret01.sight03,korpus.bashnya.turret01.sight04,korpus.bashnya.turret01.sight05,korpus.bashnya.turret01.sight06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">shilka_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">cg_azp_23x4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">shilka_machine_gun_hor,shilka_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01,korpus.bashnya.turret01.sight02,korpus.bashnya.turret01.sight03,korpus.bashnya.turret01.sight04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">nona_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">howitzer_2a51</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">gvozdika_gun_hor,gvozdika_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">m113_browning_m2</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_browning_m2hb</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">m113_machine_gun_hor,m113_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">m113_m240</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_m240</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">m113_machine_gun_hor,m113_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">m113_gl_mk19</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gl_mk19</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">m113_machine_gun_hor,m113_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">m113_missile</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">rl_tow</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">m113_machine_gun_hor,m113_missile_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret02.sight02</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">m113_grenade_launcher_1</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gl_m6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">m113_gl_hor,m113_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">m113_grenade_launcher_2</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gl_m6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">m113_gl_hor,m113_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">m163_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">cg_m61</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">m163_machine_gun_hor,m163_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">m163_missile</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">rl_stinger_1</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">m163_machine_gun_hor,m163_missile_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret02.sight01,korpus.bashnya.turret02.sight02,korpus.bashnya.turret02.sight03,korpus.bashnya.turret02.sight04</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">m163_grenade_launcher_1</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gl_m6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">m163_gl_hor,m163_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">m163_grenade_launcher_2</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gl_m6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">m163_gl_hor,m163_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mlrs_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">rl_m270</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">mlrs_gun_hor,mlrs_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01,korpus.bashnya.turret01.sight02,korpus.bashnya.turret01.sight03,korpus.bashnya.turret01.sight04,korpus.bashnya.turret01.sight05,korpus.bashnya.turret01.sight06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tunguska_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">cg_2a38</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">tunguska_machine_gun_hor,tunguska_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01,korpus.bashnya.turret01.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tunguska_missile</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">rl_9m311</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">tunguska_machine_gun_hor,tunguska_missile_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret02.sight01,korpus.bashnya.turret02.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">t72_main_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">gun_ga46m</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">t72_main_gun_hor,t72_main_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">t72_machine_gun_coaxial</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_pkt</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">t72_main_gun_hor,t72_main_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">t72_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_nsvt_utes</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">t72_machine_gun_hor,t72_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turretbase01.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">t72mp_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_nsvt_utes</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">t72_machine_gun_hor,t72mp_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turretbase01.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">t72_grenade_launcher_1</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">gl_902b</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">t72_main_gun_hor,t72_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">t72_grenade_launcher_2</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">gl_902b</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">t72_main_gun_hor,t72_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tiger1_main_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">gun_ga46m</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">tiger1_main_gun_hor,tiger1_main_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.gun.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tiger1_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_sgmt</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">tiger1_machine_gun_hor,tiger1_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.mg02.sight01</Data></Cell>
+	<Cell><Data ss:Type="String">korpus.bashnya.turret01.mg02.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">t90_main_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">gun_ga46m</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">t72_main_gun_hor,t72_main_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">t90_machine_gun_coaxial</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_pkt</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">t72_main_gun_hor,t72_main_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">t14_main_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">gun_ga46m</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">t14_main_gun_hor,t14_main_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.gun01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">t90mp_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_nsvt_utes</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">t72_machine_gun_hor,t72mp_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turretbase01.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">main_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">gun_ga46m</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">main_gun_hor,main_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">machine_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">cg_m242</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">machine_gun_hor,machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight02,korpus.bashnya.sight03,korpus.bashnya.sight04,korpus.bashnya.sight05</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">btr50_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_sgmt</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">btr50_machine_gun_hor,btr50_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.mg.sight01</Data></Cell>
+	<Cell ss:StyleID="s27"><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">t55_main_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">gun_d10t2c</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">t55_main_gun_hor,t55_main_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">t55_machine_gun_coaxial</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_sgmt</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">t55_main_gun_hor,t55_main_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">t55_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_dshkm</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">t55_machine_gun_hor,t55_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turretbase01.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">t55_grenade_launcher_1</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">gl_902b</Data></Cell>
+    <Cell><Data ss:Type="String">t55_main_gun_hor,t55_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">t55_grenade_launcher_2</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">gl_902b</Data></Cell>
+    <Cell><Data ss:Type="String">t55_main_gun_hor,t55_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">t62_main_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">gun_2a20</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">t55_main_gun_hor,t55_main_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">t62_machine_gun_coaxial</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_sgmt</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">t55_main_gun_hor,t55_main_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">t62_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_dshkm</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">t55_machine_gun_hor,t55_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turretbase01.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s74">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">bmp2_gun</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">cg_2a72</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">bmp1_gun_hor,bmp1_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s74">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">bmp2_ptur</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">rl_malutka_9k11</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">bmp1_gun_hor,bmp1_gun_ver</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">korpus.bashnya.turret03.sight03</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s74">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">btr90_ptur</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">rl_malutka_9k11</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">bmp1_gun_hor,bmp1_gun_ver</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">korpus.bashnya.turret01.atgm_launcher.sight01</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s65">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">#artillery</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">m198_turret</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">m198_gun</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">m198_turret_hor,m198_turret_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s65">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">#airplane</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.25">
+    <Cell><Data ss:Type="String">a10_machine_gun</Data></Cell>
+    <Cell><Data ss:Type="String">cg_gau8a</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">a10_bombs</Data></Cell>
+    <Cell><Data ss:Type="String">b_mk82</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight02,korpus.sight03</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">a10_ptur</Data></Cell>
+    <Cell><Data ss:Type="String">rl_agm65</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight04,korpus.sight05</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">a10_nurs</Data></Cell>
+    <Cell><Data ss:Type="String">rl_nurs</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight04,korpus.sight05</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">a10_flare</Data></Cell>
+    <Cell><Data ss:Type="String">light_flare_launcher</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.flare01,korpus.flare02,korpus.flare03,korpus.flare04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">b52_bombs</Data></Cell>
+    <Cell><Data ss:Type="String">b_cbu71</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight01,korpus.sight02,korpus.sight03</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">f117_bombs</Data></Cell>
+    <Cell><Data ss:Type="String">b_mk82</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight01,korpus.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">f117_missile</Data></Cell>
+    <Cell><Data ss:Type="String">rl_agm158</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">f117_flare</Data></Cell>
+    <Cell><Data ss:Type="String">light_flare_launcher</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.flare01,korpus.flare02,korpus.flare03,korpus.flare04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">f16_missile</Data></Cell>
+    <Cell><Data ss:Type="String">rl_agm65</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight01,korpus.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">f16_flare</Data></Cell>
+    <Cell><Data ss:Type="String">light_flare_launcher</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.flare01,korpus.flare02,korpus.flare03,korpus.flare04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">f16_bomb</Data></Cell>
+    <Cell><Data ss:Type="String">b_gbu12</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight03,korpus.sight04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mig29_machine_gun</Data></Cell>
+    <Cell><Data ss:Type="String">cg_gsh301</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mig29_bombs</Data></Cell>
+    <Cell><Data ss:Type="String">b_mk82</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight02,korpus.sight03</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mig29_missile</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">rl_agm65</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight04,korpus.sight05</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s79">
+    <Cell ss:StyleID="s80"><Data ss:Type="String">mig29_missile2</Data></Cell>
+    <Cell><Data ss:Type="String">rl_agm65</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight02,korpus.sight03</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.25">
+    <Cell><Data ss:Type="String">predator_bombs</Data></Cell>
+    <Cell><Data ss:Type="String">b_gbu39</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight01,korpus.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">su25_machine_gun</Data></Cell>
+    <Cell><Data ss:Type="String">cg_gsh302</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">su25_missile</Data></Cell>
+    <Cell><Data ss:Type="String">rl_agm65</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight02,korpus.sight03</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s65">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">su25_bombs</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_mk82</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">korpus.sight01,korpus.sight02</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">su25_nurs</Data></Cell>
+    <Cell><Data ss:Type="String">rl_nurs</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight02,korpus.sight03</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">su25_flare</Data></Cell>
+    <Cell><Data ss:Type="String">light_flare_launcher</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.flare01,korpus.flare02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">su24_machine_gun</Data></Cell>
+    <Cell><Data ss:Type="String">cg_gsh302</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">su24_missile</Data></Cell>
+    <Cell><Data ss:Type="String">rl_agm65</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight02,korpus.sight03</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s65">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">su24_bombs</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">b_mk82</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">korpus.sight04,korpus.sight05</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">#car</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">arv_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_browning_m2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">arv_machine_gun_hor,arv_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya01.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">arv_gl_mk19</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gl_mk19</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">arv_machine_gun_hor,arv_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya01.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">arv_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">gun_mgs</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">arv_gun_hor,arv_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">arv_mg</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_m240</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">arv_gun_hor,arv_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">bmpt_gun01</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">cg_2a72</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">bmpt_gun_hor,bmpt_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.gun01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">bmpt_gun02</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">cg_2a72</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">bmpt_gun_hor,bmpt_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.gun02.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">bmpt_grenade_launcher_1</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gl_m6</Data></Cell>
+    <Cell><Data ss:Type="String">bmpt_gl_hor,bmpt_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">bmpt_grenade_launcher_2</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gl_m6</Data></Cell>
+    <Cell><Data ss:Type="String">bmpt_gl_hor,bmpt_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">bmpt_launcher1</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">rl_9m117</Data></Cell>
+    <Cell><Data ss:Type="String">bmpt_gun_hor,bmpt_launcher1_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.launcher01.sight01,korpus.bashnya.launcher01.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">bmpt_launcher2</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">rl_9m117</Data></Cell>
+    <Cell><Data ss:Type="String">bmpt_gun_hor,bmpt_launcher2_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.launcher02.sight01,korpus.bashnya.launcher02.sight02</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s74">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">bmpt_machinegun</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">mg_pkt</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">bmpt_machinegun_hor,bmpt_machinegun_ver</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">korpus.bashnya.turret01.mg.sight01</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s74">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">bmpt_ags_1</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">gl_ags17</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">bmpt_ags_hor,bmpt_ags_ver</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">korpus.agl01.sight01</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s74">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">bmpt_ags_2</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">gl_ags17</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">bmpt_ags_hor,bmpt_ags_ver</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">korpus.agl02.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">arv_grenade_launcher_1</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gl_m6</Data></Cell>
+    <Cell><Data ss:Type="String">arv_machine_gun_hor,arv_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya01.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">arv_grenade_launcher_2</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gl_m6</Data></Cell>
+    <Cell><Data ss:Type="String">arv_machine_gun_hor,arv_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya01.sight03</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">arv_grenade_launcher_3</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gl_m6</Data></Cell>
+    <Cell><Data ss:Type="String">arv_machine_gun_hor,arv_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya01.sight04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">arv_grenade_launcher_4</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gl_m6</Data></Cell>
+    <Cell><Data ss:Type="String">arv_machine_gun_hor,arv_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya01.sight05</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">arv_gun_grenade_launcher_1</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gl_m6</Data></Cell>
+    <Cell><Data ss:Type="String">arv_gun_hor,arv_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight03</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">arv_gun_grenade_launcher_2</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gl_m6</Data></Cell>
+    <Cell><Data ss:Type="String">arv_gun_hor,arv_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">arv_gun_grenade_launcher_3</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gl_m6</Data></Cell>
+    <Cell><Data ss:Type="String">arv_gun_hor,arv_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight05</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">arv_gun_grenade_launcher_4</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gl_m6</Data></Cell>
+    <Cell><Data ss:Type="String">arv_gun_hor,arv_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">arv_muss</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">muss_launcher</Data></Cell>
+    <Cell><Data ss:Type="String">arv_muss_hor,arv_muss_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.muss.sight01,korpus.muss.sight02,korpus.muss.sight03,korpus.muss.sight04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">arv_gun_muss</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">muss_launcher</Data></Cell>
+    <Cell><Data ss:Type="String">arv_gun_muss_hor,arv_gun_muss_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.muss.sight01,korpus.bashnya.turret01.muss.sight02,korpus.bashnya.turret01.muss.sight03,korpus.bashnya.turret01.muss.sight04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">brdm_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_kpvt</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">brdm_machine_gun_hor,brdm_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">brdm_machine_gun_coaxial</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_pkt</Data></Cell>
+    <Cell><Data ss:Type="String">brdm_machine_gun_hor,brdm_machine_gun_coaxial_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret02.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">brdm_grenade_launcher</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">gl_902v</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">brdm_missile</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">rl_malutka_9k11</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">brdm_missile_hor,brdm_missile_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight01,korpus.bashnya.sight02,korpus.bashnya.sight03,korpus.bashnya.sight04,korpus.bashnya.sight05,korpus.bashnya.sight06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">btr70_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_kpvt</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">btr70_machine_gun_hor,btr70_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">btr70_machine_gun_coaxial</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_pkt</Data></Cell>
+    <Cell><Data ss:Type="String">btr70_machine_gun_hor,btr70_machine_gun_coaxial_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret02.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">btr70_grenade_launcher</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">gl_902v</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">btr80_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_kpvt</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">btr80_machine_gun_hor,btr80_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">btr80_machine_gun_coaxial</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_pkt</Data></Cell>
+    <Cell><Data ss:Type="String">btr80_machine_gun_hor,btr80_machine_gun_coaxial_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret02.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">btr80_grenade_launcher_1</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">gl_902v</Data></Cell>
+    <Cell><Data ss:Type="String">btr80_machine_gun_hor,btr80_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">btr80_grenade_launcher_2</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">gl_902v</Data></Cell>
+    <Cell><Data ss:Type="String">btr80_machine_gun_hor,btr80_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">btr80_grenade_launcher_3</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">gl_902v</Data></Cell>
+    <Cell><Data ss:Type="String">btr80_machine_gun_hor,btr80_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight03</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">btr80_grenade_launcher_4</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">gl_902v</Data></Cell>
+    <Cell><Data ss:Type="String">btr80_machine_gun_hor,btr80_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">btr80_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">cg_2a72</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">btr80_machine_gun_hor,btr80_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">btr80_mg</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_pkt</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">btr80_machine_gun_hor,btr80_mg_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret02.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">grad_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">rl_grad</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">grad_gun_hor,grad_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01,korpus.bashnya.turret01.sight02,korpus.bashnya.turret01.sight03,korpus.bashnya.turret01.sight04,korpus.bashnya.turret01.sight05,korpus.bashnya.turret01.sight06,korpus.bashnya.turret01.sight07,korpus.bashnya.turret01.sight08,korpus.bashnya.turret01.sight09</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">hamvee_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_browning_m2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">toyota_machine_gun_hor,toyota_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">toyota_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_browning_m2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">toyota_machine_gun_hor,toyota_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">toyota_40mm</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">gl_mk19</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">toyota_machine_gun_hor,toyota_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">toyota_type63</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">rl_type63</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">toyota_type63_hor,toyota_type63_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01,korpus.bashnya.turret01.sight02,korpus.bashnya.turret01.sight03,korpus.bashnya.turret01.sight04,korpus.bashnya.turret01.sight05,korpus.bashnya.turret01.sight06,korpus.bashnya.turret01.sight07,korpus.bashnya.turret01.sight08</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">toyota_b10</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gun_b10</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">guntruck_b10_hor,guntruck_b10_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turretbase01.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s74">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">btrd_ags17</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">gl_ags17</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">bmp3_machine_gun_hor,bmp3_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">hummer_40mm</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">gl_mk19</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">hummer_machine_gun_hor,hummer_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">hummer_grenade_launcher_1</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gl_m6</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">hummer_gl_hor,hummer_gl_ver</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">korpus.smoke01.sight01,korpus.smoke01.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">hummer_grenade_launcher_2</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gl_m6</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">hummer_gl_hor,hummer_gl_ver</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">korpus.smoke02.sight03,korpus.smoke02.sight04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">hummer_grenade_launcher_3</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gl_m6</Data></Cell>
+    <Cell><Data ss:Type="String">hummer_gl_hor,hummer_gl_ver</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">korpus.smoke03.sight05,korpus.smoke03.sight06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">hummer_grenade_launcher_4</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gl_m6</Data></Cell>
+    <Cell><Data ss:Type="String">hummer_gl_hor,hummer_gl_ver</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">korpus.smoke04.sight07,korpus.smoke04.sight08</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">hummer_gun_browning_m2</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_browning_m2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">hummer_pulemet_hor,hummer_pulemet_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">hummer_browning_m2</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_browning_m2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">hummer_machine_gun_hor,hummer_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">hummer_m240</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_m240</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">hummer_machine_gun_hor,hummer_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">hummer_ptur</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">rl_tow</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">hummer_ptur_hor,hummer_ptur_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">hummer_stinger</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">rl_stinger</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">hummer_stinger_hor,hummer_stinger_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01,korpus.bashnya.turret01.sight02,korpus.bashnya.turret01.sight03,korpus.bashnya.turret01.sight04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">hummer_stinger_mg</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_browning_m2hb</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">hummer_stinger_hor,hummer_stinger_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight09</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">landrover110_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_browning_m2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">landrover110_gun_hor,landrover110_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell><Data ss:Type="String">m817_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_browning_m2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">m817_machine_gun_hor,m817_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell><Data ss:Type="String">typhoon_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_browning_m2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">typhoon_machine_gun_hor,typhoon_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell><Data ss:Type="String">toyota_stinger</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">rl_stinger</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">toyota_stinger_hor,toyota_stinger_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01,korpus.bashnya.turret01.sight02,korpus.bashnya.turret01.sight03,korpus.bashnya.turret01.sight04,korpus.bashnya.turret01.sight05,korpus.bashnya.turret01.sight06,korpus.bashnya.turret01.sight07,korpus.bashnya.turret01.sight08</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">toyota_dzhigit</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">inf_igla</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">toyota_dzhigit_hor,toyota_dzhigit_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01,korpus.bashnya.turret01.sight02</Data></Cell>
+   </Row>
+      <Row>
+    <Cell><Data ss:Type="String">toyota_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">mg_browning_m2</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">toyota_machine_gun_hor,toyota_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">toyota_40mm</Data></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">gl_mk19</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">toyota_machine_gun_hor,toyota_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">toyota_type63</Data></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">rl_type63</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">toyota_type63_hor,toyota_type63_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01,korpus.bashnya.turret01.sight02,korpus.bashnya.turret01.sight03,korpus.bashnya.turret01.sight04,korpus.bashnya.turret01.sight05,korpus.bashnya.turret01.sight06,korpus.bashnya.turret01.sight07,korpus.bashnya.turret01.sight08</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">patriot_gun</Data></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">rl_patriot</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">patriot_gun_hor,patriot_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01,korpus.bashnya.turret01.sight02,korpus.bashnya.turret01.sight03,korpus.bashnya.turret01.sight04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">scud_gun</Data></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">rl_scud</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">scud_gun_hor,scud_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s24">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">uragan_gun</Data></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">rl_9k57</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">uragan_gun_hor,uragan_gun_ver</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">korpus.bashnya.turret01.sight01,korpus.bashnya.turret01.sight02,korpus.bashnya.turret01.sight03,korpus.bashnya.turret01.sight04,korpus.bashnya.turret01.sight05,korpus.bashnya.turret01.sight06,korpus.bashnya.turret01.sight07,korpus.bashnya.turret01.sight08</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">guntrack_machine_type63</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">rl_type63</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">guntruck_type63_hor,guntruck_type63_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01,korpus.bashnya.turret01.sight02,korpus.bashnya.turret01.sight03,korpus.bashnya.turret01.sight04,korpus.bashnya.turret01.sight05,korpus.bashnya.turret01.sight06,korpus.bashnya.turret01.sight07,korpus.bashnya.turret01.sight08</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">guntrack_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_kpvt</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">brdm_machine_gun_hor,brdm_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">guntrack_machine_gun_coaxial</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_pkt</Data></Cell>
+    <Cell><Data ss:Type="String">brdm_machine_gun_hor,brdm_machine_gun_coaxial_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">guntrack_ptur</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">rl_tow</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">guntruck_ptur_hor,guntruck_ptur_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turretbase01.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">guntrack_b10</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gun_b10</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">guntruck_b10_hor,guntruck_b10_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turretbase01.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">guntrack_turret</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_browning_m2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">toyota_machine_gun_hor,toyota_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">guntrack_40mm</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">gl_mk19</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">toyota_machine_gun_hor,toyota_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">guntrack_01_turret</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">mg_browning_m2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">toyota_machine_gun_hor,toyota_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">guntrack_01_40mm</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">gl_mk19</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">toyota_machine_gun_hor,toyota_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">guntrack_01_ptur</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">rl_tow</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">guntruck_ptur_hor,guntruck_ptur_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turretbase01.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">guntrack_01_b10</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gun_b10</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">guntruck_b10_hor,guntruck_b10_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turretbase01.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">guntrack01_machine_type63</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">rl_type63</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">guntruck_type63_hor,guntruck_type63_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01,korpus.bashnya.turret01.sight02,korpus.bashnya.turret01.sight03,korpus.bashnya.turret01.sight04,korpus.bashnya.turret01.sight05,korpus.bashnya.turret01.sight06,korpus.bashnya.turret01.sight07,korpus.bashnya.turret01.sight08</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">guntrack01_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_kpvt</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">brdm_machine_gun_hor,brdm_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">guntrack_01_zsu</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">cg_azp_23x2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">guntruck_zu_hor,guntruck_zu_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01,korpus.bashnya.turret01.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">guntruck01_bmp1_gun</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">gun_grom_2a28</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">bmp1_gun_hor,bmp1_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">guntruck01_bmp1_machine_gun_coaxial</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_pkt</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">bmp1_gun_hor,bmp1_machine_gun_coaxial_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret02.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tigr_kord</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">mg_kord</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">tigr_gun_hor,tigr_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turretbase01.turret01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tigr_grenade_launcher_1</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">gl_902v</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">tigr_gl_hor,tigr_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tigr_grenade_launcher_2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">gl_902v</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">tigr_gl_hor,tigr_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tigr_grenade_launcher_3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">gl_902v</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">tigr_gl_hor,tigr_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight03</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tigr_grenade_launcher_4</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">gl_902v</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">tigr_gl_hor,tigr_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">#helicopters</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">apache_machine_gun</Data></Cell>
+    <Cell><Data ss:Type="String">cg_m230</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">apache_machine_gun_hor,apache_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">apache_stinger</Data></Cell>
+    <Cell><Data ss:Type="String">rl_aim9</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">apache_stinger_hor,apache_stinger_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight09,korpus.sight10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">apache_nurs</Data></Cell>
+    <Cell><Data ss:Type="String">rl_m261</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">apache_nurs_hor,apache_nurs_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight11,korpus.sight12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">apache_ptur</Data></Cell>
+    <Cell><Data ss:Type="String">rl_agm114</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">apache_ptur_hor,apache_ptur_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight01,korpus.sight02,korpus.sight03,korpus.sight04,korpus.sight05,korpus.sight06,korpus.sight07,korpus.sight08</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">black_hawk_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">mg_m60</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">black_hawk_machine_gun_hor,black_hawk_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya02.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">black_hawk_nurs</Data></Cell>
+    <Cell><Data ss:Type="String">rl_m261</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">black_hawk_nurs_hor,black_hawk_nurs_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight11,korpus.sight12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">black_hawk_ptur</Data></Cell>
+    <Cell><Data ss:Type="String">rl_agm114</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">black_hawk_ptur_hor,black_hawk_ptur_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight01,korpus.sight02,korpus.sight03,korpus.sight04,korpus.sight05,korpus.sight06,korpus.sight07,korpus.sight08</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">black_hawk_mg</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">mg_browning_m2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">black_hawk_mg_hor,black_hawk_mg_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya01.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">chinook_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">mg_m60</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">chinook_machine_gun_hor,chinook_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">kiowa_nurs</Data></Cell>
+    <Cell><Data ss:Type="String">rl_m260</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">kiowa_nurs_hor,kiowa_nurs_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight11,korpus.sight12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mi24_machine_gun</Data></Cell>
+    <Cell><Data ss:Type="String">cg_gsh302</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">mi24_machine_gun_hor,mi24_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mi24_machine_gun_airplane</Data></Cell>
+    <Cell><Data ss:Type="String">cg_gsh302</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">mi24_machine_gun_hor,mi24_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight07</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mi24_nurs</Data></Cell>
+    <Cell><Data ss:Type="String">rl_uv3257</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">mi24_nurs_hor,mi24_nurs_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight01,korpus.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mi24_nurs_new</Data></Cell>
+    <Cell><Data ss:Type="String">rl_uv3257</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">mi24_nurs_hor,mi24_nurs_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight01,korpus.sight02,korpus.sight03,korpus.sight04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mi24_ptur</Data></Cell>
+    <Cell><Data ss:Type="String">rl_shturmb</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">mi24_ptur_hor,mi24_ptur_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight09,korpus.sight10,korpus.sight11,korpus.sight12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mi24_ptur_new</Data></Cell>
+    <Cell><Data ss:Type="String">rl_shturmb</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">mi24_ptur_hor,mi24_ptur_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight05,korpus.sight06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mi24_bombs</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">b_mi24</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">mi24_bombs_hor,mi24_bombs_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight13,korpus.sight14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mi8_gun</Data></Cell>
+    <Cell><Data ss:Type="String">mg_mi8</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">mi8_gun_hor,mi8_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mi8_nurs</Data></Cell>
+    <Cell><Data ss:Type="String">rl_uv3257</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">mi8_nurs_hor,mi8_nurs_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight11,korpus.sight12,korpus.sight13,korpus.sight14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mi8_ptur</Data></Cell>
+    <Cell><Data ss:Type="String">rl_falanx</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">mi8_ptur_hor,mi8_ptur_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight01,korpus.sight02,korpus.sight03,korpus.sight04,korpus.sight05,korpus.sight06,korpus.sight07,korpus.sight08</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mi17_nurs</Data></Cell>
+    <Cell><Data ss:Type="String">rl_uv3257</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">mi8_nurs_hor,mi8_nurs_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight01,korpus.sight02,korpus.sight03,korpus.sight04,korpus.sight05,korpus.sight06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mi17_nurs_s</Data></Cell>
+    <Cell><Data ss:Type="String">rl_uv3257</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">mi8_nurs_hor,mi8_nurs_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight01,korpus.sight02,korpus.sight03,korpus.sight04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mi17_ptur</Data></Cell>
+    <Cell><Data ss:Type="String">rl_falanx</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">mi8_ptur_hor,mi8_ptur_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight05,korpus.sight06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">gazelle_ptur</Data></Cell>
+    <Cell><Data ss:Type="String">rl_falanx</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">mi8_ptur_hor,mi8_ptur_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight01,korpus.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mi24_flare</Data></Cell>
+    <Cell><Data ss:Type="String">light_flare_launcher</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">mi24_flare_hor,mi24_flare_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.flare01,korpus.flare02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mi8_flare</Data></Cell>
+    <Cell><Data ss:Type="String">light_flare_launcher</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">mi8_flare_hor,mi8_flare_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.flare01,korpus.flare02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">supercobra_gun</Data></Cell>
+    <Cell><Data ss:Type="String">cg_m197</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">supercobra_gun_hor,supercobra_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya01.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">supercobra_nurs</Data></Cell>
+    <Cell><Data ss:Type="String">rl_m261</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">supercobra_nurs_hor,supercobra_nurs_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight11,korpus.sight12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">supercobra_ptur</Data></Cell>
+    <Cell><Data ss:Type="String">rl_agm114</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">supercobra_ptur_hor,supercobra_ptur_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.sight01,korpus.sight02,korpus.sight03,korpus.sight04,korpus.sight05,korpus.sight06,korpus.sight07,korpus.sight08</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">apache_flare</Data></Cell>
+    <Cell><Data ss:Type="String">light_flare_launcher</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">apache_flare_hor,apache_flare_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.flare01,korpus.flare02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">black_hawk_flare</Data></Cell>
+    <Cell><Data ss:Type="String">light_flare_launcher</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">black_hawk_flare_hor,black_hawk_flare_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.flare01,korpus.flare02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">chinook_flare</Data></Cell>
+    <Cell><Data ss:Type="String">light_flare_launcher</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">chinook_flare_hor,chinook_flare_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.flare01,korpus.flare02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">kiowa_flare</Data></Cell>
+    <Cell><Data ss:Type="String">light_flare_launcher</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">kiowa_flare_hor,kiowa_flare_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.flare01,korpus.flare02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mi24_flare</Data></Cell>
+    <Cell><Data ss:Type="String">light_flare_launcher</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">mi24_flare_hor,mi24_flare_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.flare01,korpus.flare02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mi8_flare</Data></Cell>
+    <Cell><Data ss:Type="String">light_flare_launcher</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">mi8_flare_hor,mi8_flare_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.flare01,korpus.flare02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">supercobra_flare</Data></Cell>
+    <Cell><Data ss:Type="String">light_flare_launcher</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">supercobra_flare_hor,supercobra_flare_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.flare01,korpus.flare02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mi26_flare</Data></Cell>
+    <Cell><Data ss:Type="String">light_flare_launcher</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">mi26_flare_hor,mi26_flare_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.flare01,korpus.flare02</Data></Cell>
+   </Row>
+   <Row ss:Index="364">
+    <Cell><Data ss:Type="String">btr_machine_gun</Data></Cell>
+    <Cell><Data ss:Type="String">cg_m242</Data></Cell>
+    <Cell><Data ss:Type="String">btr_machine_gun_hor,btr_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">btr_machine_gun_coaxial</Data></Cell>
+    <Cell><Data ss:Type="String">mg_pkt</Data></Cell>
+    <Cell><Data ss:Type="String">btr_machine_gun_hor,btr_machine_gun_coaxial_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret02.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">btr_grenade_launcher_1</Data></Cell>
+    <Cell><Data ss:Type="String">gl_902v</Data></Cell>
+    <Cell><Data ss:Type="String">btr_machine_gun_hor,btr_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">btr_grenade_launcher_2</Data></Cell>
+    <Cell><Data ss:Type="String">gl_902v</Data></Cell>
+    <Cell><Data ss:Type="String">btr_machine_gun_hor,btr_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">btr_grenade_launcher_3</Data></Cell>
+    <Cell><Data ss:Type="String">gl_902v</Data></Cell>
+    <Cell><Data ss:Type="String">btr_machine_gun_hor,btr_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight03</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">btr_grenade_launcher_4</Data></Cell>
+    <Cell><Data ss:Type="String">gl_902v</Data></Cell>
+    <Cell><Data ss:Type="String">btr_machine_gun_hor,btr_gl_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.sight04</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s65">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">uh1v_flare</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">light_flare_launcher</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">uh1v_flare_hor,uh1v_flare_ver</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">korpus.flare01,korpus.flare02</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">#humans</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_ags</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_ags</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_ags30</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_ags30</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_ak47</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">inf_ak47</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">inf_ak47_hg</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">inf_ak47,inf_hg</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_ak74</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_ak74</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_ak74gp</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_ak74gp</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_ak74m</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_ak74m</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_ak74mlcu</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_ak74mlcu</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_ak74mort</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_ak74mort</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_aksu74</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_aksu74</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_an94</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_an94</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_at_mine</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_at_mine</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_at4</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_at4</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_atg</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_atg</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_atg</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_atg</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_atr</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_atr</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_aug</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_aug</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_barret</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_barret</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_bazooka</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_bazooka</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_beretta9mm</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_beretta9mm</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_bomb</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_bomb</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_browning_m2</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_browning_m2</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_c4</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_c4</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_cam</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_cam</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_dshk</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_dshk</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_enfield</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_enfield</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Inf_flash</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Inf_flash</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_gp25</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_gp25</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_hand_gl</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_hand_gl</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_m79</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_m79</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">inf_hand_rg6</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">inf_hand_rg6</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_hg</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_hg</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_hk41</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_hk41</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">inf_hk41_hg</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">inf_hk41,inf_hg</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_hkmp5</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_hkmp5</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">inf_igla</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_igla</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_kord</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_kord</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_m16</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_m16</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">inf_m16_hg</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">inf_m16,inf_hg</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_m16gp</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_m16gp</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_m16lcu</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_m16lcu</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">inf_m16lcu_hg</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">inf_m16lcu,inf_hg</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_m203</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_m203</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_m24</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_m24</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">inf_m24s</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">inf_m24s</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_m4</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_m4</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_famas</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_famas</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_p_90c</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_p_90c</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">inf_m4_hg</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">inf_m4,inf_hg</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">inf_m4_mine</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">inf_m4,inf_mine,inf_at_mine,inf_c4</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_m4mort</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_m4mort</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_magnum</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_magnum</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_metis</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_metis</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_metis_pzrk</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_metis_pzrk</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_mine</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_mine</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_minimi</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_minimi</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_minimi_optics</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_minimi_optics</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_beryl</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_beryl</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_hk416</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_hk416</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_qbz</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_qbz</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_qbz_mg</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_qbz_mg</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_mk19</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_mk19</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Inf_molotov</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Inf_molotov</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">inf_mortar</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">inf_mortar</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">inf_mortar2</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">inf_mortar2</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">inf_mortar3</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">inf_mortar3</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_mortar60</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_mortar60</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_mortar81</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_mortar81</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_osv96</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_osv96</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_l96</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_l96</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_pk</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_pk</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_pk_e</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_pk_e</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_pk_s</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_pk_s</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_pkm</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_pkm</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_ptur</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_ptur</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_rpg</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_rpg</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_rpg29</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_rpg29</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_rpg7</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_rpg7</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_rpk</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_rpk</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_rpk_e</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_rpk_e</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_rpkm74</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_rpkm74</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_rpo</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_rpo</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_rpo_big</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_rpo_big</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">inf_sg</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">inf_sg</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_spg</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_spg</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_stechkin</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_beretta9mm</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">inf_stinger</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_stinger</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_sv98</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_sv98</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_svd_e</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_svd_e</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">inf_svd2</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">inf_svd2</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_svdm</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_svdm</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_svdm_p</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_svdm_p</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">inf_svds</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">inf_svds</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_val</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">inf_val</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">none,none</Data></Cell>
+    <Cell><Data ss:Type="String">sight01</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Data="&amp;?"/>
+    <Footer x:Data="Page &amp;?"/>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+    <Gridlines/>
+   </Print>
+   <Selected/>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>22</TopRowBottomPane>
+   <SplitVertical>1</SplitVertical>
+   <LeftColumnRightPane>1</LeftColumnRightPane>
+   <ActivePane>0</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>1</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>1</ActiveRow>
+    </Pane>
+    <Pane>
+     <Number>0</Number>
+     <ActiveRow>33</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
