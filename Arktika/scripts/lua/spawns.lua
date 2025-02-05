@@ -2,14 +2,14 @@ Missions =
 {
 	[1] = 
 	{
-		mapCameraPos = {x = 830, y = 980},
+		mapCameraPos = {x = 1500, y = 1080},
 		spawns = 
 		{
 			[1] = 
 			{
 				name = "first_mission",
 				mapObject = "a",
-				mapObjectPos = {x = 830, y = 980},
+				mapObjectPos = {x = 1500, y = 1080},
 			}
 		}
 --	},

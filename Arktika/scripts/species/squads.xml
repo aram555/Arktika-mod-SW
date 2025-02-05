@@ -900,7 +900,7 @@
     <Cell ss:StyleID="Default"><Data ss:Type="String">UnitTypeIcon\morpeh</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">rus</Data></Cell>
-    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">300</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s85">
@@ -920,7 +920,7 @@
     <Cell ss:StyleID="Default"><Data ss:Type="String">UnitTypeIcon\morpeh</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">rus</Data></Cell>
-    <Cell ss:StyleID="Default"/>
+        <Cell ss:StyleID="Default"><Data ss:Type="Number">250</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s85">
@@ -941,7 +941,7 @@
     <Cell ss:StyleID="Default"><Data ss:Type="String">UnitTypeIcon\vdv</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">rus</Data></Cell>
-    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">350</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">

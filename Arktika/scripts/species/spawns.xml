@@ -106,12 +106,12 @@
     <Cell><Data ss:Type="String">loading</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s64"><Data ss:Type="String">aleppo_border</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">first_mission</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">LoadingScreen/default</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">artillery:0,infantry:4,tank:2,helicopter:0,light_vehicle:2,armored_transport:2,combat_vehicle:2</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">artillery:0,infantry:4,tank:2,helicopter:0,light_vehicle:2,armored_transport:2,combat_vehicle:2</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">artillery:0,infantry:4,tank:2,helicopter:0,light_vehicle:2,armored_transport:2,combat_vehicle:2</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">artillery:0,infantry:4,tank:2,helicopter:0,light_vehicle:2,armored_transport:2,combat_vehicle:2</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">artillery:0,infantry:4,tank:0,helicopter:0,light_vehicle:2,armored_transport:1,combat_vehicle:0</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">artillery:0,infantry:4,tank:0,helicopter:0,light_vehicle:2,armored_transport:1,combat_vehicle:0</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">artillery:0,infantry:4,tank:0,helicopter:0,light_vehicle:2,armored_transport:1,combat_vehicle:0</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">artillery:0,infantry:4,tank:0,helicopter:0,light_vehicle:2,armored_transport:1,combat_vehicle:0</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="Number">4000</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="Number">4000</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="Number">4000</Data></Cell>
