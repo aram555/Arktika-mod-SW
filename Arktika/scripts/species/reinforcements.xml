@@ -71,24 +71,24 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s63"><Data ss:Type="String">default</Data></Cell>
-    <Cell><Data ss:Type="String">artillery:0,infantry:0,tank:0,helicopter:0,light_vehicle:0,armored_transport:0,combat_vehicle:0</Data></Cell>
+    <Cell><Data ss:Type="String">artillery:2,infantry:1,tank:0,helicopter:0,light_vehicle:0,armored_transport:0,combat_vehicle:0</Data></Cell>
     <Cell><Data ss:Type="Number">0</Data></Cell>
-    <Cell><Data ss:Type="String">artillery:0,infantry:0,tank:0,helicopter:0,light_vehicle:0,armored_transport:0,combat_vehicle:0</Data></Cell>
+    <Cell><Data ss:Type="String">artillery:2,infantry:1,tank:0,helicopter:0,light_vehicle:0,armored_transport:0,combat_vehicle:0</Data></Cell>
     <Cell><Data ss:Type="Number">0</Data></Cell>
-    <Cell><Data ss:Type="String">artillery:0,infantry:0,tank:0,helicopter:0,light_vehicle:0,armored_transport:0,combat_vehicle:0</Data></Cell>
+    <Cell><Data ss:Type="String">artillery:2,infantry:1,tank:0,helicopter:0,light_vehicle:0,armored_transport:0,combat_vehicle:0</Data></Cell>
     <Cell><Data ss:Type="Number">0</Data></Cell>
-    <Cell><Data ss:Type="String">artillery:0,infantry:0,tank:0,helicopter:0,light_vehicle:0,armored_transport:0,combat_vehicle:0</Data></Cell>
+    <Cell><Data ss:Type="String">artillery:2,infantry:1,tank:0,helicopter:0,light_vehicle:0,armored_transport:0,combat_vehicle:0</Data></Cell>
     <Cell><Data ss:Type="Number">0</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s63"><Data ss:Type="String">isis_first_attack</Data></Cell>
-    <Cell><Data ss:Type="String">artillery:0,infantry:3,tank:0,helicopter:0,light_vehicle:2,armored_transport:2,combat_vehicle:2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">first_attack</Data></Cell>
+    <Cell><Data ss:Type="String">artillery:0,infantry:3,tank:0,helicopter:0,light_vehicle:2,armored_transport:2,combat_vehicle:0</Data></Cell>
     <Cell><Data ss:Type="Number">5000</Data></Cell>
-    <Cell><Data ss:Type="String">artillery:0,infantry:3,tank:0,helicopter:0,light_vehicle:2,armored_transport:2,combat_vehicle:2</Data></Cell>
+    <Cell><Data ss:Type="String">artillery:0,infantry:3,tank:0,helicopter:0,light_vehicle:2,armored_transport:2,combat_vehicle:0</Data></Cell>
     <Cell><Data ss:Type="Number">5000</Data></Cell>
-    <Cell><Data ss:Type="String">artillery:0,infantry:3,tank:0,helicopter:0,light_vehicle:2,armored_transport:2,combat_vehicle:2</Data></Cell>
+    <Cell><Data ss:Type="String">artillery:0,infantry:3,tank:0,helicopter:0,light_vehicle:2,armored_transport:2,combat_vehicle:0</Data></Cell>
     <Cell><Data ss:Type="Number">5000</Data></Cell>
-    <Cell><Data ss:Type="String">artillery:0,infantry:3,tank:0,helicopter:0,light_vehicle:2,armored_transport:2,combat_vehicle:2</Data></Cell>
+    <Cell><Data ss:Type="String">artillery:0,infantry:3,tank:0,helicopter:0,light_vehicle:2,armored_transport:2,combat_vehicle:0</Data></Cell>
     <Cell><Data ss:Type="Number">5000</Data></Cell>
    </Row>
    <Row ss:Index="12" ss:AutoFitHeight="0">

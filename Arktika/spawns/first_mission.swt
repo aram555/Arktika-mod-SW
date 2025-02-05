@@ -1,1 +1,46 @@
-<Root />
+<Root>
+<Trigger any="0" active="1" cutsceneActive="0" guid="3"><Name>Camera_zoom</Name>
+<ExecNumber>0</ExecNumber>
+<Condition guid="1"><Name>c_triggerTimeOut</Name>
+<Param>0</Param>
+</Condition>
+<Action guid="2"><Name>a_setCameraForZone</Name>
+<Param>Default</Param>
+<Param>300</Param>
+<Param>180</Param>
+<Param>180</Param>
+</Action>
+<Action guid="14"><Name>a_switchTriggerState</Name>
+<Param>deactivate</Param>
+<Param>3</Param>
+</Action>
+</Trigger>
+<Trigger any="0" active="1" cutsceneActive="0" guid="9"><Name>Victory</Name>
+<ExecNumber>0</ExecNumber>
+<Condition guid="6"><Name>c_killedAllEnemiesForTeam</Name>
+<Param>player</Param>
+<Param>normal</Param>
+</Condition>
+<Action guid="7"><Name>a_waitTime</Name>
+<Param>10</Param>
+</Action>
+<Action guid="8"><Name>a_endMission</Name>
+<Param>victory</Param>
+<Param>false</Param>
+</Action>
+</Trigger>
+<Trigger any="0" active="1" cutsceneActive="0" guid="13"><Name>Defeat</Name>
+<ExecNumber>0</ExecNumber>
+<Condition guid="10"><Name>c_killedAllUnitsForTeam</Name>
+<Param>player</Param>
+<Param>normal</Param>
+</Condition>
+<Action guid="11"><Name>a_waitTime</Name>
+<Param>5</Param>
+</Action>
+<Action guid="12"><Name>a_endMission</Name>
+<Param>failed</Param>
+<Param>true</Param>
+</Action>
+</Trigger>
+</Root>

@@ -6,10 +6,10 @@
  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-  <LastAuthor>dieman</LastAuthor>
+  <LastAuthor>Urist McDorf</LastAuthor>
   <Created>2005-02-26T16:04:39Z</Created>
-  <LastSaved>2018-10-09T15:59:45Z</LastSaved>
-  <Version>16.00</Version>
+  <LastSaved>2017-02-17T17:40:05Z</LastSaved>
+  <Version>14.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
   <Colors>
@@ -92,8 +92,8 @@
   </Colors>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>12480</WindowHeight>
-  <WindowWidth>25200</WindowWidth>
+  <WindowHeight>2160</WindowHeight>
+  <WindowWidth>15840</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>0</WindowTopY>
   <RefModeR1C1/>
@@ -110,7 +110,6 @@
    <Protection/>
   </Style>
   <Style ss:ID="s62">
-   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
    <NumberFormat/>
   </Style>
   <Style ss:ID="s63">
@@ -119,49 +118,41 @@
    <NumberFormat/>
   </Style>
   <Style ss:ID="s64">
-   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
-   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#CC99FF"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
    <NumberFormat/>
   </Style>
   <Style ss:ID="s65">
-   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#CC99FF"/>
-   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
-   <NumberFormat/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s66">
-   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
-   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#CC99FF"/>
-   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
    <NumberFormat/>
   </Style>
   <Style ss:ID="s67">
-   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
-   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
-  </Style>
-  <Style ss:ID="s68">
-   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
-   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
    <NumberFormat/>
   </Style>
  </Styles>
  <Worksheet ss:Name="items">
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="2" x:FullColumns="1"
-   x:FullRows="1" ss:StyleID="s62" ss:DefaultColumnWidth="51">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="8" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62">
    <Column ss:StyleID="s63" ss:Width="75"/>
    <Column ss:StyleID="s62" ss:Width="255"/>
-   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="500.25"/>
-   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="375"/>
-   <Row ss:StyleID="s65">
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="500.25"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="375"/>
+   <Row ss:StyleID="s64">
     <Cell><Data ss:Type="String">sysname</Data></Cell>
     <Cell><Data ss:Type="String">hint</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">briefing</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">objectives</Data></Cell>
-   </Row>
-   <Row>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">first_mission</Data></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">first_mission</Data></Cell>
     <Cell><Data ss:Type="String">briefing</Data></Cell>
-    <Cell><Data ss:Type="String">historical background</Data></Cell>
+    <Cell><Data ss:Type="String">objectives</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="165.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">first_mission</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Arctic coast.</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">As the most experienced officer from your team, you have been assigned to command the scouts, and gather all usefull informations in the operation area. And if possible secure the buildings.&#10;&#10;Fortunately some experienced troops and mechanical equipment are at your disposal.</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">It's year 1962. Some strange information is coming from the satellites about shitty activity in the Arctic, and some buildings and hangars were spotted there through the same satellites. It was decided to send a military reconnaissance contingent there. But it turns out that the Americans did the same, the scouts meet each other and, not finding a common language, they start shooting, more and more forces begin to gather in place and a real war begins for the secret base. &#10;</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
@@ -197,7 +188,8 @@
     </Pane>
     <Pane>
      <Number>0</Number>
-     <ActiveRow>6</ActiveRow>
+     <ActiveRow>3</ActiveRow>
+     <ActiveCol>3</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
