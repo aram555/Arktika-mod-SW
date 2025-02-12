@@ -1,0 +1,484 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Администратор</LastAuthor>
+  <Created>2005-02-26T16:04:39Z</Created>
+  <LastSaved>2017-10-12T12:26:21Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <Colors>
+   <Color>
+    <Index>16</Index>
+    <RGB>#8080FF</RGB>
+   </Color>
+   <Color>
+    <Index>17</Index>
+    <RGB>#802060</RGB>
+   </Color>
+   <Color>
+    <Index>18</Index>
+    <RGB>#FFFFC0</RGB>
+   </Color>
+   <Color>
+    <Index>19</Index>
+    <RGB>#A0E0E0</RGB>
+   </Color>
+   <Color>
+    <Index>20</Index>
+    <RGB>#600080</RGB>
+   </Color>
+   <Color>
+    <Index>22</Index>
+    <RGB>#0080C0</RGB>
+   </Color>
+   <Color>
+    <Index>23</Index>
+    <RGB>#C0C0FF</RGB>
+   </Color>
+   <Color>
+    <Index>33</Index>
+    <RGB>#69FFFF</RGB>
+   </Color>
+   <Color>
+    <Index>36</Index>
+    <RGB>#A6CAF0</RGB>
+   </Color>
+   <Color>
+    <Index>37</Index>
+    <RGB>#CC9CCC</RGB>
+   </Color>
+   <Color>
+    <Index>39</Index>
+    <RGB>#E3E3E3</RGB>
+   </Color>
+   <Color>
+    <Index>42</Index>
+    <RGB>#339933</RGB>
+   </Color>
+   <Color>
+    <Index>43</Index>
+    <RGB>#999933</RGB>
+   </Color>
+   <Color>
+    <Index>44</Index>
+    <RGB>#996633</RGB>
+   </Color>
+   <Color>
+    <Index>45</Index>
+    <RGB>#996666</RGB>
+   </Color>
+   <Color>
+    <Index>48</Index>
+    <RGB>#3333CC</RGB>
+   </Color>
+   <Color>
+    <Index>49</Index>
+    <RGB>#336666</RGB>
+   </Color>
+   <Color>
+    <Index>52</Index>
+    <RGB>#663300</RGB>
+   </Color>
+   <Color>
+    <Index>55</Index>
+    <RGB>#424242</RGB>
+   </Color>
+  </Colors>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12480</WindowHeight>
+  <WindowWidth>25200</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#3333CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" ss:Color="#CC99FF"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#CC99FF"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#333399" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial"/>
+   <Interior ss:Color="#999933" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s72">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial"/>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s74">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s75">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s76">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial"/>
+   <Interior ss:Color="#999933" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial"/>
+   <Interior ss:Color="#0070C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s78">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#0070C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s79">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s80">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s81">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#0070C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s82">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s83">
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s84">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#0070C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s85">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial"/>
+   <Interior ss:Color="#0070C0" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="tanks">
+  <Table ss:ExpandedColumnCount="15" ss:ExpandedRowCount="20" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="12.1875">
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="252"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="138"/>
+   <Column ss:StyleID="s62" ss:Width="1342.5"/>
+   <Column ss:StyleID="s62" ss:Width="82.5"/>
+   <Column ss:StyleID="s62" ss:Width="61.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="258"/>
+   <Column ss:StyleID="s62" ss:Width="31.5"/>
+   <Column ss:StyleID="s62" ss:Width="193.5"/>
+   <Column ss:StyleID="s62" ss:Width="56.25"/>
+   <Column ss:Index="11" ss:StyleID="s62" ss:Width="170.25"/>
+   <Column ss:StyleID="s62" ss:Width="66"/>
+   <Column ss:StyleID="s62" ss:Width="72"/>
+   <Column ss:StyleID="s62" ss:Width="55.5"/>
+   <Column ss:StyleID="s62" ss:Width="69"/>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s64">
+    <Cell><Data ss:Type="String">sysname</Data></Cell>
+    <Cell><Data ss:Type="String">content</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">description</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">t90</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Т-90</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Один из самых современных на сегодняшний день танков из тех, что принимают участие в реальных боевых действиях. Прочная броня, дальнобойное орудие, мощный двигатель - один Т-90 может изменить ход всей битвы. Единственный недостаток - дороговизна, поэтому встретить его можно редко. Неудивительно, что среди террористов назначена высокая награда за каждый подбитый Т-90.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">t72_base</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">T-72А</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Основной танк Т-72 производства &quot;Уралвагонзавода&quot; достаточно активно экспортировался и использовался по всему миру, в течение долгого времени оставаясь непревзойденным королём поля боя. Время идёт, и на смену устаревающему Т-72 пришли более продвинутые машины. Однако множество возможных технических улучшений позволяют весьма эффективно использовать Т-72 и в настоящее время. В Сирии они стоят на вооружении уже с давних пор и отлично зарекомендовали себя в бою.</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">t72_smoke</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" html:Size="8" html:Color="#000000">dieman:</Font></B><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">&#10;не отличается от базовой модификации. Оставлен на случай, если уже имеется в спаунах</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">T-72А</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Основной танк Т-72 производства &quot;Уралвагонзавода&quot; достаточно активно экспортировался и использовался по всему миру, в течение долгого времени оставаясь непревзойдённым королём поля боя. Время идет, и на смену устаревающему Т-72 пришли более продвинутые машины. Однако множество возможных технических улучшений позволяют весьма эффективно использовать Т-72 и в настоящее время. В Сирии они стоят на вооружении уже с давних пор и отлично зарекомендовали себя в бою.</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="51">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">t72_arm</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">T-72АВ</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Основной танк Т-72 производства &quot;Уралвагонзавода&quot; достаточно активно экспортировался и использовался по всему миру, в течение долгого времени оставаясь непревзойденным королём поля боя. Время идёт, и на смену устаревающему Т-72 пришли более продвинутые машины. Однако множество возможных технических улучшений позволяют весьма эффективно использовать Т-72 и в настоящее время. В Сирии они стоят на вооружении уже с давних пор и отлично зарекомендовали себя в бою.&#10;&#10;Данная модель оборудована динамической защитой, обеспечивающей дополнительную защиту от кумулятивных зарядов, но немного снижающей максимальную скорость.</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">t55</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">T-55А</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Старый советский танк, произведённый в гигантских количествах и потому всё ещё стоящий на вооружении в десятках стран. Точность 100-мм орудия и качество бронирования не удовлетворяют никаким современным требованиям, и поэтому в бою он эффективен только против заведомого более слабого противника и из засады. Тем не менее, парк танков Т-55 в Сирии настолько многочисленный по сравнению с остальными моделями, что не пользоваться ими было бы глупо.</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">t55_arm</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">T-55MВ</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Модернизированная версия танка Т-55. Модернизация была сделана в конце прошлого века по заказу сирийского правительства в попытке привести ТТХ танка в соответствие с современными на тот момент требованиями. Танк стал более манёвренным и защищённым, за счёт обновления прицельных систем была повышена точность ведения огня - теперь не требуется останавливаться для каждого выстрела. Из-за наличия динамической защиты Т-55МВ может поспорить в эффективности с базовыми версиями Т-72.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">t55_sandbags</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">T-55 усиленный</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Старый советский танк, произведённый в гигантских количествах и потому всё ещё стоящий на вооружении в десятках стран. Точность 100-мм орудия и качество бронирования не удовлетворяют никаким современным требованиям, и поэтому в бою он эффективен только против заведомого более слабого противника и из засады. Тем не менее, парк танков Т-55 в Сирии настолько многочисленный по сравнению с остальными моделями, что не пользоваться ими было бы глупо.&#10;Укреплен дополнительными мешками с песком и строительным мусором. Некоторые танкисты верят, что мешки могут защитить от вражеских РПГ. Вероятно, иногда это срабатывает.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">t62</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Т-62</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Танк Т-62 чуть лучше защищён, чем его предшественник Т-55А, и лучше вооружён. Его слабое место - скорострельность. Тяжелые снаряды, ручной выброс гильз - всё это приводит к тому, что неопытный экипаж не может сделать более четырех выстрелов в минуту. Впрочем, ветераны боевых действий обеспечивают своему танку скорость зарядки на уровне танка Т-55. Парк Т-62 в Сирии достаточно крупный, чтобы танкистам было с чем тренироваться.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s77">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">t62_arm</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Т-62М усиленный</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Танк Т-62 чуть лучше защищён, чем его предшественник Т-55А, и лучше вооружён. Его слабое место - скорострельность. Тяжелые снаряды, ручной выброс гильз - всё это приводит к тому, что неопытный экипаж не может сделать более четырех выстрелов в минуту. Впрочем, ветераны боевых действий обеспечивают своему танку скорость зарядки на уровне танка Т-55. Парк Т-62 в Сирии достаточно крупный, чтобы танкистам было с чем тренироваться.&#10;Версия, прошедшая глубокую заводскую модернизацию. Установлена дополнительная броневая защита башни, корпуса и днища, резинотканевые бортовые противокумулятивные экраны; увеличена мощность двигателя. Кроме того, над танком серьезно поработали сирийские умельцы - наварили протикумулятивных решёток по кругу; правда, из-за этого пришлось демонтировать систему запуска дымовых гранат.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s77">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">t62_arm2</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Т-62М&#160;</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Танк Т-62 чуть лучше защищён, чем его предшественник Т-55А, и лучше вооружён. Его слабое место - скорострельность. Тяжелые снаряды, ручной выброс гильз - всё это приводит к тому, что неопытный экипаж не может сделать более четырех выстрелов в минуту. Впрочем, ветераны боевых действий обеспечивают своему танку скорость зарядки на уровне танка Т-55. Парк Т-62 в Сирии достаточно крупный, чтобы танкистам было с чем тренироваться.&#10;Версия, прошедшая глубокую заводскую модернизацию. Установлена дополнительная броневая защита башни, корпуса и днища, резинотканевые бортовые противокумулятивные экраны, система запуска дымовых гранат 902Б «Туча»; увеличена мощность двигателя.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s77">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">t62_demopack</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Смертник на танке</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Танк, с которого сняли башню для снижения профиля и напичкали взрывчаткой. Бабах!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">bmp2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">БМП-2 (ПТУР)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">БМП-2 - сильно модернизированная по сравнению с предшественницей боевая машина. Основное её преимущество - новая пушка, идеально подходящая для ведения городского боя благодаря большому углу стрельбы, высокой скорострельности и возможности прицельно стрелять во время движения. В Сирийской армии за руль БМП-2 сажают, как правило, только опытных специалистов, и благодаря этому за время войны их было потеряно менее дюжины.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">bmp1_base</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">БМП-1</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Для своего времени БМП-1 была настоящей революцией. Снаряд её 73-мм пушки пробивал броню любого известного на момент её появления танка. Однако сейчас данная машина считается и морально, и физически устаревшей. Она уже снята с вооружения в России и используется только в странах третьего мира. Сирия заказала их вместе с БМП-2 и была первой страной, в которой они использовались в реальных боевых условиях.</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="51">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">bmp1_ptur</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">БМП-1 (ПТУР)</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Для своего времени БМП-1 была настоящей революцией. Снаряд её 73-мм пушки пробивал броню любого известного на момент её появления танка. Однако сейчас данная машина считается и морально, и физически устаревшей. Она уже снята с вооружения в России и используется только в странах третьего мира. Сирия заказала их вместе с БМП-2 и была первой страной, в которой они использовались в реальных боевых условиях.&#10;&#10;Слабая, по современным меркам, пробивная способность кумулятивного снаряда пушки БМП-1 в этой модели компенсируется пусковой установкой ПТУР, делающей эту машину опасной для танков.</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="51">
+    <Cell><Data ss:Type="String">bmp1_ptur_lowspeed</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">БМП-1 (ПТУР)</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Для своего времени БМП-1 была настоящей революцией. Снаряд её 73-мм пушки пробивал броню любого известного на момент её появления танка. Однако сейчас данная машина считается и морально, и физически устаревшей. Она уже снята с вооружения в России и используется только в странах третьего мира. Сирия заказала их вместе с БМП-2 и была первой страной, в которой они использовались в реальных боевых условиях.&#10;&#10;Слабая, по современным меркам, пробивная способность кумулятивного снаряда пушки БМП-1 в этой модели компенсируется пусковой установкой ПТУР, делающей эту машину опасной для танков.</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">tos</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ТОС-1А «Солнцепёк»</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Тяжёлая огнемётная система - страшное орудие, буквально выжигающее термобарическими снарядами вражеские позиции. В месте попадания снаряда происходит объёмный взрыв, создающий область повышенной температуры и пониженного давления. Машина оказывает мощное психологическое влияние противника одним своим появлением.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">gvozdika</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">2С1 «Гвоздика»</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" html:Size="8" html:Color="#000000">dieman:</Font></B><Font
+        html:Face="Tahoma" html:Size="8" html:Color="#000000">&#10;Gvozdika</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">&quot;Гвоздика&quot; - старинная советская гаубица. Фактически, это мощная пушка, установленная на шасси лёгкого гусеничного тягача, что, тем не менее, не умаляет её боевых достоинств. Вряд ли она долго выдержит лобовое столкновение даже с незначительным противником, но, ведя огонь с закрытых позиций, &quot;Гвоздики&quot; весьма смертоносны и опасны. Экземпляры, стоящие на вооружении у сирийской армии, не модернизировались с момента производства, но всё равно представляют серьёзную угрозу для противника.</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">shilka_base</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ЗСУ-23-4 «Шилка»</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">4 орудия &quot;Шилки&quot; создают настолько плотный шквал огня, что он буквально в клочья разрывает любой летательный аппарат, попавший под обстрел. Впрочем, в Сирии воздушных сил у террористов практически нет, поэтому это орудие используется против пехоты и лёгкой техники - с тем же успехом. Они отлично подходят для ведения боя с дальних дистанций и из засад, когда проще застать противника врасплох - защита у ЗСУ-23-4 очень слабая.</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">tank_tiger1</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Тигр</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Немецкий тяжёлый танк Тигр, вооружён 88мм орудием и пуемётом МГ34</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Data="&amp;Я"/>
+    <Footer x:Data="Page &amp;С"/>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+    <Gridlines/>
+   </Print>
+   <Selected/>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>1</TopRowBottomPane>
+   <SplitVertical>1</SplitVertical>
+   <LeftColumnRightPane>1</LeftColumnRightPane>
+   <ActivePane>0</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>1</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+    </Pane>
+    <Pane>
+     <Number>0</Number>
+     <ActiveRow>28</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

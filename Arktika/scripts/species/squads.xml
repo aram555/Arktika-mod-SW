@@ -6,9 +6,9 @@
  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-  <LastAuthor>shootty vitty</LastAuthor>
+  <LastAuthor>Пользователь</LastAuthor>
   <Created>2005-02-26T16:04:39Z</Created>
-  <LastSaved>2018-08-16T13:58:45Z</LastSaved>
+  <LastSaved>2025-02-09T15:48:01Z</LastSaved>
   <Version>16.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
@@ -156,7 +156,7 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="tanks">
-  <Table ss:ExpandedColumnCount="60" ss:ExpandedRowCount="111" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="60" ss:ExpandedRowCount="112" x:FullColumns="1"
    x:FullRows="1" ss:StyleID="s63" ss:DefaultRowHeight="12.1875">
    <Column ss:StyleID="s64" ss:Width="144"/>
    <Column ss:StyleID="s63" ss:Width="200.25" ss:Span="4"/>
@@ -920,7 +920,7 @@
     <Cell ss:StyleID="Default"><Data ss:Type="String">UnitTypeIcon\morpeh</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">rus</Data></Cell>
-        <Cell ss:StyleID="Default"><Data ss:Type="Number">250</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">250</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s85">
@@ -1975,8 +1975,8 @@
     <Cell ss:StyleID="s84"><Data ss:Type="String">ru_veteran_rpg</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">ru_veteran_rpg</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">ru_veteran_pk</Data></Cell>
-    <Cell ss:StyleID="s85"/>
-    <Cell ss:StyleID="s85"/>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">ru_veteran_ak</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">ru_veteran_ak</Data></Cell>
     <Cell ss:StyleID="s85"/>
     <Cell ss:StyleID="s85"/>
     <Cell ss:StyleID="s80"><Data ss:Type="String">rus_vdv</Data></Cell>
@@ -2017,6 +2017,24 @@
     <Cell ss:StyleID="Default"><Data ss:Type="Number">500</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
    </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">german_tank_crew</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">german_crew</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">german_crew</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">german_crew</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">german_crew_stg</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s79"><Data ss:Type="String">syr_tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle,tank</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+    <Cell><Data ss:Type="Number">400</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -2036,9 +2054,9 @@
    <FreezePanes/>
    <FrozenNoSplit/>
    <SplitHorizontal>1</SplitHorizontal>
-   <TopRowBottomPane>79</TopRowBottomPane>
+   <TopRowBottomPane>88</TopRowBottomPane>
    <SplitVertical>1</SplitVertical>
-   <LeftColumnRightPane>18</LeftColumnRightPane>
+   <LeftColumnRightPane>14</LeftColumnRightPane>
    <ActivePane>0</ActivePane>
    <Panes>
     <Pane>
@@ -2054,8 +2072,8 @@
     </Pane>
     <Pane>
      <Number>0</Number>
-     <ActiveRow>111</ActiveRow>
-     <ActiveCol>19</ActiveCol>
+     <ActiveRow>122</ActiveRow>
+     <ActiveCol>15</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

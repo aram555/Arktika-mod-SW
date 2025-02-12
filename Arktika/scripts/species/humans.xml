@@ -6,9 +6,9 @@
  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-  <LastAuthor>shootty vitty</LastAuthor>
+  <LastAuthor>Пользователь</LastAuthor>
   <Created>2005-02-26T16:04:39Z</Created>
-  <LastSaved>2018-08-21T15:33:46Z</LastSaved>
+  <LastSaved>2025-02-07T18:00:19Z</LastSaved>
   <Version>16.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
@@ -161,7 +161,7 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="humans">
-  <Table ss:ExpandedColumnCount="84" ss:ExpandedRowCount="222" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="84" ss:ExpandedRowCount="225" x:FullColumns="1"
    x:FullRows="1" ss:DefaultRowHeight="12.1875">
    <Column ss:StyleID="s62" ss:Width="124.5"/>
    <Column ss:StyleID="s63" ss:Width="90.75"/>
@@ -5727,11 +5727,11 @@
     <Cell><Data ss:Type="String">1.0</Data></Cell>
     <Cell><Data ss:Type="String">6</Data></Cell>
     <Cell ss:Index="13" ss:StyleID="s64"><Data ss:Type="String">new_sso_dust_b</Data></Cell>
-    <Cell><Data ss:Type="String">inf_pk_s inf_hg inf_sg</Data></Cell>
-    <Cell><Data ss:Type="String">ammo_762x54s:500 inf_hg:6 light_sg:3</Data></Cell>
+    <Cell><Data ss:Type="String">inf_dp28 inf_hg inf_sg</Data></Cell>
+    <Cell><Data ss:Type="String">ammo_762x54:500 inf_hg:6 light_sg:3</Data></Cell>
     <Cell><Data ss:Type="Number">30</Data></Cell>
     <Cell><Data ss:Type="Number">10</Data></Cell>
-    <Cell ss:Index="21"><Data ss:Type="String">scripts/species/animations_hmgun.txt</Data></Cell>
+    <Cell ss:Index="21"><Data ss:Type="String">scripts/species/animations_kord.txt</Data></Cell>
     <Cell ss:Index="25"><Data ss:Type="Number">2</Data></Cell>
     <Cell ss:Index="27"><Data ss:Type="Number">150</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="Number">50</Data></Cell>
@@ -5756,8 +5756,8 @@
     <Cell><Data ss:Type="String">1.0</Data></Cell>
     <Cell><Data ss:Type="String">6</Data></Cell>
     <Cell ss:Index="13"><Data ss:Type="String">new_sso_dust_d</Data></Cell>
-    <Cell><Data ss:Type="String">inf_osv96 inf_hg inf_sg</Data></Cell>
-    <Cell><Data ss:Type="String">ammo_127_s2:100 inf_hg:6 light_sg:3 </Data></Cell>
+    <Cell><Data ss:Type="String">inf_ppsh41 inf_hg inf_sg</Data></Cell>
+    <Cell><Data ss:Type="String">ammo_9mm:240 inf_hg:6 light_sg:3 </Data></Cell>
     <Cell><Data ss:Type="Number">30</Data></Cell>
     <Cell><Data ss:Type="Number">10</Data></Cell>
     <Cell ss:Index="21"><Data ss:Type="String">scripts/species/animations_rifle.txt</Data></Cell>
@@ -5785,8 +5785,8 @@
     <Cell><Data ss:Type="String">1.0</Data></Cell>
     <Cell><Data ss:Type="String">6</Data></Cell>
     <Cell ss:Index="13"><Data ss:Type="String">new_sso_dust_c</Data></Cell>
-    <Cell><Data ss:Type="String">inf_ak74m inf_hg inf_sg</Data></Cell>
-    <Cell><Data ss:Type="String">ammo_545:240 inf_hg:6 light_sg:3</Data></Cell>
+    <Cell><Data ss:Type="String">inf_pps43 inf_hg inf_sg</Data></Cell>
+    <Cell><Data ss:Type="String">ammo_9mm:240 inf_hg:6 light_sg:3</Data></Cell>
     <Cell><Data ss:Type="Number">30</Data></Cell>
     <Cell><Data ss:Type="Number">10</Data></Cell>
     <Cell ss:Index="21"><Data ss:Type="String">scripts/species/animations_asrifle.txt</Data></Cell>
@@ -5814,8 +5814,8 @@
     <Cell><Data ss:Type="String">1.0</Data></Cell>
     <Cell><Data ss:Type="String">6</Data></Cell>
     <Cell ss:Index="13"><Data ss:Type="String">new_sso_dust_c</Data></Cell>
-    <Cell><Data ss:Type="String">inf_rpg29 inf_hg inf_sg inf_rpkm74_veteran</Data></Cell>
-    <Cell><Data ss:Type="String">inf_bazooka4:8 inf_bazooka5:8 inf_hg:8 light_sg:8 ammo_545_rpk:360</Data></Cell>
+    <Cell><Data ss:Type="String">inf_fg42 inf_bazooka inf_hg inf_sg</Data></Cell>
+    <Cell><Data ss:Type="String">ammo_762x54:500 inf_bazooka:6 inf_bazooka2:6 inf_hg:8 light_sg:8</Data></Cell>
     <Cell><Data ss:Type="Number">30</Data></Cell>
     <Cell><Data ss:Type="Number">10</Data></Cell>
     <Cell ss:Index="21"><Data ss:Type="String">scripts/species/animations_asrifle.txt</Data></Cell>
@@ -5843,8 +5843,8 @@
     <Cell><Data ss:Type="String">1.0</Data></Cell>
     <Cell><Data ss:Type="String">6</Data></Cell>
     <Cell ss:Index="13"><Data ss:Type="String">new_sso_a</Data></Cell>
-    <Cell><Data ss:Type="String">inf_osv96 inf_hg inf_sg inf_rpg29</Data></Cell>
-    <Cell><Data ss:Type="String">ammo_127_s2:100 inf_hg:6 light_sg:3 inf_c4:1 inf_bazooka4:8 inf_bazooka5:8</Data></Cell>
+    <Cell><Data ss:Type="String">inf_mosin_sniper inf_hg inf_sg </Data></Cell>
+    <Cell><Data ss:Type="String">ammo_762x54:120 inf_hg:6 light_sg:3 inf_c4:1</Data></Cell>
     <Cell><Data ss:Type="Number">30</Data></Cell>
     <Cell><Data ss:Type="Number">10</Data></Cell>
     <Cell ss:Index="21"><Data ss:Type="String">scripts/species/animations_rifle.txt</Data></Cell>
@@ -5872,11 +5872,11 @@
     <Cell><Data ss:Type="String">1.0</Data></Cell>
     <Cell><Data ss:Type="String">6</Data></Cell>
     <Cell ss:Index="13"><Data ss:Type="String">new_sso_b</Data></Cell>
-    <Cell><Data ss:Type="String">inf_pk_s inf_hg inf_sg</Data></Cell>
+    <Cell><Data ss:Type="String">inf_mg42 inf_hg inf_sg</Data></Cell>
     <Cell><Data ss:Type="String">ammo_762x54s:500 inf_hg:6 light_sg:3 inf_c4:1</Data></Cell>
     <Cell><Data ss:Type="Number">30</Data></Cell>
     <Cell><Data ss:Type="Number">10</Data></Cell>
-    <Cell ss:Index="21"><Data ss:Type="String">scripts/species/animations_asrifle.txt</Data></Cell>
+    <Cell ss:Index="21"><Data ss:Type="String">scripts/species/animations_kord.txt</Data></Cell>
     <Cell ss:Index="25"><Data ss:Type="Number">2</Data></Cell>
     <Cell ss:Index="27"><Data ss:Type="Number">120</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="Number">30</Data></Cell>
@@ -5917,6 +5917,60 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">ru_gru</Data></Cell>
     <Cell ss:Index="36" ss:StyleID="s70"><Data ss:Type="String">spots/blast_vehicle_burned</Data></Cell>
    </Row>
+   <Row ss:Index="224" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">german_crew</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">health_spec_squad</Data></Cell>
+    <Cell><Data ss:Type="String">0.1</Data></Cell>
+    <Cell><Data ss:Type="Number">4.29</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">0.6</Data></Cell>
+    <Cell><Data ss:Type="String">1.7</Data></Cell>
+    <Cell><Data ss:Type="String">1.6</Data></Cell>
+    <Cell><Data ss:Type="String">1.0</Data></Cell>
+    <Cell><Data ss:Type="String">6</Data></Cell>
+    <Cell ss:Index="13"><Data ss:Type="String">tankman_01</Data></Cell>
+    <Cell><Data ss:Type="String">inf_mp40 inf_hg inf_sg</Data></Cell>
+    <Cell><Data ss:Type="String">ammo_9mm:240 inf_hg:6 light_sg:3</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:Index="21"><Data ss:Type="String">scripts/species/animations_asrifle.txt</Data></Cell>
+    <Cell ss:Index="27"><Data ss:Type="Number">120</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="Number">60</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="Number">80</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="34" ss:StyleID="s82"><Data ss:Type="String">syr_tank_crew</Data></Cell>
+    <Cell ss:Index="36" ss:StyleID="s70"><Data ss:Type="String">spots/blast_vehicle_burned</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">german_crew_stg</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">health_spec_squad</Data></Cell>
+    <Cell><Data ss:Type="String">0.1</Data></Cell>
+    <Cell><Data ss:Type="Number">4.29</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">0.6</Data></Cell>
+    <Cell><Data ss:Type="String">1.7</Data></Cell>
+    <Cell><Data ss:Type="String">1.6</Data></Cell>
+    <Cell><Data ss:Type="String">1.0</Data></Cell>
+    <Cell><Data ss:Type="String">6</Data></Cell>
+    <Cell ss:Index="13"><Data ss:Type="String">tankman_01</Data></Cell>
+    <Cell><Data ss:Type="String">inf_stg44 inf_hg inf_sg</Data></Cell>
+    <Cell><Data ss:Type="String">ammo_9mm:240 inf_hg:6 light_sg:3</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:Index="21"><Data ss:Type="String">scripts/species/animations_asrifle.txt</Data></Cell>
+    <Cell ss:Index="27"><Data ss:Type="Number">120</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="Number">60</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="Number">80</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="34" ss:StyleID="s82"><Data ss:Type="String">syr_tank_crew</Data></Cell>
+    <Cell ss:Index="36" ss:StyleID="s70"><Data ss:Type="String">spots/blast_vehicle_burned</Data></Cell>
+   </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -5933,11 +5987,11 @@
     <Gridlines/>
    </Print>
    <Selected/>
-   <TopRowVisible>189</TopRowVisible>
+   <TopRowVisible>190</TopRowVisible>
    <FreezePanes/>
    <FrozenNoSplit/>
    <SplitVertical>1</SplitVertical>
-   <LeftColumnRightPane>9</LeftColumnRightPane>
+   <LeftColumnRightPane>10</LeftColumnRightPane>
    <ActivePane>1</ActivePane>
    <Panes>
     <Pane>
@@ -5945,8 +5999,8 @@
     </Pane>
     <Pane>
      <Number>1</Number>
-     <ActiveRow>216</ActiveRow>
-     <ActiveCol>13</ActiveCol>
+     <ActiveRow>227</ActiveRow>
+     <ActiveCol>14</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

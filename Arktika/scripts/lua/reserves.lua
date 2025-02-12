@@ -7,6 +7,8 @@ Reserves =
 {
 		first_mission = function()
 		
+		addTank("tank_tiger1", 1)
+		addSquad("german_tank_crew", 1)
 		addSquad("rus_veteran", 1)
 		addSquad("rus_vdv", 2)
 		addSquad("rus_gru_veteran", 1)

@@ -6,9 +6,9 @@
  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-  <LastAuthor>Администратор</LastAuthor>
+  <LastAuthor>Пользователь</LastAuthor>
   <Created>2005-02-26T16:04:39Z</Created>
-  <LastSaved>2017-10-11T12:58:06Z</LastSaved>
+  <LastSaved>2025-02-09T16:09:50Z</LastSaved>
   <Version>16.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
@@ -196,7 +196,7 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="tanks">
-  <Table ss:ExpandedColumnCount="15" ss:ExpandedRowCount="111" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="15" ss:ExpandedRowCount="113" x:FullColumns="1"
    x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="12.1875">
    <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="252"/>
    <Column ss:StyleID="s62" ss:Width="118.5"/>
@@ -725,6 +725,11 @@
     <Cell ss:StyleID="s67"><Data ss:Type="String">Ветераны Морпехи РФ</Data></Cell>
     <Cell><Data ss:Type="String">Ветераны ис состава Морской Пехоты РФ</Data></Cell>
    </Row>
+   <Row ss:Index="113" ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">german_tank_crew</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Немецкие Танкисты</Data></Cell>
+    <Cell><Data ss:Type="String">Экипаж немецкой техники</Data></Cell>
+   </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -761,7 +766,7 @@
     </Pane>
     <Pane>
      <Number>0</Number>
-     <ActiveRow>112</ActiveRow>
+     <ActiveRow>113</ActiveRow>
      <ActiveCol>0</ActiveCol>
     </Pane>
    </Panes>
