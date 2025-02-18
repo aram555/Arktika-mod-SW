@@ -183,7 +183,7 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="gun_mounts">
-  <Table ss:ExpandedColumnCount="46" ss:ExpandedRowCount="182" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="46" ss:ExpandedRowCount="188" x:FullColumns="1"
    x:FullRows="1">
    <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="157.5"/>
    <Column ss:Width="157.5"/>
@@ -1500,6 +1500,35 @@
     <Cell ss:StyleID="s78"><Data ss:Type="String">none,none</Data></Cell>
     <Cell><Data ss:Type="String">sight01</Data></Cell>
    </Row>
+   <Row ss:Index="184">
+    <Cell ss:StyleID="s79"><Data ss:Type="String">tiger1_main_gun</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">gun_b10</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">tiger1_main_gun_hor,tiger1_main_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.gun.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">tiger1_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">mg_m240</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">tiger1_machine_gun_hor,tiger1_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.mg02.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.mg02.man01</Data></Cell>
+   </Row>
+   <Row ss:Index="187">
+    <Cell ss:StyleID="s79"><Data ss:Type="String">t34_main_gun</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">gun_d85</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">t34_main_gun_hor,t34_main_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.gun.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">t34_machine_gun_hull</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">mg_pkt</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">t34_machine_gun_hor,t34_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.mg01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:StyleID="s79"/>
+   </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -1518,7 +1547,7 @@
    <FreezePanes/>
    <FrozenNoSplit/>
    <SplitHorizontal>1</SplitHorizontal>
-   <TopRowBottomPane>157</TopRowBottomPane>
+   <TopRowBottomPane>154</TopRowBottomPane>
    <SplitVertical>1</SplitVertical>
    <LeftColumnRightPane>1</LeftColumnRightPane>
    <ActivePane>0</ActivePane>
@@ -1535,8 +1564,8 @@
     </Pane>
     <Pane>
      <Number>0</Number>
-     <ActiveRow>181</ActiveRow>
-     <ActiveCol>0</ActiveCol>
+     <ActiveRow>188</ActiveRow>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
