@@ -533,7 +533,7 @@
     <Cell ss:StyleID="s74"/>
     <Cell ss:StyleID="s80"/>
     <Cell ss:StyleID="s81"><Data ss:Type="String">t34_main_gun, t34_machine_gun_hull</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">shell_82hc:20, shell_82frag_he:20,ammo_762x51:1200</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">shell_82hc:20, shell_82frag_he:20,ammo_762x54:800</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">t34_tracks,t34_turret,t34_gun,t34_engine,t34_base</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">tank</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">tank</Data></Cell>

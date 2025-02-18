@@ -1515,7 +1515,7 @@
    </Row>
    <Row ss:Index="187">
     <Cell ss:StyleID="s79"><Data ss:Type="String">t34_main_gun</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">gun_d85</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">gun_b10</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">t34_main_gun_hor,t34_main_gun_ver</Data></Cell>
     <Cell><Data ss:Type="String">korpus.bashnya.turret01.gun.sight01</Data></Cell>
    </Row>
