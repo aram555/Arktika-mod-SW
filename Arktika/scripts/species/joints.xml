@@ -92,7 +92,7 @@
   </Colors>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>12480</WindowHeight>
+  <WindowHeight>11880</WindowHeight>
   <WindowWidth>25200</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>0</WindowTopY>
@@ -1578,13 +1578,6 @@
     <Cell ss:StyleID="s72"><Data ss:Type="String">0.17444444444444446</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="Number">10</Data></Cell>
    </Row>
-   <Row ss:Index="97">
-    <Cell ss:Index="3" ss:StyleID="s72"/>
-    <Cell ss:StyleID="s72"/>
-    <Cell ss:StyleID="s72"/>
-    <Cell ss:StyleID="s72"/>
-    <Cell ss:StyleID="s72"/>
-   </Row>
    <Row>
     <Cell ss:Index="3" ss:StyleID="s72"/>
     <Cell ss:StyleID="s72"/>
@@ -1593,25 +1586,44 @@
     <Cell ss:StyleID="s72"/>
    </Row>
    <Row>
-    <Cell ss:Index="3" ss:StyleID="s72"/>
-    <Cell ss:StyleID="s72"/>
-    <Cell ss:StyleID="s72"/>
-    <Cell ss:StyleID="s72"/>
-    <Cell ss:StyleID="s72"/>
+    <Cell><Data ss:Type="String">is2_main_gun_hor</Data></Cell>
+    <Cell><Data ss:Type="String">z</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">korpus.bashnya</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">-180</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">180</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">0.69777777777777783</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
    </Row>
    <Row>
-    <Cell ss:Index="3" ss:StyleID="s72"/>
-    <Cell ss:StyleID="s72"/>
-    <Cell ss:StyleID="s72"/>
-    <Cell ss:StyleID="s72"/>
-    <Cell ss:StyleID="s72"/>
+    <Cell><Data ss:Type="String">is2_main_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">y</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">korpus.bashnya.turret01</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">-3</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">0.17444444444444446</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
    </Row>
    <Row>
-    <Cell ss:Index="3" ss:StyleID="s72"/>
-    <Cell ss:StyleID="s72"/>
-    <Cell ss:StyleID="s72"/>
-    <Cell ss:StyleID="s72"/>
-    <Cell ss:StyleID="s72"/>
+    <Cell><Data ss:Type="String">is2_machine_gun_hor</Data></Cell>
+    <Cell><Data ss:Type="String">z</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">korpus.bashnya.turret01.mg02</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">-180</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">180</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">0.69777777777777783</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">is2_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">y</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">korpus.bashnya.turret01.mg02</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">-10</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">65</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">0.17444444444444446</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
    </Row>
    <Row>
     <Cell ss:Index="3" ss:StyleID="s72"/>
@@ -1687,7 +1699,7 @@
    <FreezePanes/>
    <FrozenNoSplit/>
    <SplitHorizontal>1</SplitHorizontal>
-   <TopRowBottomPane>59</TopRowBottomPane>
+   <TopRowBottomPane>71</TopRowBottomPane>
    <SplitVertical>1</SplitVertical>
    <LeftColumnRightPane>1</LeftColumnRightPane>
    <ActivePane>0</ActivePane>
@@ -1704,8 +1716,9 @@
     </Pane>
     <Pane>
      <Number>0</Number>
-     <ActiveRow>99</ActiveRow>
-     <ActiveCol>4</ActiveCol>
+     <ActiveRow>97</ActiveRow>
+     <ActiveCol>0</ActiveCol>
+     <RangeSelection>R98C1:R101C8</RangeSelection>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

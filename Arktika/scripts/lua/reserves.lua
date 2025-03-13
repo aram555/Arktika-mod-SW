@@ -9,6 +9,7 @@ Reserves =
 		
 		addTank("tank_tiger1", 1)
 		addTank("tank_t34_85", 2)
+		addTank("tank_is2", 2)
 		addSquad("german_tank_crew", 1)
 		addSquad("rus_veteran", 1)
 		addSquad("rus_vdv", 2)

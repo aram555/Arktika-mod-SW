@@ -8,7 +8,7 @@
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <LastAuthor>Пользователь</LastAuthor>
   <Created>2005-02-26T16:04:39Z</Created>
-  <LastSaved>2025-02-12T14:54:56Z</LastSaved>
+  <LastSaved>2025-02-18T17:40:27Z</LastSaved>
   <Version>16.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
@@ -92,7 +92,7 @@
   </Colors>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>12480</WindowHeight>
+  <WindowHeight>11880</WindowHeight>
   <WindowWidth>25200</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>0</WindowTopY>
@@ -183,7 +183,7 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="gun_mounts">
-  <Table ss:ExpandedColumnCount="46" ss:ExpandedRowCount="188" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="46" ss:ExpandedRowCount="193" x:FullColumns="1"
    x:FullRows="1">
    <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="157.5"/>
    <Column ss:Width="157.5"/>
@@ -1528,6 +1528,29 @@
    <Row>
     <Cell ss:StyleID="s79"/>
     <Cell ss:StyleID="s79"/>
+    <Cell ss:StyleID="s78"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:StyleID="s79"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">is2_main_gun</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">gun_b10</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">is2_main_gun_hor,is2_main_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.gun.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">is2_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">inf_dshk</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">is2_machine_gun_hor,is2_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.mg02.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.mg02.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:StyleID="s78"/>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
@@ -1547,7 +1570,7 @@
    <FreezePanes/>
    <FrozenNoSplit/>
    <SplitHorizontal>1</SplitHorizontal>
-   <TopRowBottomPane>154</TopRowBottomPane>
+   <TopRowBottomPane>160</TopRowBottomPane>
    <SplitVertical>1</SplitVertical>
    <LeftColumnRightPane>1</LeftColumnRightPane>
    <ActivePane>0</ActivePane>
@@ -1564,8 +1587,8 @@
     </Pane>
     <Pane>
      <Number>0</Number>
-     <ActiveRow>188</ActiveRow>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>187</ActiveRow>
+     <ActiveCol>3</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

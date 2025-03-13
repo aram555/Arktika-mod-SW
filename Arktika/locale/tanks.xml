@@ -92,7 +92,7 @@
   </Colors>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>12480</WindowHeight>
+  <WindowHeight>11880</WindowHeight>
   <WindowWidth>25200</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>0</WindowTopY>
@@ -307,7 +307,7 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="tanks">
-  <Table ss:ExpandedColumnCount="15" ss:ExpandedRowCount="20" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="15" ss:ExpandedRowCount="22" x:FullColumns="1"
    x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="12.1875">
    <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="252"/>
    <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="138"/>
@@ -438,6 +438,16 @@
     <Cell ss:StyleID="s66"><Data ss:Type="String">Тигр</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Немецкий тяжёлый танк Тигр, вооружён 88мм орудием и пуемётом МГ34</Data></Cell>
    </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">tank_t34_85</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Т-34-85</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Легендарный Советский Средний танк Т-34-85, вооружён 85мм орудием</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">tank_is2</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ИС-2</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Советский тяжёлый тнак ИС-2, вооружён 122мм орудием и пулемётом ДШК</Data></Cell>
+   </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -459,7 +469,7 @@
    <SplitHorizontal>1</SplitHorizontal>
    <TopRowBottomPane>1</TopRowBottomPane>
    <SplitVertical>1</SplitVertical>
-   <LeftColumnRightPane>1</LeftColumnRightPane>
+   <LeftColumnRightPane>2</LeftColumnRightPane>
    <ActivePane>0</ActivePane>
    <Panes>
     <Pane>
@@ -467,14 +477,14 @@
     </Pane>
     <Pane>
      <Number>1</Number>
+     <ActiveCol>1</ActiveCol>
     </Pane>
     <Pane>
      <Number>2</Number>
     </Pane>
     <Pane>
      <Number>0</Number>
-     <ActiveRow>28</ActiveRow>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>26</ActiveRow>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
