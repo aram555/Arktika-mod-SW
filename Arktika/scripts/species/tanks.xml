@@ -282,7 +282,7 @@
    <Column ss:StyleID="s62" ss:Width="38.25"/>
    <Column ss:StyleID="s62" ss:Width="29.25"/>
    <Column ss:StyleID="s62" ss:Width="39"/>
-   <Column ss:StyleID="s62" ss:Width="23.25"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="24"/>
    <Column ss:StyleID="s62" ss:Width="60.75"/>
    <Column ss:StyleID="s62" ss:Width="102"/>
    <Column ss:StyleID="s62" ss:Width="105.75"/>
@@ -540,7 +540,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="Number">11</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">tank</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">tank</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">german_tank_crew</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">soviet_tank_crew</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">UnitTypeIcon\vehicle_enemy</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">UnitTypeIcon\vehicle_player</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">models/vehicles/tank_t34_85.mld</Data></Cell>
@@ -576,17 +576,17 @@
    </Row>
    <Row>
     <Cell><Data ss:Type="String">tank_is2</Data></Cell>
-    <Cell><Data ss:Type="Number">50</Data></Cell>
-    <Cell><Data ss:Type="Number">1.5</Data></Cell>
-    <Cell><Data ss:Type="Number">4</Data></Cell>
-    <Cell><Data ss:Type="Number">12</Data></Cell>
-    <Cell><Data ss:Type="Number">0.33</Data></Cell>
-    <Cell><Data ss:Type="Number">6.02</Data></Cell>
-    <Cell><Data ss:Type="Number">20</Data></Cell>
-    <Cell><Data ss:Type="Number">35</Data></Cell>
-    <Cell><Data ss:Type="Number">4</Data></Cell>
-    <Cell><Data ss:Type="Number">1</Data></Cell>
-    <Cell ss:Index="18"><Data ss:Type="Number">120</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">0.33</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">6.02</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="Number">180</Data></Cell>
     <Cell><Data ss:Type="Number">80</Data></Cell>
     <Cell><Data ss:Type="Number">150</Data></Cell>
     <Cell><Data ss:Type="Number">250</Data></Cell>
@@ -602,17 +602,17 @@
     <Cell><Data ss:Type="Number">1500</Data></Cell>
     <Cell><Data ss:Type="String">medium_vehicle,heavy_vehicle</Data></Cell>
     <Cell ss:Index="38"><Data ss:Type="String">is2_main_gun,is2_machine_gun</Data></Cell>
-    <Cell><Data ss:Type="String">shell_82hc:20, shell_82frag_he:20,ammo_127:1000</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">shell_82hc:20, shell_82frag_he:20,ammo_762x54:800</Data></Cell>
     <Cell><Data ss:Type="String">is2_tracks,is2_turret,is2_gun,is2_engine,is2_base</Data></Cell>
     <Cell><Data ss:Type="String">tank</Data></Cell>
     <Cell><Data ss:Type="String">tank</Data></Cell>
     <Cell><Data ss:Type="Number">11</Data></Cell>
     <Cell><Data ss:Type="String">tank</Data></Cell>
     <Cell><Data ss:Type="String">tank</Data></Cell>
-    <Cell><Data ss:Type="String">german_tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">soviet_tank_crew</Data></Cell>
     <Cell><Data ss:Type="String">UnitTypeIcon\vehicle_enemy</Data></Cell>
     <Cell><Data ss:Type="String">UnitTypeIcon\vehicle_player</Data></Cell>
-    <Cell><Data ss:Type="String">models/vehicles/tank_is2.mld</Data></Cell>
+    <Cell><Data ss:Type="String">models/vehicles/tank_is2.xmdl</Data></Cell>
     <Cell><Data ss:Type="String">bmd_voices</Data></Cell>
     <Cell><Data ss:Type="String">tank</Data></Cell>
     <Cell><Data ss:Type="String">korpus.exhaustsmoke01</Data></Cell>
@@ -632,7 +632,7 @@
     <Cell><Data ss:Type="Number">15</Data></Cell>
     <Cell><Data ss:Type="Number">0.3</Data></Cell>
     <Cell><Data ss:Type="String">_destruction_tank_light:0.9</Data></Cell>
-    <Cell><Data ss:Type="String">tank_tiger1</Data></Cell>
+    <Cell><Data ss:Type="String">pic_tank_is2</Data></Cell>
     <Cell><Data ss:Type="String">tank_t72</Data></Cell>
     <Cell><Data ss:Type="Number">100</Data></Cell>
     <Cell><Data ss:Type="Boolean">1</Data></Cell>
@@ -659,7 +659,7 @@
    <SplitHorizontal>1</SplitHorizontal>
    <TopRowBottomPane>1</TopRowBottomPane>
    <SplitVertical>1</SplitVertical>
-   <LeftColumnRightPane>70</LeftColumnRightPane>
+   <LeftColumnRightPane>40</LeftColumnRightPane>
    <ActivePane>0</ActivePane>
    <Panes>
     <Pane>
@@ -674,9 +674,8 @@
     </Pane>
     <Pane>
      <Number>0</Number>
-     <ActiveRow>3</ActiveRow>
-     <ActiveCol>0</ActiveCol>
-     <RangeSelection>R4C1:R4C78</RangeSelection>
+     <ActiveRow>9</ActiveRow>
+     <ActiveCol>45</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

@@ -15,7 +15,7 @@
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>12480</WindowHeight>
+  <WindowHeight>11880</WindowHeight>
   <WindowWidth>25200</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>0</WindowTopY>
@@ -6764,9 +6764,9 @@
     <Cell ss:StyleID="s98"><Data ss:Type="String">infantry,light_vehicle,medium_vehicle,heavy_vehicle</Data></Cell>
     <Cell ss:StyleID="s108"/>
     <Cell ss:StyleID="s100"/>
-    <Cell ss:StyleID="s98"/>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">shell_30api:100, shell_30hei:200,heavy_sg:6</Data></Cell>
-    <Cell ss:StyleID="s108"/>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">btr_gun</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">shell_30api:200, shell_30hei: 300</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">btr_tracks,btr_turret,btr_engine,btr_base,btr_cargo,btr_gun</Data></Cell>
     <Cell ss:StyleID="s98"><Data ss:Type="String">military</Data></Cell>
     <Cell ss:StyleID="s98"><Data ss:Type="String">medium_vehicle</Data></Cell>
     <Cell ss:StyleID="s98"><Data ss:Type="Number">5</Data></Cell>
@@ -6775,7 +6775,7 @@
     <Cell ss:StyleID="s98"><Data ss:Type="String">sirian_btr_crew_01</Data></Cell>
     <Cell ss:StyleID="s98"><Data ss:Type="String">UnitTypeIcon\vehicle_enemy</Data></Cell>
     <Cell ss:StyleID="s98"><Data ss:Type="String">UnitTypeIcon\vehicle_player</Data></Cell>
-    <Cell ss:StyleID="s98"><Data ss:Type="String">models/vehicles/btr1.xmdl</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">models/vehicles/btr_new.xmdl</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">btr80_voices</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">bmp</Data></Cell>
     <Cell ss:StyleID="s98"><Data ss:Type="String">korpus.linkcar</Data></Cell>
@@ -6789,8 +6789,8 @@
     <Cell ss:StyleID="s98"/>
     <Cell ss:StyleID="s98"/>
     <Cell ss:StyleID="s98"/>
-    <Cell ss:StyleID="s98"><Data ss:Type="String">animations/vehicles/car_btr80_gun_open.mld</Data></Cell>
-    <Cell ss:StyleID="s98"><Data ss:Type="String">animations/vehicles/car_btr80_gun_close.mld</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
     <Cell><Data ss:Type="String">blast/destroy_sound/2</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">spots/blast_cars_burned</Data></Cell>
     <Cell><Data ss:Type="Number">4</Data></Cell>
@@ -6826,7 +6826,7 @@
    <FreezePanes/>
    <FrozenNoSplit/>
    <SplitHorizontal>1</SplitHorizontal>
-   <TopRowBottomPane>58</TopRowBottomPane>
+   <TopRowBottomPane>64</TopRowBottomPane>
    <SplitVertical>1</SplitVertical>
    <LeftColumnRightPane>35</LeftColumnRightPane>
    <ActivePane>0</ActivePane>
@@ -6844,7 +6844,7 @@
     </Pane>
     <Pane>
      <Number>0</Number>
-     <ActiveRow>83</ActiveRow>
+     <ActiveRow>84</ActiveRow>
      <ActiveCol>37</ActiveCol>
     </Pane>
    </Panes>

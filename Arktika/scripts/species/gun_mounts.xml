@@ -183,7 +183,7 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="gun_mounts">
-  <Table ss:ExpandedColumnCount="46" ss:ExpandedRowCount="193" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="46" ss:ExpandedRowCount="194" x:FullColumns="1"
    x:FullRows="1">
    <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="157.5"/>
    <Column ss:Width="157.5"/>
@@ -1552,6 +1552,12 @@
     <Cell ss:StyleID="s79"/>
     <Cell ss:StyleID="s78"/>
    </Row>
+   <Row>
+    <Cell><Data ss:Type="String">btr_gun</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">cg_2a72</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">btr80_machine_gun_hor,btr80_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
+   </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -1570,7 +1576,7 @@
    <FreezePanes/>
    <FrozenNoSplit/>
    <SplitHorizontal>1</SplitHorizontal>
-   <TopRowBottomPane>160</TopRowBottomPane>
+   <TopRowBottomPane>169</TopRowBottomPane>
    <SplitVertical>1</SplitVertical>
    <LeftColumnRightPane>1</LeftColumnRightPane>
    <ActivePane>0</ActivePane>
@@ -1587,7 +1593,7 @@
     </Pane>
     <Pane>
      <Number>0</Number>
-     <ActiveRow>187</ActiveRow>
+     <ActiveRow>195</ActiveRow>
      <ActiveCol>3</ActiveCol>
     </Pane>
    </Panes>

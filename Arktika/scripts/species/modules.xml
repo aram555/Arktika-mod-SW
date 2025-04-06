@@ -6,9 +6,9 @@
  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-  <LastAuthor>dieman</LastAuthor>
+  <LastAuthor>Пользователь</LastAuthor>
   <Created>2005-02-26T16:04:39Z</Created>
-  <LastSaved>2018-03-19T15:27:55Z</LastSaved>
+  <LastSaved>2025-03-18T13:42:44Z</LastSaved>
   <Version>16.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
@@ -464,7 +464,7 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="voices">
-  <Table ss:ExpandedColumnCount="31" ss:ExpandedRowCount="211" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="31" ss:ExpandedRowCount="218" x:FullColumns="1"
    x:FullRows="1">
    <Column ss:StyleID="s62" ss:Width="144"/>
    <Column ss:Width="669"/>
@@ -4637,9 +4637,9 @@
     <Cell ss:StyleID="s72"><Data ss:Type="Number">800</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:220</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">tank_steel_armor:220</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">reactive_armor:175</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:125</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">tank_steel_armor:500</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">reactive_armor2:480</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:125</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:90</Data></Cell>
     <Cell ss:StyleID="s76"><Data ss:Type="String">turret</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">turret</Data></Cell>
@@ -4686,11 +4686,11 @@
     <Cell ss:StyleID="s78"><Data ss:Type="String">none;kill_driver(driver_down);smoke(inflammation)+unload_crew(bailing_out)+deny_crew_load;vital</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">korpus.crew</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="Number">800</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">reactive_armor:175</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">reactive_armor:175</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">reactive_armor:181</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:100</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:100</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:125</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">tank_steel_armor:60</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">reactive_armor2:410</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:210</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">tank_steel_armor:500</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">front_hull</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">crew</Data></Cell>
@@ -4720,12 +4720,20 @@
     <Cell ss:StyleID="s67"><Data ss:Type="String">reload_penalty;reload_penalty+kill_crew_member(crew_member_down);smoke(inflammation)+unload_crew(bailing_out)+deny_crew_load;vital</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">korpus.bashnya.turret01</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="Number">800</Data></Cell>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:220</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">tank_steel_armor:220</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">reactive_armor:175</Data></Cell>
-    <Cell ss:StyleID="s74"><Data ss:Type="String">tank_steel_armor:500</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">reactive_armor2:480</Data></Cell>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:90</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">vehicle_steel_armor:70</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">vehicle_steel_armor:70</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">vehicle_steel_armor:50</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 7.62, но портится 12.7&#10;-пробивается 14.5</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">tank_steel_armor:20</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">vehicle_steel_armor:200</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">vehicle_steel_armor:50</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 7.62, но портится 12.7&#10;-пробивается 14.5</Font></ss:Data></Comment></Cell>
     <Cell ss:StyleID="s76"><Data ss:Type="String">turret</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">turret</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="Number">10</Data></Cell>
@@ -4754,12 +4762,20 @@
     <Cell ss:StyleID="s67"><Data ss:Type="String">speed_penalty(engine_damaged);move(engine_destroyed);smoke(inflammation)+unload_crew(bailing_out)+deny_crew_load;vital</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">korpus.engine</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="Number">800</Data></Cell>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:170</Data></Cell>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:170</Data></Cell>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:60</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">vehicle_steel_armor:70</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">vehicle_steel_armor:70</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">vehicle_steel_armor:50</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 7.62, но портится 12.7&#10;-пробивается 14.5</Font></ss:Data></Comment></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">tank_steel_armor:20</Data></Cell>
-    <Cell ss:StyleID="s74"><Data ss:Type="String">tank_steel_armor:500</Data></Cell>
-    <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:87</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">vehicle_steel_armor:200</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">vehicle_steel_armor:50</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 7.62, но портится 12.7&#10;-пробивается 14.5</Font></ss:Data></Comment></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">back_hull</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">engine</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="Number">10</Data></Cell>
@@ -4771,12 +4787,20 @@
     <Cell ss:StyleID="s78"><Data ss:Type="String">none;kill_driver(driver_down);smoke(inflammation)+unload_crew(bailing_out)+deny_crew_load;vital</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">korpus.crew</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="Number">800</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">reactive_armor:175</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">reactive_armor:175</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">reactive_armor:181</Data></Cell>
-    <Cell ss:StyleID="s78"><Data ss:Type="String">tank_steel_armor:60</Data></Cell>
-    <Cell ss:StyleID="s75"><Data ss:Type="String">reactive_armor2:410</Data></Cell>
-    <Cell ss:StyleID="s74"><Data ss:Type="String">tank_steel_armor:500</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">vehicle_steel_armor:70</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">vehicle_steel_armor:70</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">vehicle_steel_armor:50</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 7.62, но портится 12.7&#10;-пробивается 14.5</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">tank_steel_armor:20</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">vehicle_steel_armor:200</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">vehicle_steel_armor:50</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 7.62, но портится 12.7&#10;-пробивается 14.5</Font></ss:Data></Comment></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">front_hull</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">crew</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="Number">10</Data></Cell>
@@ -4784,84 +4808,271 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">korpus.exhaust_broken_crew</Data></Cell>
    </Row>
    <Row ss:Index="207">
-    <Cell><Data ss:Type="String">is2_tracks</Data></Cell>
-    <Cell><Data ss:Type="String">speed_penalty(chassis_damaged);move(chassis_destroyed);none;none</Data></Cell>
-    <Cell><Data ss:Type="String">korpus.tracks01;korpus.tracks02</Data></Cell>
-    <Cell><Data ss:Type="Number">300</Data></Cell>
-    <Cell><Data ss:Type="String">track's_roll:30</Data></Cell>
-    <Cell><Data ss:Type="String">track's_roll:30</Data></Cell>
-    <Cell><Data ss:Type="String">steel_track:20</Data></Cell>
-    <Cell><Data ss:Type="String">steel_track:20</Data></Cell>
-    <Cell><Data ss:Type="String">steel_track:20</Data></Cell>
-    <Cell><Data ss:Type="String">steel_track:20</Data></Cell>
-    <Cell ss:Index="12"><Data ss:Type="String">chassis</Data></Cell>
-    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">is2_tracks</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">speed_penalty(chassis_damaged);move(chassis_destroyed);none;none</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">korpus.tracks01;korpus.tracks02</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">300</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">track's_roll:30</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">track's_roll:30</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">steel_track:20</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">steel_track:20</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">steel_track:20</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">steel_track:20</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">chassis</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
    </Row>
    <Row>
-    <Cell><Data ss:Type="String">is2_turret</Data></Cell>
-    <Cell><Data ss:Type="String">reload_penalty;reload_penalty+kill_crew_member(crew_member_down);smoke(inflammation)+unload_crew(bailing_out)+deny_crew_load;vital</Data></Cell>
-    <Cell><Data ss:Type="String">korpus.bashnya.turret01</Data></Cell>
-    <Cell><Data ss:Type="Number">800</Data></Cell>
-    <Cell><Data ss:Type="String">tank_steel_armor:220</Data></Cell>
-    <Cell><Data ss:Type="String">tank_steel_armor:220</Data></Cell>
-    <Cell><Data ss:Type="String">reactive_armor:175</Data></Cell>
-    <Cell><Data ss:Type="String">tank_steel_armor:500</Data></Cell>
-    <Cell><Data ss:Type="String">reactive_armor2:480</Data></Cell>
-    <Cell><Data ss:Type="String">tank_steel_armor:90</Data></Cell>
-    <Cell><Data ss:Type="String">turret</Data></Cell>
-    <Cell><Data ss:Type="String">turret</Data></Cell>
-    <Cell><Data ss:Type="Number">10</Data></Cell>
-    <Cell><Data ss:Type="String">smoke_damage:1.5</Data></Cell>
-    <Cell><Data ss:Type="String">korpus.exhaust_broken_turret</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">is2_turret</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">reload_penalty;reload_penalty+kill_crew_member(crew_member_down);smoke(inflammation)+unload_crew(bailing_out)+deny_crew_load;vital</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">korpus.bashnya.turret01</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">600</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:170</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:170</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:60</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">tank_steel_armor:500</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:235</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:87</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">turret</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">turret</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">smoke_damage:1.5</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">korpus.exhaust_broken_turret</Data></Cell>
    </Row>
    <Row>
-    <Cell><Data ss:Type="String">is2_gun</Data></Cell>
-    <Cell><Data ss:Type="String">none;shoot(gun_disabled);none;none</Data></Cell>
-    <Cell><Data ss:Type="String">korpus.bashnya.turret01.gun</Data></Cell>
-    <Cell><Data ss:Type="Number">300</Data></Cell>
-    <Cell><Data ss:Type="String">main_gun:37</Data></Cell>
-    <Cell><Data ss:Type="String">main_gun:37</Data></Cell>
-    <Cell><Data ss:Type="String">main_gun:37</Data></Cell>
-    <Cell><Data ss:Type="String">main_gun:300</Data></Cell>
-    <Cell><Data ss:Type="String">main_gun:500</Data></Cell>
-    <Cell><Data ss:Type="String">main_gun:500</Data></Cell>
-    <Cell><Data ss:Type="String">turret</Data></Cell>
-    <Cell><Data ss:Type="String">gun</Data></Cell>
-    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">is2_gun</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">none;shoot(gun_disabled);none;none</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">korpus.bashnya.turret01.gun</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">300</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">main_gun:37</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">main_gun:37</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">main_gun:37</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">main_gun:300</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">main_gun:450</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">main_gun:450</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">turret</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
    </Row>
    <Row>
-    <Cell><Data ss:Type="String">is2_engine</Data></Cell>
-    <Cell><Data ss:Type="String">speed_penalty(engine_damaged);move(engine_destroyed);smoke(inflammation)+unload_crew(bailing_out)+deny_crew_load;vital</Data></Cell>
-    <Cell><Data ss:Type="String">korpus.engine</Data></Cell>
-    <Cell><Data ss:Type="Number">800</Data></Cell>
-    <Cell><Data ss:Type="String">tank_steel_armor:170</Data></Cell>
-    <Cell><Data ss:Type="String">tank_steel_armor:170</Data></Cell>
-    <Cell><Data ss:Type="String">tank_steel_armor:60</Data></Cell>
-    <Cell><Data ss:Type="String">tank_steel_armor:20</Data></Cell>
-    <Cell><Data ss:Type="String">tank_steel_armor:500</Data></Cell>
-    <Cell><Data ss:Type="String">tank_steel_armor:87</Data></Cell>
-    <Cell><Data ss:Type="String">back_hull</Data></Cell>
-    <Cell><Data ss:Type="String">engine</Data></Cell>
-    <Cell><Data ss:Type="Number">10</Data></Cell>
-    <Cell><Data ss:Type="String">smoke_damage:1.5</Data></Cell>
-    <Cell><Data ss:Type="String">korpus.exhaust_broken_engine</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">is2_engine</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">speed_penalty(engine_damaged);move(engine_destroyed);smoke(inflammation)+unload_crew(bailing_out)+deny_crew_load;vital</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">korpus.engine</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">600</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:100</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:100</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:60</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">tank_steel_armor:20</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">tank_steel_armor:200</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:79</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">back_hull</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">engine</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">smoke_damage:1.5</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">korpus.exhaust_broken_engine</Data></Cell>
    </Row>
    <Row>
-    <Cell><Data ss:Type="String">is2_base</Data></Cell>
-    <Cell><Data ss:Type="String">none;kill_driver(driver_down);smoke(inflammation)+unload_crew(bailing_out)+deny_crew_load;vital</Data></Cell>
-    <Cell><Data ss:Type="String">korpus.crew</Data></Cell>
-    <Cell><Data ss:Type="Number">800</Data></Cell>
-    <Cell><Data ss:Type="String">reactive_armor:175</Data></Cell>
-    <Cell><Data ss:Type="String">reactive_armor:175</Data></Cell>
-    <Cell><Data ss:Type="String">reactive_armor:181</Data></Cell>
-    <Cell><Data ss:Type="String">tank_steel_armor:60</Data></Cell>
-    <Cell><Data ss:Type="String">reactive_armor2:410</Data></Cell>
-    <Cell><Data ss:Type="String">tank_steel_armor:500</Data></Cell>
-    <Cell><Data ss:Type="String">front_hull</Data></Cell>
-    <Cell><Data ss:Type="String">crew</Data></Cell>
-    <Cell><Data ss:Type="Number">10</Data></Cell>
-    <Cell><Data ss:Type="String">smoke_damage:1.5</Data></Cell>
-    <Cell><Data ss:Type="String">korpus.exhaust_broken_crew</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">is2_base</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">none;kill_driver(driver_down);smoke(inflammation)+unload_crew(bailing_out)+deny_crew_load;vital</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">korpus.crew</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">600</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:100</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:100</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:125</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">tank_steel_armor:20</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">tank_steel_armor:210</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">tank_steel_armor:500</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">front_hull</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">crew</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">smoke_damage:1.5</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">korpus.exhaust_broken_crew</Data></Cell>
+   </Row>
+   <Row ss:Index="213">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">btr_tracks</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">speed_penalty(chassis_damaged);move(chassis_destroyed);none;none</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">korpus.tracks01;korpus.tracks02</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">300</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">unarmoured:10</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">unarmoured:10</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">unarmoured:10</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">unarmoured:10</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">unarmoured:10</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">unarmoured:10</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">chassis</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">btr_turret</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">reload_penalty;reload_penalty+kill_crew_member(crew_member_down);smoke(inflammation)+unload_crew(bailing_out)+deny_crew_load;vital</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">korpus.bashnya.turret01</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">450</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">vehicle_slat_armor:50</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 7.62, но портится 12.7&#10;-пробивается 14.5</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">vehicle_slat_armor:50</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 7.62, но портится 12.7&#10;-пробивается 14.5</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">vehicle_steel_armor:30</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 5.45, но портится 7.62 и гранатами&#10;-пробивается 12.7</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">tank_steel_armor:20</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">vehicle_steel_armor:50</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 7.62, но портится 12.7&#10;-пробивается 14.5</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">vehicle_slat_armor:50</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 7.62, но портится 12.7&#10;-пробивается 14.5</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">turret</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">smoke_damage:1.5</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">korpus.exhaust_broken_turret</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">btr_engine</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">speed_penalty(engine_damaged);move(engine_destroyed);smoke(inflammation)+unload_crew(bailing_out)+deny_crew_load;vital</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">korpus.engine</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">450</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">vehicle_slat_armor:50</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 7.62, но портится 12.7&#10;-пробивается 14.5</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">vehicle_slat_armor:50</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 7.62, но портится 12.7&#10;-пробивается 14.5</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">vehicle_steel_armor:30</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 5.45, но портится 7.62 и гранатами&#10;-пробивается 12.7</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">tank_steel_armor:20</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">vehicle_slat_armor:50</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 7.62, но портится 12.7&#10;-пробивается 14.5</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">vehicle_slat_armor:50</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 7.62, но портится 12.7&#10;-пробивается 14.5</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">back_hull</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">engine</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">smoke_damage:1.5</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">korpus.exhaust_broken_engine</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">btr_base</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">none;kill_driver(driver_down);smoke(inflammation)+unload_crew(bailing_out)+deny_crew_load;vital</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">korpus.crew</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">450</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">vehicle_slat_armor:50</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 7.62, но портится 12.7&#10;-пробивается 14.5</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">vehicle_slat_armor:50</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 7.62, но портится 12.7&#10;-пробивается 14.5</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">vehicle_steel_armor:30</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 5.45, но портится 7.62 и гранатами&#10;-пробивается 12.7</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">tank_steel_armor:20</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">vehicle_slat_armor:50</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 7.62, но портится 12.7&#10;-пробивается 14.5</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">vehicle_slat_armor:50</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 7.62, но портится 12.7&#10;-пробивается 14.5</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">front_hull</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">crew</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">smoke_damage:1.5</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">korpus.exhaust_broken_crew</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">btr_cargo</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">none;kill_half_cargo(troops_bailing_out)+unload_cargo;kill_cargo(troops_down)+smoke(inflammation)+unload_crew(bailing_out)+deny_crew_load;vital</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">korpus.cargo</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">450</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">vehicle_slat_armor:50</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 7.62, но портится 12.7&#10;-пробивается 14.5</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">vehicle_slat_armor:50</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 7.62, но портится 12.7&#10;-пробивается 14.5</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">vehicle_steel_armor:30</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 5.45, но портится 7.62 и гранатами&#10;-пробивается 12.7</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">tank_steel_armor:20</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">vehicle_slat_armor:50</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 7.62, но портится 12.7&#10;-пробивается 14.5</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">vehicle_slat_armor:50</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;-не пробивается 7.62, но портится 12.7&#10;-пробивается 14.5</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">mid_hull</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">cargo</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">smoke_damage:1.5</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">korpus.exhaust_broken_cargo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">btr_gun</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">none;shoot(gun_disabled);none;none</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">korpus.bashnya.turret01.gun</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">200</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">main_gun:37</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">main_gun:37</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">main_gun:37</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">main_gun:300</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">main_gun:450</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">main_gun:450</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">turret</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
@@ -4881,7 +5092,7 @@
    <FreezePanes/>
    <FrozenNoSplit/>
    <SplitHorizontal>1</SplitHorizontal>
-   <TopRowBottomPane>184</TopRowBottomPane>
+   <TopRowBottomPane>187</TopRowBottomPane>
    <SplitVertical>1</SplitVertical>
    <LeftColumnRightPane>1</LeftColumnRightPane>
    <ActivePane>0</ActivePane>
@@ -4898,7 +5109,7 @@
     </Pane>
     <Pane>
      <Number>0</Number>
-     <ActiveRow>212</ActiveRow>
+     <ActiveRow>224</ActiveRow>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
