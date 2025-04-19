@@ -6,9 +6,9 @@
  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-  <LastAuthor>dieman</LastAuthor>
+  <LastAuthor>Пользователь</LastAuthor>
   <Created>2005-02-26T16:04:39Z</Created>
-  <LastSaved>2018-07-12T13:20:13Z</LastSaved>
+  <LastSaved>2025-04-06T09:40:31Z</LastSaved>
   <Version>16.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
@@ -6724,15 +6724,15 @@
    </Row>
    <Row ss:Index="82" ss:AutoFitHeight="0">
     <Cell ss:StyleID="s106"><Data ss:Type="String">low_poly_btr</Data></Cell>
-    <Cell ss:StyleID="s107"><Data ss:Type="Number">15.4</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">11.5</Data></Cell>
     <Cell><Data ss:Type="Number">1.5</Data></Cell>
     <Cell ss:StyleID="s98"><Data ss:Type="Number">7.5</Data></Cell>
-    <Cell ss:StyleID="s107"><Data ss:Type="Number">12.5</Data><Comment
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">13.33</Data><Comment
       ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
          html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
          html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
-        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;75</Font></ss:Data></Comment></Cell>
-    <Cell ss:StyleID="s107"><Data ss:Type="Number">0.7</Data></Cell>
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;80</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">0.45</Data></Cell>
     <Cell ss:StyleID="s98"/>
     <Cell ss:StyleID="s98"/>
     <Cell ss:StyleID="s98"><Data ss:Type="Number">10</Data></Cell>
@@ -6747,25 +6747,25 @@
     <Cell><Data ss:Type="Number">120</Data></Cell>
     <Cell><Data ss:Type="String">directed</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="Number">100</Data></Cell>
-    <Cell ss:StyleID="s96"><Data ss:Type="Number">180</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="Number">170</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="Number">200</Data></Cell>
     <Cell ss:StyleID="s97"><Data ss:Type="Number">4</Data></Cell>
     <Cell ss:StyleID="s109"><Data ss:Type="String">heavy</Data></Cell>
     <Cell ss:StyleID="s98"/>
-    <Cell ss:StyleID="s107"><Data ss:Type="Number">300</Data></Cell>
-    <Cell ss:StyleID="s98"><Data ss:Type="Number">60</Data></Cell>
-    <Cell ss:StyleID="s107"><Data ss:Type="Number">8</Data></Cell>
-    <Cell ss:StyleID="s107"/>
-    <Cell ss:StyleID="s110"><Data ss:Type="Number">3000</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="Number">90</Data></Cell>
-    <Cell ss:StyleID="s111"><Data ss:Type="Number">9</Data></Cell>
-    <Cell ss:StyleID="s98"><Data ss:Type="Number">900</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">290</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">4000</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">45</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">500</Data></Cell>
     <Cell ss:StyleID="s98"><Data ss:Type="Number">1500</Data></Cell>
-    <Cell ss:StyleID="s98"><Data ss:Type="String">infantry,light_vehicle,medium_vehicle,heavy_vehicle</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">infantry,light_vehicle,medium_vehicle</Data></Cell>
     <Cell ss:StyleID="s108"/>
     <Cell ss:StyleID="s100"/>
     <Cell ss:StyleID="s98"><Data ss:Type="String">btr_gun</Data></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">shell_30api:200, shell_30hei: 300</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">shell_30api:100, shell_30hei:200</Data></Cell>
     <Cell ss:StyleID="s108"><Data ss:Type="String">btr_tracks,btr_turret,btr_engine,btr_base,btr_cargo,btr_gun</Data></Cell>
     <Cell ss:StyleID="s98"><Data ss:Type="String">military</Data></Cell>
     <Cell ss:StyleID="s98"><Data ss:Type="String">medium_vehicle</Data></Cell>
@@ -6776,11 +6776,11 @@
     <Cell ss:StyleID="s98"><Data ss:Type="String">UnitTypeIcon\vehicle_enemy</Data></Cell>
     <Cell ss:StyleID="s98"><Data ss:Type="String">UnitTypeIcon\vehicle_player</Data></Cell>
     <Cell ss:StyleID="s98"><Data ss:Type="String">models/vehicles/btr_new.xmdl</Data></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">btr80_voices</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">btr70_voices</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">bmp</Data></Cell>
     <Cell ss:StyleID="s98"><Data ss:Type="String">korpus.linkcar</Data></Cell>
     <Cell ss:StyleID="s103"><Data ss:Type="String">yes</Data></Cell>
-    <Cell ss:StyleID="s98"><Data ss:Type="String">korpus.exhaustsmoke01,korpus.exhaustsmoke02</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">korpus.exhaustsmoke01</Data></Cell>
     <Cell ss:StyleID="s98"><Data ss:Type="String">korpus.exhaust01,korpus.exhaust02</Data></Cell>
     <Cell><Data ss:Type="String">_exhaust_tank</Data></Cell>
     <Cell ss:StyleID="s98"><Data ss:Type="String">_dust_tank_medium</Data></Cell>
@@ -6802,9 +6802,9 @@
     <Cell><Data ss:Type="Number">0.7</Data></Cell>
     <Cell><Data ss:Type="Number">15</Data></Cell>
     <Cell><Data ss:Type="Number">0.3</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">pic_car_btr80a</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">pic_car_btr70</Data></Cell>
     <Cell><Data ss:Type="String">car_btr</Data></Cell>
-    <Cell ss:StyleID="s104"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="Number">97</Data></Cell>
     <Cell><Data ss:Type="Boolean">1</Data></Cell>
    </Row>
   </Table>
@@ -6828,7 +6828,7 @@
    <SplitHorizontal>1</SplitHorizontal>
    <TopRowBottomPane>64</TopRowBottomPane>
    <SplitVertical>1</SplitVertical>
-   <LeftColumnRightPane>35</LeftColumnRightPane>
+   <LeftColumnRightPane>1</LeftColumnRightPane>
    <ActivePane>0</ActivePane>
    <Panes>
     <Pane>
@@ -6836,7 +6836,6 @@
     </Pane>
     <Pane>
      <Number>1</Number>
-     <ActiveCol>1</ActiveCol>
     </Pane>
     <Pane>
      <Number>2</Number>
@@ -6844,8 +6843,8 @@
     </Pane>
     <Pane>
      <Number>0</Number>
-     <ActiveRow>84</ActiveRow>
-     <ActiveCol>37</ActiveCol>
+     <ActiveRow>89</ActiveRow>
+     <ActiveCol>6</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

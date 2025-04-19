@@ -307,7 +307,7 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="tanks">
-  <Table ss:ExpandedColumnCount="15" ss:ExpandedRowCount="22" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="15" ss:ExpandedRowCount="24" x:FullColumns="1"
    x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="12.1875">
    <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="252"/>
    <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="138"/>
@@ -448,6 +448,16 @@
     <Cell ss:StyleID="s66"><Data ss:Type="String">ИС-2</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Советский тяжёлый тнак ИС-2, вооружён 122мм орудием и пулемётом ДШК</Data></Cell>
    </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">tank_is3</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ИС-3</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Советский тяжёлый тнак ИС-3, вооружён 122мм орудием и пулемётом ДШК</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">tank_su100</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">СУ-100</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Советская Самоходная Противотанковая Установка, вооружена 100мм орудием, не имеет пулемёта</Data></Cell>
+   </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -484,7 +494,7 @@
     </Pane>
     <Pane>
      <Number>0</Number>
-     <ActiveRow>26</ActiveRow>
+     <ActiveRow>27</ActiveRow>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

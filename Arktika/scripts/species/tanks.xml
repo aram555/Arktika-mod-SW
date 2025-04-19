@@ -267,7 +267,7 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="tanks">
-  <Table ss:ExpandedColumnCount="78" ss:ExpandedRowCount="4" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="78" ss:ExpandedRowCount="6" x:FullColumns="1"
    x:FullRows="1" ss:StyleID="s62" ss:DefaultColumnWidth="51">
    <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="159"/>
    <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="31.5"/>
@@ -637,6 +637,132 @@
     <Cell><Data ss:Type="Number">100</Data></Cell>
     <Cell><Data ss:Type="Boolean">1</Data></Cell>
    </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tank_is3</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">0.33</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">6.02</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="Number">180</Data></Cell>
+    <Cell><Data ss:Type="Number">80</Data></Cell>
+    <Cell><Data ss:Type="Number">150</Data></Cell>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell><Data ss:Type="String">directed</Data></Cell>
+    <Cell ss:Index="24"><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">84</Data></Cell>
+    <Cell><Data ss:Type="Number">462</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="Number">1500</Data></Cell>
+    <Cell><Data ss:Type="String">medium_vehicle,heavy_vehicle</Data></Cell>
+    <Cell ss:Index="38"><Data ss:Type="String">is3_main_gun,is3_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">shell_82hc:20, shell_82frag_he:20, ammo_127:100</Data></Cell>
+    <Cell><Data ss:Type="String">is3_tracks,is3_turret,is3_gun,is3_engine,is3_base</Data></Cell>
+    <Cell><Data ss:Type="String">tank</Data></Cell>
+    <Cell><Data ss:Type="String">tank</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="String">tank</Data></Cell>
+    <Cell><Data ss:Type="String">tank</Data></Cell>
+    <Cell><Data ss:Type="String">soviet_tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\vehicle_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\vehicle_player</Data></Cell>
+    <Cell><Data ss:Type="String">models/vehicles/tank_is3.xmdl</Data></Cell>
+    <Cell><Data ss:Type="String">bmd_voices</Data></Cell>
+    <Cell><Data ss:Type="String">tank</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.exhaustsmoke01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.exhaust01,korpus.exhaust02</Data></Cell>
+    <Cell><Data ss:Type="String">_exhaust_tank</Data></Cell>
+    <Cell><Data ss:Type="String">_dust_tank_medium</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.st_wheel01,korpus.st_wheel02,korpus.st_wheel03,korpus.st_wheel04,korpus.st_wheel05,korpus.st_wheel06,korpus.st_wheel07,korpus.st_wheel08,korpus.st_wheel09,korpus.st_wheel10,korpus.st_wheel11,korpus.st_wheel12,korpus.st_wheel13,korpus.st_wheel14,korpus.st_wheel15,korpus.st_wheel16,korpus.st_wheel17,korpus.st_wheel18,korpus.st_wheel19,korpus.st_wheel20,korpus.st_wheel21,korpus.st_wheel22</Data></Cell>
+    <Cell><Data ss:Type="String">yes</Data></Cell>
+    <Cell ss:Index="63"><Data ss:Type="String">blast/destroy_sound/3</Data></Cell>
+    <Cell><Data ss:Type="String">spots/blast_vehicle_burned</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">390</Data></Cell>
+    <Cell><Data ss:Type="String">2-5:he400</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">heavy</Data></Cell>
+    <Cell ss:Index="71"><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">_destruction_tank_light:0.9</Data></Cell>
+    <Cell><Data ss:Type="String">pic_tank_is2</Data></Cell>
+    <Cell><Data ss:Type="String">tank_t72</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="Boolean">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tank_su100</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">0.33</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">6.02</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="Number">180</Data></Cell>
+    <Cell><Data ss:Type="Number">80</Data></Cell>
+    <Cell><Data ss:Type="Number">150</Data></Cell>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell><Data ss:Type="String">directed</Data></Cell>
+    <Cell ss:Index="24"><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">84</Data></Cell>
+    <Cell><Data ss:Type="Number">462</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="Number">1500</Data></Cell>
+    <Cell><Data ss:Type="String">medium_vehicle,heavy_vehicle</Data></Cell>
+    <Cell ss:Index="38"><Data ss:Type="String">su100_main_gun</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">shell_82hc:20, shell_82frag_he:20</Data></Cell>
+    <Cell><Data ss:Type="String">su100_tracks,su100_gun,su100_engine,su100_base</Data></Cell>
+    <Cell><Data ss:Type="String">tank</Data></Cell>
+    <Cell><Data ss:Type="String">tank</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="String">tank</Data></Cell>
+    <Cell><Data ss:Type="String">tank</Data></Cell>
+    <Cell><Data ss:Type="String">soviet_tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\vehicle_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\vehicle_player</Data></Cell>
+    <Cell><Data ss:Type="String">models/vehicles/tank_su100.xmdl</Data></Cell>
+    <Cell><Data ss:Type="String">bmd_voices</Data></Cell>
+    <Cell><Data ss:Type="String">tank</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.exhaustsmoke01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.exhaust01,korpus.exhaust02</Data></Cell>
+    <Cell><Data ss:Type="String">_exhaust_tank</Data></Cell>
+    <Cell><Data ss:Type="String">_dust_tank_medium</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.st_wheel01,korpus.st_wheel02,korpus.st_wheel03,korpus.st_wheel04,korpus.st_wheel05,korpus.st_wheel06,korpus.st_wheel07,korpus.st_wheel08,korpus.st_wheel09,korpus.st_wheel10,korpus.st_wheel11,korpus.st_wheel12,korpus.st_wheel13,korpus.st_wheel14</Data></Cell>
+    <Cell><Data ss:Type="String">yes</Data></Cell>
+    <Cell ss:Index="63"><Data ss:Type="String">blast/destroy_sound/3</Data></Cell>
+    <Cell><Data ss:Type="String">spots/blast_vehicle_burned</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">390</Data></Cell>
+    <Cell><Data ss:Type="String">2-5:he400</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">heavy</Data></Cell>
+    <Cell ss:Index="71"><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">_destruction_tank_light:0.9</Data></Cell>
+    <Cell><Data ss:Type="String">pic_tank_is2</Data></Cell>
+    <Cell><Data ss:Type="String">tank_t72</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="Boolean">1</Data></Cell>
+   </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -659,7 +785,7 @@
    <SplitHorizontal>1</SplitHorizontal>
    <TopRowBottomPane>1</TopRowBottomPane>
    <SplitVertical>1</SplitVertical>
-   <LeftColumnRightPane>36</LeftColumnRightPane>
+   <LeftColumnRightPane>52</LeftColumnRightPane>
    <ActivePane>0</ActivePane>
    <Panes>
     <Pane>
@@ -674,8 +800,8 @@
     </Pane>
     <Pane>
      <Number>0</Number>
-     <ActiveRow>12</ActiveRow>
-     <ActiveCol>38</ActiveCol>
+     <ActiveRow>13</ActiveRow>
+     <ActiveCol>55</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

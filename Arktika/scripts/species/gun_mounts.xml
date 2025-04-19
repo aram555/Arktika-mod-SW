@@ -183,7 +183,7 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="gun_mounts">
-  <Table ss:ExpandedColumnCount="46" ss:ExpandedRowCount="194" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="46" ss:ExpandedRowCount="199" x:FullColumns="1"
    x:FullRows="1">
    <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="157.5"/>
    <Column ss:Width="157.5"/>
@@ -1558,6 +1558,25 @@
     <Cell ss:StyleID="s68"><Data ss:Type="String">btr80_machine_gun_hor,btr80_gun_ver</Data></Cell>
     <Cell><Data ss:Type="String">korpus.bashnya.turret01.sight01</Data></Cell>
    </Row>
+   <Row ss:Index="196">
+    <Cell ss:StyleID="s79"><Data ss:Type="String">is3_main_gun</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">gun_b10</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">is2_main_gun_hor,is2_main_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.gun.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">is3_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">inf_dshk</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">is2_machine_gun_hor,is2_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.mg01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.mg01.man01</Data></Cell>
+   </Row>
+   <Row ss:Index="199">
+    <Cell ss:StyleID="s79"><Data ss:Type="String">su100_main_gun</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">gun_b10</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">su100_main_gun_hor,su100_main_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.gun.sight01</Data></Cell>
+   </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -1593,8 +1612,8 @@
     </Pane>
     <Pane>
      <Number>0</Number>
-     <ActiveRow>195</ActiveRow>
-     <ActiveCol>3</ActiveCol>
+     <ActiveRow>199</ActiveRow>
+     <ActiveCol>0</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
