@@ -183,7 +183,7 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="gun_mounts">
-  <Table ss:ExpandedColumnCount="46" ss:ExpandedRowCount="199" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="46" ss:ExpandedRowCount="204" x:FullColumns="1"
    x:FullRows="1">
    <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="157.5"/>
    <Column ss:Width="157.5"/>
@@ -1577,6 +1577,30 @@
     <Cell ss:StyleID="s78"><Data ss:Type="String">su100_main_gun_hor,su100_main_gun_ver</Data></Cell>
     <Cell><Data ss:Type="String">korpus.gun.sight01</Data></Cell>
    </Row>
+   <Row ss:Index="201">
+    <Cell ss:StyleID="s79"><Data ss:Type="String">tank_new_main_gun01</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">gun_b10</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">tank_new_gun_hor, tank_new_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.gun01.sight01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">tank_new_main_gun02</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">gun_b10</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">tank_new_gun_hor, tank_new_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.gun02.sight02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">tank_new_main_gun03</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">gun_b10</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">tank_new_gun_hor, tank_new_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret01.gun03.sight03</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">tank_new_machine_gun</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">inf_dshk</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">tank_new_mg_hor, tank_new_mg_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.turret02.mg01.sight01</Data></Cell>
+   </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -1612,8 +1636,8 @@
     </Pane>
     <Pane>
      <Number>0</Number>
-     <ActiveRow>199</ActiveRow>
-     <ActiveCol>0</ActiveCol>
+     <ActiveRow>206</ActiveRow>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

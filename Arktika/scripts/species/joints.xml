@@ -169,7 +169,7 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="tanks">
-  <Table ss:ExpandedColumnCount="19" ss:ExpandedRowCount="111" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="19" ss:ExpandedRowCount="114" x:FullColumns="1"
    x:FullRows="1" ss:StyleID="s62">
    <Column ss:StyleID="s63" ss:Width="276.75"/>
    <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="30.75"/>
@@ -1707,11 +1707,44 @@
     <Cell ss:StyleID="s72"/>
    </Row>
    <Row>
-    <Cell ss:Index="3" ss:StyleID="s72"/>
-    <Cell ss:StyleID="s72"/>
-    <Cell ss:StyleID="s72"/>
-    <Cell ss:StyleID="s72"/>
-    <Cell ss:StyleID="s72"/>
+    <Cell><Data ss:Type="String">tank_new_gun_hor</Data></Cell>
+    <Cell><Data ss:Type="String">z</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">korpus.bashnya.turret01</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">-180</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">180</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">0.69777777777777783</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tank_new_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">y</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">korpus.bashnya</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">-3</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">0.17444444444444446</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tank_new_mg_hor</Data></Cell>
+    <Cell><Data ss:Type="String">z</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">korpus.bashnya.turret02</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">-180</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">180</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">0.69777777777777783</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tank_new_mg_ver</Data></Cell>
+    <Cell><Data ss:Type="String">y</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">korpus.bashnya.turret02.mg01</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">-3</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">0.17444444444444446</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
@@ -1731,7 +1764,7 @@
    <FreezePanes/>
    <FrozenNoSplit/>
    <SplitHorizontal>1</SplitHorizontal>
-   <TopRowBottomPane>77</TopRowBottomPane>
+   <TopRowBottomPane>85</TopRowBottomPane>
    <SplitVertical>1</SplitVertical>
    <LeftColumnRightPane>1</LeftColumnRightPane>
    <ActivePane>0</ActivePane>
@@ -1748,8 +1781,8 @@
     </Pane>
     <Pane>
      <Number>0</Number>
-     <ActiveRow>110</ActiveRow>
-     <ActiveCol>5</ActiveCol>
+     <ActiveRow>115</ActiveRow>
+     <ActiveCol>3</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
