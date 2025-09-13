@@ -1,0 +1,607 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Urist McDorf</LastAuthor>
+  <Created>2005-02-26T16:04:39Z</Created>
+  <LastSaved>2017-02-19T16:12:33Z</LastSaved>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12420</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#333399" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#CC99FF"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#E26B0A" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#76933C" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#60497A" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Interior/>
+  </Style>
+  <Style ss:ID="s71">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#31869B" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s74">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#E26B0A" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s75">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#0066CC" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="items">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="173" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="1135.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="66.75"/>
+   <Column ss:Width="72"/>
+   <Row ss:StyleID="s63">
+    <Cell><Data ss:Type="String">text</Data></Cell>
+    <Cell><Data ss:Type="String">type</Data></Cell>
+    <Cell><Data ss:Type="String">after_mission</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">The Semaphore: News from the fields: the rebel forces in Idlib are growing in strength and in number by the day. A recent success inspires the regime's opposition.</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">first_mission</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">EBC: The International Committee of the Red Cross deemed the Syrian conflict a &quot;civil war.&quot; That means strict persecution of war crimes for both sides involved.</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">first_mission</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Global Thread: Assad is the only defense for the Syrian Christians from the zealots that siege the country both from within and from outside. When during winter Russia and China vetoed a UN Security Council decision to condemn Assad's regime, many of them rejoiced.</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">first_mission</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Then: A helicopter carrying election materials was shot down in Lybia. An election committee employee died in the crash.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">first_mission</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">WNN: The Syrian ambassador to Iraq, Nawaf al-Fares, has joined the opposition. &quot;I urge all honest members of this party to follow my path because the regime has turned it to an instrument to kill people and their aspiration to freedom.&quot; - he says.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">first_mission</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Cats Now: First hand: a reputable source in the Syrian moderate opposition forces predicts that Damascus shall fall within a month.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">first_mission</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">EBC: The Higgs boson is found - CERN scientists have analyzed the data on the LHC experiments, and they confirm the existence of the &quot;mass particle.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">first_mission</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Cats Now: The 2012 Summer Olympics will begin in less than a month in London. The city's tourism industry is experiencing a boost, and the benefits will be seen for years to come, economists say.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">first_mission</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s70"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">NY Spaces: Daesh fighters have captured Palmyra, a city of strategic and historic value. Antique artefacts and ancient buildings are in danger - the terrorists will sell what they can and destroy the rest.</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">DemoLand</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Al Ishmaeliya: The last city in the Idlib province that's been previously under government control has been captured. Now the Army of Conquest threatens fortifications in the neighboring Latakia.</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">DemoLand</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">The Warden: The Free Syrian Army is advancing into Aleppo. A recently captured former research center opens up new directions to attack government forces from.</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">DemoLand</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">EBC: Slaughter in Kobani - Daesh combatants executed 146 civilians during the one day they've spent in the Syrian Kurdistan city, before the Kurds managed to fight them back.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">DemoLand</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Al Qarr: A crowd of Druzes in Israel have attacked an ambulance that was carrying wounded Syrian rebels, killing one of them. A few weeks earlier 40 Druzes have been killed by members of the Al-Nusra Front in Syria.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">DemoLand</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Anarchic: In Lybia, Daesh fighters have beheaded a soldier in front of a crowd of children, some of them as little as six. The photos have been published on Lybia social media networks.</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">DemoLand</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Popugai News: After a half-year truce the Kurdish YPG are in a clash with Al-Nusra fighters again. Since the beginning, the Syrian Kurds have tried to take a neutral stance without getting into large-scale battles with other insurgents but also without directly opposing Assad.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">DemoLand</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">EBC: The Cuban flag soars above Washington again. 54 years after the falling-out diplomatic relationships between Cuba and the USA have been renewed, despite some &quot;standing issues.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">DemoLand</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">NY Spaces: Ireland has become the first country to legalize same-sex marriage via popular vote. More than 60 percent of eligible voters have attended, and 62 percent of the ones who did have voted &quot;for.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">DemoLand</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s70"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Porters: Vladimir Putin says American support of the Syrian rebels &quot;illegal&quot; and against UN principles. He claims that it only serves to arm Daesh with USA weapons.</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Airport</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Paper: The Russian Aerospace Forces have begun their operation in Syria. A week earlier the Syrian President Bashar al-Assad has requested Moscow's military aid in a letter to Russian President Vladimir Putin.</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Airport</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Anti-Fight: 500 million dollars down the drain - Pentagon closes the New Syrian Force program. A little over a hundred soldiers were sent to Syria - and almost immediately they ended up in Al-Qaeda ranks along with all the expensive equipment they had.</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Airport</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Porters: Egypt's President, Abdul-Fattah, has approved of Russia's actions in Syria. He says that it'll help get rid of terrorists in the region. At the same time, Egypt is avoiding showing support of Assad's regime.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Airport</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Lynx News: A USA government official told us that &quot;Putin is deliberately targeting our forces&quot; in an exclusive interview. He says that about a hundred and a half CIA-trained rebels have been killed by Russian airstrikes.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Airport</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Porters: The USA and Russia have signed Memorandum of Understanding on Prevention of Flight Safety Incidents. &quot;It's not a treaty of cooperation or anything like that ... It doesn't connote cooperation or coordination or joint targeting,&quot; State Department spokesman John Kirby said.</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Airport</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Daily Hauberk: The son of one of Steven Spielberg's assistants embraced Islam and went to Syria to fight on Al-Nusra's side. In an exclusive interview Lucas Kinney's mother tells us about his life and worries about his future - &quot;I'm afraid he'll become a suicide bomber.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Airport</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Porters: Representatives of 41 Syrian insurgent groups are calling for cooperation to counter &quot;the Russian-Iranian alliance occupying Syria.&quot; The statement was sent by Ahrar al-Sham and the authors did not include Al-Nusra, despite them both being part of the &quot;Army of Conquest&quot;.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Airport</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">The Semaphore: The leader of Al-Nusra Front Abu Mohamad al-Golani has released an audio message on YouTube in which he urges the opposition to increase the number of their attacks in revenge for &quot;indiscriminate killings of Muslim Sunnis by invading Russians.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Airport</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Interxerox: Cameron and Erdogan call the Russian operation in Syria a &quot;serious mistake.&quot; The leaders of Britain and Turkey think that Moscow's intervention will only make matters worse.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Airport</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ribbon: Despite claims of a &quot;reconciling nature&quot; of Al-Nusra, its actions speak a different tale - the organization displays that approach only in regards to Islamic groups with an ideology close to their own.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Airport</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">EBC: 12 countries of the Asian-Pacific region, including USA and Japan, have agreed to create the Transpacific Partnership. This is the largest economic partnership in the last 20 years. Initial analysis predicts that the total GNP of member countries will constitute 40% of the global GNP.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Airport</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">EBC: A Russian Su-24 aircraft has been shot down by Turkish anti-air systems on the Syrian border. At least one pilot has survived, an extraction mission is being carried out. Details of the incident are unknown yet.</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">city_test5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CACC: For three days in a row Russia has been performing massive airstrikes on illegal military outfits. Targets include the Daesh headquarters in Idlib.</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">city_test5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">The Warden: The United Arab Emirates have offered a job to the UN representative in Lybia, paying 35 thousand euro per month. In response to criticism Bernandino Leon claims there's no conflict of interest - he already stated that he wishes to leave his position two months ago.</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">city_test5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">NY Spaces: Leaked e-mails paint the UAE in a bad light - against international agreements the Emirates have been supplying weapons to Lybia. This information may talks of peace in the country at risk.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">city_test5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">EBC: Terror in Paris - three teams have performed attacks, leading to the deaths of 129, wounding of 350, France's capital's chief prosecutor says. &quot;We have to find out where they came from... and how they were financed.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">city_test5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Long Fight Diary: A rift in the ranks of the &quot;Army of Conquest&quot; - Jund al-Aqsa has declared that it's leaving the Jaysh al-Fatah coalition because of differences in views on Islamic law. This is especially strange considering that both organizations are closely connected to Al-Qaeda.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">city_test5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Al Qarr: Soldiers are deserting the FSA in large numbers. The reasons include a low pay, poor conditions, fragmentation. The organization is no longer viewed as a viable alternative to Assad's government.</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">city_test5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Interxerox: Over four thousand strikes have been performed on combatant positions by the Russian air forces since the beginning of their operations in Syria.</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">city_test5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Interxerox: &quot;Our task is to stabilize the legitimate power and create conditions for finding a political compromise,&quot; - Mr. Putin has answered a question about the role of RF's military in the Syrian conflict.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">city_test5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">RN: 23 dead, 65 wounded in Latakia - SANA, a Syrian state media outlet, reports that two missiles has struck the center of the town near the university. Initial findings suggest that the attack was carried out by the Al-Nusra Front.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">city_test5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">WNN: 1111-carat diamond found in Botswana - largest in the last 100 years and second largest in history. Market price to be determined.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">city_test5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The Month: US Department of State issues travel alert for citizens traveling abroad due to increased risk of terrorist attacks.</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">city_test5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s70"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Al Ishmaeliya: Israel's Prime Minister Benjamin Netanyahu admitted that the Israeli military are performing operations in Syria. &quot;We also do everything to prevent weapons, particularly lethal ones, being moved from Syria to Lebanon.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SavingPilots</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">The Moon: British airplanes are bombing the oil fields in Eastern Syria that the Daesh terrorists are using to finance their operations.</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SavingPilots</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">The Moon: &quot;We must put aside all our differences, create one mighty fist, a united anti-terrorist front, that will operate based on international law and on UN's authority.&quot; - Russia's President Vladimir Putin.</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SavingPilots</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">MBC News: &quot;It is impossible for Toyota to completely control indirect or illegal channels through which our vehicles could be misappropriated.&quot; - the Japanese company's representative has answered questions concerning the large amounts of the brand's cars in terrorists'' hands.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SavingPilots</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Washington Thread: The largest Daesh assault in Iraq in recent months fought off by the military with American air support. The scale of the attack shows that the organization is still very powerful.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SavingPilots</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">PBC News: Saudi Arabia has declared that 34 countries have formed the Islamic Military Alliance, dedicated to fighting terrorism. Turkish Prime Minister Ahmet Davutoglu called it the &quot;best response to those who are trying to associate terror and Islam.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SavingPilots</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Spaces of Malta: 14 people have died fighting in Lybia on the same day that the warring sides have signed a UN-backed agreement of creating a unity government.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SavingPilots</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">RN: Triple terror - in Tell Tamer, a town in the al-Hasakah province, three terrorist attacks have been carried out. The explosions rocked crowded places and one happened near a hospital. At least 58 dead, more than 100 wounded. This is not the first time this town is attacked - a Christian community makes it a target for zealots.</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SavingPilots</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Tidings: The first link from the Russian energy network to the Crimea peninsula has been opened. Mr. Putin has personally attended the ceremony in Simferopol.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SavingPilots</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Daily Hauberk: Elon Musk has entered space travel history - the first test flight of the SpaceX reusable rocket has been a success. The rocket left Cape Canaveral at 8:29 PM and landed nearby a few minutes later.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">SavingPilots</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s70"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Al Qarr: The Syrian Kurds have declared the territories under their control to be an autonomous federation called Rojava. Rojava's representatives claim that the country's future lies in federalism.</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">industrial</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Anarchic: The Russian President has ordered the country's military to pull out of Syria, its main objectives having been completed. Some forces will remain, functioning as before.</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">industrial</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Jerusalem Thread: Syrian rebels claim that they've shot down an aircraft in the Western part of the country. Syrian Observatory for Human Rights confirms the insurgents' statement.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">industrial</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Al Qarr: Syrian Revolutionary Front leader killed by a suicide bomber, 17 others dead. No group claims responsibility, but analysts suspect Al-Nusra or Daesh.</Data></Cell>
+    <Cell><Data ss:Type="String">critical</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">industrial</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Porters: Libya's U.N.-backed unity government will move to Tripoli from Tunis &quot;within a few days,&quot; its prime minister said.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">industrial</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Anarchic: Lucas Kinney, the son of a famous film director's assistant, wants to become a suicide bomber. He declared that in a Norwegian documentary that explores the psychology of people who embrace death in service of that they consider &quot;just.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">industrial</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Rotten Oranges: In just a few days the much-anticipated &quot;Batman v Superman&quot; will visit the wide screens, but critic reviews on the closed premiere leave much to be desired. &quot;There's too much going on  the screen, and none of it engaging&quot; - says one.</Data></Cell>
+    <Cell><Data ss:Type="String">normal</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">industrial</Data></Cell>
+   </Row>
+   <Row ss:Index="73">
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row ss:Index="91">
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row ss:Index="100">
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row ss:Index="121" ss:StyleID="s70">
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row ss:Index="136" ss:StyleID="s70">
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row ss:StyleID="s70">
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row ss:Index="139">
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Data="&amp;Я"/>
+    <Footer x:Data="Page &amp;С"/>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+    <Gridlines/>
+   </Print>
+   <Zoom>70</Zoom>
+   <Selected/>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>1</TopRowBottomPane>
+   <SplitVertical>1</SplitVertical>
+   <LeftColumnRightPane>1</LeftColumnRightPane>
+   <ActivePane>0</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>1</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+    </Pane>
+    <Pane>
+     <Number>0</Number>
+     <ActiveRow>9</ActiveRow>
+     <ActiveCol>8</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

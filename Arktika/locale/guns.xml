@@ -1,0 +1,583 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Администратор</LastAuthor>
+  <Created>2005-02-26T16:04:39Z</Created>
+  <LastSaved>2017-08-18T13:06:09Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <Colors>
+   <Color>
+    <Index>16</Index>
+    <RGB>#8080FF</RGB>
+   </Color>
+   <Color>
+    <Index>17</Index>
+    <RGB>#802060</RGB>
+   </Color>
+   <Color>
+    <Index>18</Index>
+    <RGB>#FFFFC0</RGB>
+   </Color>
+   <Color>
+    <Index>19</Index>
+    <RGB>#A0E0E0</RGB>
+   </Color>
+   <Color>
+    <Index>20</Index>
+    <RGB>#600080</RGB>
+   </Color>
+   <Color>
+    <Index>22</Index>
+    <RGB>#0080C0</RGB>
+   </Color>
+   <Color>
+    <Index>23</Index>
+    <RGB>#C0C0FF</RGB>
+   </Color>
+   <Color>
+    <Index>33</Index>
+    <RGB>#69FFFF</RGB>
+   </Color>
+   <Color>
+    <Index>36</Index>
+    <RGB>#A6CAF0</RGB>
+   </Color>
+   <Color>
+    <Index>37</Index>
+    <RGB>#CC9CCC</RGB>
+   </Color>
+   <Color>
+    <Index>39</Index>
+    <RGB>#E3E3E3</RGB>
+   </Color>
+   <Color>
+    <Index>42</Index>
+    <RGB>#339933</RGB>
+   </Color>
+   <Color>
+    <Index>43</Index>
+    <RGB>#999933</RGB>
+   </Color>
+   <Color>
+    <Index>44</Index>
+    <RGB>#996633</RGB>
+   </Color>
+   <Color>
+    <Index>45</Index>
+    <RGB>#996666</RGB>
+   </Color>
+   <Color>
+    <Index>48</Index>
+    <RGB>#3333CC</RGB>
+   </Color>
+   <Color>
+    <Index>49</Index>
+    <RGB>#336666</RGB>
+   </Color>
+   <Color>
+    <Index>52</Index>
+    <RGB>#663300</RGB>
+   </Color>
+   <Color>
+    <Index>55</Index>
+    <RGB>#424242</RGB>
+   </Color>
+  </Colors>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12480</WindowHeight>
+  <WindowWidth>25200</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#3333CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#CC99FF"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#999933" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Interior ss:Color="#00B050" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Interior ss:Color="#999933" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Interior ss:Color="#00B050" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Interior/>
+  </Style>
+  <Style ss:ID="s70">
+   <Interior ss:Color="#00B050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#00B050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#0070C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Interior ss:Color="#0070C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s74">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Interior ss:Color="#0070C0" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="tanks">
+  <Table ss:ExpandedColumnCount="15" ss:ExpandedRowCount="112" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="252"/>
+   <Column ss:Width="486"/>
+   <Column ss:Width="82.5" ss:Span="1"/>
+   <Column ss:Index="5" ss:Width="61.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="258"/>
+   <Column ss:Width="31.5"/>
+   <Column ss:Width="193.5"/>
+   <Column ss:Width="56.25"/>
+   <Column ss:Index="11" ss:Width="170.25"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="72"/>
+   <Column ss:Width="55.5"/>
+   <Column ss:Width="69"/>
+   <Row ss:StyleID="s63">
+    <Cell><Data ss:Type="String">sysname</Data></Cell>
+    <Cell><Data ss:Type="String">content</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">inf_atr</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ручной ПТРК</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">inf_atr_desc</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Переносной противотанковый ракетный комплекс с самонаводящимися ракетами.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">inf_atr_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">inf_barret</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Снайперская винтовка M99</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">inf_barret_desc</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Крупнокалиберная снайперская винтовка.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">inf_barret_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">inf_hand_gl</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Противопехотный гранатомёт MM-1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">inf_hand_gl_desc</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">40мм ручной револьверный гранатомёт.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">inf_hand_gl_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">inf_hand_rg6</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Противопехотный гранатомёт РГ-6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">inf_hand_rg6_desc</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">40мм ручной револьверный гранатомёт.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">inf_hand_rg6_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">inf_rpg7</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">РПГ-7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">inf_rpg7_desc</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Сильно устаревший ручной противотанковый гранатомёт.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">inf_rpg7_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row ss:Index="22">
+    <Cell><Data ss:Type="String">inf_rpg29</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">РПГ-29</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_rpg29_desc</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Современный ручной противотанковый гранатомёт.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_rpg29_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row ss:Index="26">
+    <Cell><Data ss:Type="String">inf_osv96</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ОСВ-96</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_osv96_desc</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Крупнокалиберная снайперская винтовка.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_osv96_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row ss:Index="30">
+    <Cell><Data ss:Type="String">inf_rpo_big</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">РПО</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_rpo_big_desc</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Реактивный пехотный огнемёт с термобарическими зарядами.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_rpo_big_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row ss:Index="34">
+    <Cell><Data ss:Type="String">inf_ags30</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">АГС-17</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_ags30_desc</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Автоматический гранатомёт станковый.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_ags30_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row ss:Index="38">
+    <Cell><Data ss:Type="String">inf_mortar</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">2Б14 «Поднос»</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_mortar_desc</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">82мм миномёт.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_mortar_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row ss:Index="42">
+    <Cell><Data ss:Type="String">inf_mortar2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">2Б14 «Поднос»</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_mortar2_desc</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">82мм миномёт.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_mortar2_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row ss:Index="46">
+    <Cell><Data ss:Type="String">inf_mortar3</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">2Б14 «Поднос»</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_mortar3_desc</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">82мм миномёт.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_mortar3_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row ss:Index="50">
+    <Cell><Data ss:Type="String">inf_pk</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ПК</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_pk_desc</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Стандартный 7,62мм пулемёт.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_pk_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row ss:Index="54">
+    <Cell><Data ss:Type="String">inf_rpk</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">РПК-74</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_rpk_desc</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Стандартный 5,45мм пулемёт.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_rpk_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row ss:Index="58">
+    <Cell><Data ss:Type="String">inf_svd</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">СВД</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_svd_desc</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Стандартная 7,62мм снайперская винтовка.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_svd_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row ss:Index="62">
+    <Cell><Data ss:Type="String">inf_metis</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ПТРК &quot;Метис&quot;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_metis_desc</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Противотанковый ракетный комплекс с самонаводящимися ракетами.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_metis_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row ss:Index="66">
+    <Cell><Data ss:Type="String">inf_svdm</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">СВД улучшенная</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_svdm_desc</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">7,62мм снайперская винтовка. Отобрана и пристреляна под использование снайперского патрона с повышенной дальностью прицельной стрельбы.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_svdm_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row ss:Index="70">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">inf_spg</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">СПГ-9 &quot;Копьё&quot;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">inf_spg_desc</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Станковый противотанковый гранатомёт.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">inf_spg_add</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s74"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">inf_dshk</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">ДШК</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">inf_dshk_desc</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Станковый 12,7мм пулемёт.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">inf_dshk_add</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row ss:Index="78">
+    <Cell><Data ss:Type="String">inf_rpkm74_veteran</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">РПК-74</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_rpkm74_veteran_desc</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Стандартный 5,45мм пулемёт.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">nf_rpkm74_veteran_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row ss:Index="82">
+    <Cell><Data ss:Type="String">inf_mp40</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">МП-40</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_mp40_desc</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Пистолет-пулемёт</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_mp40_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row ss:Index="86">
+    <Cell><Data ss:Type="String">inf_pps43</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ППС-43</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_pps43_desc</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Пистолет-пулемёт</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_pps43_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row ss:Index="90">
+    <Cell><Data ss:Type="String">inf_ppsh41</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ППШ-41</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_ppsh41_desc</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Пистолет-пулемёт</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_ppsh41_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row ss:Index="94">
+    <Cell><Data ss:Type="String">inf_dp28</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ДП-28</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_dp28_desc</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Ручной Пулемёт</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_dp28_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row ss:Index="98">
+    <Cell><Data ss:Type="String">inf_stg44</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">СТГ-44</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_stg44_desc</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Автомат</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_stg44_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row ss:Index="102">
+    <Cell><Data ss:Type="String">inf_fg42</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ФГ-42</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_fg42_desc</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Пулемёт</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_fg42_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row ss:Index="106">
+    <Cell><Data ss:Type="String">inf_mg42</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">МГ-42</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_mg42_desc</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Пулемёт</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_mg42_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+   <Row ss:Index="110">
+    <Cell><Data ss:Type="String">inf_mosin_sniper</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Снайперская винтовка Мосина</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_mosin_sniper_desc</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Снайперская винтовка</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inf_mosin_sniper_add</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кликните правой кнопкой мышки, чтобы приказать отряду подобрать оружие или пополнить амуницию.</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Data="&amp;Я"/>
+    <Footer x:Data="Page &amp;С"/>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+    <Gridlines/>
+   </Print>
+   <Selected/>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>85</TopRowBottomPane>
+   <SplitVertical>1</SplitVertical>
+   <LeftColumnRightPane>1</LeftColumnRightPane>
+   <ActivePane>0</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>1</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>1</ActiveRow>
+    </Pane>
+    <Pane>
+     <Number>0</Number>
+     <ActiveRow>114</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

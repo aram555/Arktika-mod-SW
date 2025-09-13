@@ -1,0 +1,777 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Пользователь</LastAuthor>
+  <Created>2005-02-26T16:04:39Z</Created>
+  <LastSaved>2025-02-09T16:09:50Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <Colors>
+   <Color>
+    <Index>16</Index>
+    <RGB>#8080FF</RGB>
+   </Color>
+   <Color>
+    <Index>17</Index>
+    <RGB>#802060</RGB>
+   </Color>
+   <Color>
+    <Index>18</Index>
+    <RGB>#FFFFC0</RGB>
+   </Color>
+   <Color>
+    <Index>19</Index>
+    <RGB>#A0E0E0</RGB>
+   </Color>
+   <Color>
+    <Index>20</Index>
+    <RGB>#600080</RGB>
+   </Color>
+   <Color>
+    <Index>22</Index>
+    <RGB>#0080C0</RGB>
+   </Color>
+   <Color>
+    <Index>23</Index>
+    <RGB>#C0C0FF</RGB>
+   </Color>
+   <Color>
+    <Index>33</Index>
+    <RGB>#69FFFF</RGB>
+   </Color>
+   <Color>
+    <Index>36</Index>
+    <RGB>#A6CAF0</RGB>
+   </Color>
+   <Color>
+    <Index>37</Index>
+    <RGB>#CC9CCC</RGB>
+   </Color>
+   <Color>
+    <Index>39</Index>
+    <RGB>#E3E3E3</RGB>
+   </Color>
+   <Color>
+    <Index>42</Index>
+    <RGB>#339933</RGB>
+   </Color>
+   <Color>
+    <Index>43</Index>
+    <RGB>#999933</RGB>
+   </Color>
+   <Color>
+    <Index>44</Index>
+    <RGB>#996633</RGB>
+   </Color>
+   <Color>
+    <Index>45</Index>
+    <RGB>#996666</RGB>
+   </Color>
+   <Color>
+    <Index>48</Index>
+    <RGB>#3333CC</RGB>
+   </Color>
+   <Color>
+    <Index>49</Index>
+    <RGB>#336666</RGB>
+   </Color>
+   <Color>
+    <Index>52</Index>
+    <RGB>#663300</RGB>
+   </Color>
+   <Color>
+    <Index>55</Index>
+    <RGB>#424242</RGB>
+   </Color>
+  </Colors>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12480</WindowHeight>
+  <WindowWidth>25200</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#3333CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#CC99FF"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#002060" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#00B050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#002060" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#00B050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#0070C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#0070C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#0070C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#3333CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s74">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s75">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s76">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s78">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#0070C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s79">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="tanks">
+  <Table ss:ExpandedColumnCount="15" ss:ExpandedRowCount="113" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="12.1875">
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="252"/>
+   <Column ss:StyleID="s62" ss:Width="118.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="168.75"/>
+   <Column ss:StyleID="s62" ss:Width="82.5"/>
+   <Column ss:StyleID="s62" ss:Width="61.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="258"/>
+   <Column ss:StyleID="s62" ss:Width="31.5"/>
+   <Column ss:StyleID="s62" ss:Width="193.5"/>
+   <Column ss:StyleID="s62" ss:Width="56.25"/>
+   <Column ss:Index="11" ss:StyleID="s62" ss:Width="170.25"/>
+   <Column ss:StyleID="s62" ss:Width="66"/>
+   <Column ss:StyleID="s62" ss:Width="72"/>
+   <Column ss:StyleID="s62" ss:Width="55.5"/>
+   <Column ss:StyleID="s62" ss:Width="69"/>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s64">
+    <Cell><Data ss:Type="String">sysname</Data></Cell>
+    <Cell><Data ss:Type="String">content</Data></Cell>
+    <Cell><Data ss:Type="String">description</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s65">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ar_mercenary_01</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Иностранные наёмники</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s65">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">wahid</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Вахид </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s65">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ar_black_said</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Абу-Абду</Data></Cell>
+   </Row>
+   <Row ss:Index="6" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">isis_rpg_squad_01</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Бойцы ИГИЛ с РПГ</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">isis_rpg_frag_squad_01</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Бойцы ИГИЛ с РПГ</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">isis_svd_squad_01</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Снайперы ИГИЛ</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">isis_pk_squad_01</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Бойцы ИГИЛ с ПК</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">isis_squad_big</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Отряд ИГИЛ</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">isis_small</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Отряд ИГИЛ</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">isis_verysmall</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Отряд ИГИЛ</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">isis_ptur</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Бойцы ИГИЛ с ПТРК</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">isis_metis</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Бойцы ИГИЛ с ПТРК</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">isis_pzrk</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Бойцы ИГИЛ с ПЗРК</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">isis_ags</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Бойцы ИГИЛ с АГС</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">isis_min</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Миномётчики ИГИЛ</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">isis_spg</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Бойцы ИГИЛ с СПГ</Data></Cell>
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">isis_pulemet</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Бойцы ИГИЛ с ДШК</Data></Cell>
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">nusra_merk_rpg_squad_01</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Бойцы Нусры с РПГ</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">nusra_merk_rpg_frag_squad_01</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Бойцы Нусры с РПГ</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">nusra_merk_svd_squad_01</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Снайперы Нусры</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">nusra_merk_pk_squad_01</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Бойцы Нусры с ПК</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">nusra_merk_squad_big</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Бойцы Нусры</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">nusra_merk_small</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Бойцы Нусры</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">nusra_shahid</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Шахид ИГИЛ</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">nusra_ptur</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Бойцы Нусры с ПТРК</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">nusra_metis</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Бойцы Нусры с ПТРК</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">nusra_pzrk</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Бойцы Нусры с ПЗРК</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">nusra_metis_pzrk</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Бойцы Нусры с ПЗРК</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">nusra_ags</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Бойцы Нусры с АГС</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">nusra_min</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Миномётчики Нусры</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">isis_shahid_nail</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Шахид ИГИЛ</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Наиль Низам, знакомый Анвара.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">isis_shahid_masud</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Шахид ИГИЛ</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Масуд Махди, знакомый Анвара.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">nusra_spg</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Бойцы Нусры с СПГ</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">nusra_pulemet</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Бойцы Нусры с ДШК</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">nusra_tankkiller_team</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Бойцы Нусры с РПГ29</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s74"/>
+    <Cell ss:StyleID="s75"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">rus_gru_squad</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Отряд ГРУ РФ</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Элитный отряд бойцов Главного управления генерального штаба ВС РФ. Малочисленны, но смертоносны. Вооружены специализированным оружием в дополнение к основному - в составе вооружения отряда есть крупнокалиберная снайперская винтовка, ручной барабанный гранатомёт и радиоуправляемая взрывчатка. При необходимости, на поле боя могут подбирать и использовать вместо штатного барабанного гранатомёта - комплекс с ПТУР,  реактивный пехотный огнемет или ручной противотанковый гранатомет. Могут обнаруживать и обезвреживать вражеские мины. Могут управлять любой наземной техникой. Отлично штурмуют здания.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">ru_sso_1</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Авианаводчик ССО РФ</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Передовой авианаводчик Сил специальных операций ВС РФ. Специалист, способный провести доразведку цели, используя преимущества в маскировке, и навести авиаудар. Вооружен малошумным оружием, имеет небольшой боезапас исключительно для самообороны.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">ru_sso_2</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Авианаводчик ССО РФ</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Передовой авианаводчик Сил специальных операций ВС РФ. Специалист, способный провести доразведку цели, используя преимущества в маскировке, и навести авиаудар. Вооружен малошумным оружием, имеет небольшой боезапас исключительно для самообороны.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">ru_sso_3</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Авианаводчик ССО РФ</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Передовой авианаводчик Сил специальных операций ВС РФ. Специалист, способный провести доразведку цели, используя преимущества в маскировке, и навести авиаудар. Вооружен малошумным оружием, имеет небольшой боезапас исключительно для самообороны.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">ru_sso_4</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Авианаводчик ССО РФ</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Передовой авианаводчик Сил специальных операций ВС РФ. Специалист, способный провести доразведку цели, используя преимущества в маскировке, и навести авиаудар. Вооружен малошумным оружием, имеет небольшой боезапас исключительно для самообороны.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">ru_pilots</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Сбитый пилот ВКС РФ</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Выживший штурман сбитого турками самолета.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">ru_pilots2</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Пилоты ВКС РФ</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Экипаж вертолёта ВКС РФ. Минимально вооружены - для самообороны в самом крайнем случае. Также могут управлять автомобилями и легкой бронетехникой.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">ru_pilots2_gazel</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Пилоты ВКС РФ</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Экипаж вертолёта ВКС РФ. Минимально вооружены - для самообороны в самом крайнем случае. Также могут управлять автомобилями и легкой бронетехникой.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">rus_sq</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Морпехи РФ</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ограниченно участвовали в самых критичных и важных для российского командования наземных операциях в Сирии. Наиболее эффективны против пехоты и легкой бронетехники противника, и при штурмах зданий, в том числе в рукопашном бою. Помимо автоматов в отряде имеются крупнокалиберная снайперская винтовка, пулемет и автоматический 30-мм гранатомет. Морпехи могут обнаруживать и обезвреживать мины.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">rus_sq_grom</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Морпехи РФ</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ограниченно участвовали в самых критичных и важных для российского командования наземных операциях в Сирии. Наиболее эффективны против пехоты и легкой бронетехники противника, и при штурмах зданий, в том числе в рукопашном бою. Помимо автоматов в отряде имеются крупнокалиберная снайперская винтовка, пулемет и автоматический 30-мм гранатомет. Морпехи могут обнаруживать и обезвреживать мины.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">rus_vdv</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Десантники ВДВ РФ</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Отряд десантных войск РФ, специализирующихся на ведении боевых действиях в тылу врага. Способны эффективно работать как против пехоты, так и против бронетехники противника. Помимо автоматов в отряде есть пулемет, две снайперских винтовки и два современных ручных противотанковых гранатомёта &quot;Вампир&quot;. При необходимости, на поле боя могут подбирать и использовать вместо гранатомёта - комплекс с ПТУР,  реактивный пехотный огнемет, ручной барабанный гранатомет, станковый противотанковый гранатомёт; вместо штатной винтовки - крупнокалиберную винтовку; вместо пулемета - АГС, станковый крупнокалиберный пулемет.</Data></Cell>
+   </Row>
+   <Row ss:Index="52" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_police</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Отряд полиции</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Военизированный отряд сирийской полиции. Тренированы вести боевые действия на уровне профессионального солдата, но при этом малочисленны и не очень хорошо вооружены. Помимо автоматов в отряде есть один пулемет. При необходимости, на поле боя могут поднять и использовать вместо штатного пулемёта - автоматический 30-мм гранатомет. Также могут управлять автомобилями и легкой бронетехникой.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_police_sniper</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Полицейские снайперы</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Пара снайперов, набравшихся опыта в городских полицейских операциях. Вооружены двумя СВД, позволяющими им вести боевые действия на большом расстоянии. При необходимости, на поле боя могут подбирать и использовать вместо штатной снайперки - крупнокалиберную винтовку. Также могут управлять автомобилями и легкой бронетехникой.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_police_sniper_karim</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Полицейские снайперы</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Пара снайперов, набравшихся опыта в городских полицейских операциях. Вооружены двумя СВД, позволяющими им вести боевые действия на большом расстоянии. При необходимости, на поле боя могут подбирать и использовать вместо штатной снайперки - крупнокалиберную винтовку. Также могут управлять автомобилями и легкой бронетехникой.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_police_rpg</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Отряд полиции с РПГ</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Отряд полицейских, специализирующихся на уничтожении техники противника. Вооружены двумя РПГ старого образца и автоматами. При необходимости, на поле боя могут подбирать и использовать вместо штатного гранатомёта - комплекс с ПТУР,  реактивный пехотный огнемет, ручной барабанный гранатомет или более современный РПГ. Также могут управлять автомобилями и легкой бронетехникой.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_police_rpg_mahmud</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Отряд полиции с РПГ</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Отряд полицейских, специализирующихся на уничтожении техники противника. Вооружены двумя РПГ старого образца и автоматами. При необходимости, на поле боя могут подбирать и использовать вместо штатного гранатомёта - комплекс с ПТУР,  реактивный пехотный огнемет, ручной барабанный гранатомет или более современный РПГ. Также могут управлять автомобилями и легкой бронетехникой.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_police_hero1</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Вазир</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Начальник полиции, строгий, но справедливый командир.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_police_hero2</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Анвар</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Молодой офицер полиции, волей судьбы оказавшийся в гуще событий.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">anwar</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Анвар</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">sirian_general</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Генерал Хишам</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Генерал сирийских войск, из-за глупости офицера оказавшийся в опасности.</Data></Cell>
+   </Row>
+   <Row ss:Index="62" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_civilian1</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Мирный житель</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Мирный сирийский житель, имевший несчастье оказаться в районе боевых действий. Не вооружён и обречён на гибель в случае встречи с врагом.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_civilian2</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Мирный житель</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Мирный сирийский житель, имевший несчастье оказаться в районе боевых действий. Не вооружён и обречён на гибель в случае встречи с врагом.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_civilian3</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Мирный житель</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Мирный сирийский житель, имевший несчастье оказаться в районе боевых действий. Не вооружён и обречён на гибель в случае встречи с врагом.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_civilian4</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Мирный житель</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Мирный сирийский житель, имевший несчастье оказаться в районе боевых действий. Не вооружён и обречён на гибель в случае встречи с врагом.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_civilian5</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Мирный житель</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Мирный сирийский житель, имевший несчастье оказаться в районе боевых действий. Не вооружён и обречён на гибель в случае встречи с врагом.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_civilian6</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Мирный житель</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Мирный сирийский житель, имевший несчастье оказаться в районе боевых действий. Не вооружён и обречён на гибель в случае встречи с врагом.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_civilian7</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Мирный житель</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Мирный сирийский житель, имевший несчастье оказаться в районе боевых действий. Не вооружён и обречён на гибель в случае встречи с врагом.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_civilian8</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Мирный житель</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Мирный сирийский житель, имевший несчастье оказаться в районе боевых действий. Не вооружён и обречён на гибель в случае встречи с врагом.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_civilian9</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Мирный житель</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Мирный сирийский житель, имевший несчастье оказаться в районе боевых действий. Не вооружён и обречён на гибель в случае встречи с врагом.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_civilian10</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Мирная жительница</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Мирная сирийская жительница, имевшая несчастье оказаться в районе боевых действий. Не вооружена и обречена на гибель в случае встречи с врагом.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_civilian_troops1</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Злые горожане</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Толпа гражданских, решивших взять правосудие в свои руки. Вооружены чем попало, не тренированы и вряд ли смогут что-либо противопоставить опытным бойцам.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_civilian_troops2</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Злые горожане</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Толпа гражданских, решивших взять правосудие в свои руки. Вооружены чем попало, не тренированы и вряд ли смогут что-либо противопоставить опытным бойцам.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_civilian_hostages</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Мирные жители</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Мирные сирийские жители, имевшие несчастье оказаться в районе боевых действий. Не вооружены и обречены на гибель в случае встречи с врагом.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_civilian_hostages2</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Мирные жители</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Мирные сирийские жители, имевшие несчастье оказаться в районе боевых действий. Не вооружены и обречены на гибель в случае встречи с врагом.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_civilian_hostages3</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Мирные жители</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Мирные сирийские жители, имевшие несчастье оказаться в районе боевых действий. Не вооружены и обречены на гибель в случае встречи с врагом.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_civilian_hostages4</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Мирные жители</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Мирные сирийские жители, имевшие несчастье оказаться в районе боевых действий. Не вооружены и обречены на гибель в случае встречи с врагом.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_civilian_hostages5</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Мирные жители</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Мирные сирийские жители, имевшие несчастье оказаться в районе боевых действий. Не вооружены и обречены на гибель в случае встречи с врагом.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_journalists_squad</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Журналисты</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Западные журналисты, по стечению обстоятельств оказавшиеся в ловушке. Ваша задача теперь - вывести их с поля боя, пока их не пристрелили.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">ospc_squad</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Инспекторы ОЗХО</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Инспекторы международной организации по запрещению химического оружия, прибывшие для расследования &quot;инцидента Думе&quot; с применением боевых отрявляющих веществ. </Data></Cell>
+   </Row>
+   <Row ss:Index="82" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_heli_crew_01</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Пилоты</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Экипаж вертолёта. Минимально вооружены - для самообороны в самом крайнем случае.  Также могут управлять автомобилями и легкой бронетехникой.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_squad_infantry_dust</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Отряд пехоты</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Отряд сирийской пехоты. Универсальные бойцы - могут справиться как с пехотой, так и с техникой противника,  в том числе с тяжелобронированной. Разумеется, не так эффективно, как специализированные отряды. Помимо автоматов в отряде есть пулемет, снайперская винтовка и современный ручной противотанковый гранатомёт &quot;Вампир&quot;. При необходимости, на поле боя могут подбирать и использовать вместо штатного гранатомёта - комплекс с ПТУР,  реактивный пехотный огнемет, ручной барабанный гранатомет; вместо штатной снайперки - крупнокалиберную винтовку; вместо пулемета - АГС.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_squad_stormtroopers</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Штурмовой отряд</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Отряд штурмовиков, специализирующийся на уничтожении вражеской пехоты, в том числе в рукопашном бою при штурме зданий. В дополнение к основному оружию в отряде имеются реактивный огнемет с термобарическими зарядами для зачистки зданий и крайне эффективный против пехоты на открытой местности автоматический 30-мм гранатомёт. При необходимости, на поле боя могут подбирать и использовать вместо штатного реактивного пехотного огнемета - комплекс с ПТУР, ручной барабанный гранатомет или ручной противотанковый гранатомет; вместо АГС - пулемёт.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_squad_osv</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Снайперский расчёт</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Военные снайперы. Навыки маскировки позволяют им быть менее заметными для врага, чем остальная пехота. Специализируются на уничтожении живой силы, легкобронированной техники противника на большом расстоянии. На вооружении имеют две крупнокалиберные винтовки. Также могут управлять автомобилями и легкой бронетехникой.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_squad_metis</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Противотанковый расчёт</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Бойцы, основная задача которых - уничтожение вражеской тяжёлой техники. Вооружены современным и эффективным противотанковым ракетным комплексом. После передвижения отряду требуется некоторые время на развертывание комплекса. При необходимости, на поле боя могут подбирать и использовать вместо штатного комплекса с ПТУР - реактивный пехотный огнемет, ручной барабанный гранатомет или РПГ. Также могут управлять автомобилями и легкой бронетехникой.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_squad_minomet</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Минометный расчёт</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Отряд бойцов, вооруженных 82-мм минометами. Незаменимы в ближнем бою при уничтожении противника за укрытиями и складками ландшафта. Не могут быстро передвигаться. После передвижения бойцам требуется некоторые время на развертывание минометов. Также могут управлять автомобилями и легкой бронетехникой.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_engineer</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Инженеры</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Специалисты инженерных войск. Могут эффективно находить, обезвреживать и устанавливать мины и радиоуправляемую взрывчатку. Также могут управлять автомобилями и легкой бронетехникой.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">sirian_squad_spg</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Расчёт с СПГ</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Бойцы, основная задача которых - уничтожение вражеской бронетехники и укрепленных позиций пехоты. Вооружены станковым противотанковым гранатомётом СПГ-9, который, в отличие от ручного противотанкового гранатомета РПГ-7, обладает повышенной дальностью и точностью стрельбы, но после передвижения отряду требуется некоторые время на развертывание. При необходимости вместо штатного СПГ-9 могут взять реактивный пехотный огнемет, ручной барабанный гранатомет, РПГ или комплекс с ПТУР. Также могут управлять автомобилями и легкой бронетехникой.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">sirian_squad_NDF</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Отряд ополчения</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Отряд ополченцев Национальных сил обороны Сирии. Плохо обучены и экипированы, но в руках умелого командира даже они могут принести пользу. Вооружены только автоматами.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">sirian_squad_NDF_rpg</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Отряд ополчения с РПГ</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Отряд гранатометчиков Национальных сил обороны Сирии. В состав вооружения отряда входят два РПГ старого образца и автоматы. При необходимости, на поле боя могут подбирать и использовать вместо штатного гранатомёта - комплекс с ПТУР,  реактивный пехотный огнемет, ручной барабанный гранатомет, станковый противотанковый гранатомет или более современный РПГ.  Могут управлять автомобилями и лёгкой бронетехникой.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">sirian_squad_NDF_sniper</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Снайперы ополчения</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Отряд снайперов Национальных сил обороны Сирии. Вооружены двумя СВД, позволяющими им вести боевые действия на большом расстоянии. При необходимости, на поле боя могут подбирать и использовать вместо штатной снайперки - крупнокалиберную винтовку.  Могут управлять автомобилями и лёгкой бронетехникой.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">sirian_squad_NDF_PK</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Отряд ополчения с ПК</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Пулеметный расчёт Национальных сил обороны Сирии. Вооружены пулемётом Калашникова и автоматами. При необходимости, на поле боя могут подбирать и использовать вместо пулемета - АГС или станковый крупнокалиберный пулемёт.  Могут управлять автомобилями и лёгкой бронетехникой.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">sirian_squad_tigers</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Отряд &quot;Сил тигра&quot;</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Отряд из дивизии спецназначения САА, специализирующейся на наступательных операциях, элитные бойцы. Малая численность компенсируется специализированным вооружением и высоким уровнем подготовки. В составе вооружения отряда есть крупнокалиберная снайперская винтовка и комплекс ПТУР. При необходимости, на поле боя могут подбирать и использовать вместо комплекса ПТУР - реактивный пехотный огнемет, ручной барабанный гранатомет, станковый противотанковый гранатомёт или РПГ. Могут управлять автомобилями и лёгкой бронетехникой.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">sirian_squad_pulemet</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Пулемётный расчёт</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Пулеметный расчёт из двух бойцов, вооружены крупнокалиберным станковым пулемётом. После передвижения требуется время на раскладывание. При необходимости могут заменить штатный пулемёт более лёгким или автоматическим станковым гранатомётом. Могут управлять автомобилями и лёгкой бронетехникой.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">sirian_squad_leban</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Ливанские добровольцы</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Ливанцы, пришедшие на помощь братскому сирийскому народу. В большинстве своём состоят в военизированной организации Хезболла. Многочисленные члены отряда, в дополнение к автоматам, вооружены пулемётом и РПГ. При необходимости, на поле боя могут подбирать и использовать вместо штатного гранатомёта - комплекс с ПТУР,  реактивный пехотный огнемет, ручной барабанный гранатомет, станковый противотанковый гранатомет или более современный РПГ; вместо пулемета - АГС, станковый крупнокалиберный пулемет.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_tank_crew_01</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Танковый экипаж</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Экипаж для тяжёлой техники: БМП, танки, артиллерия. Также при необходимости могут управлять лёгкой техникой. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_tank_crew_01_mansur</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Танковый экипаж</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Дядя Мансур с сыновьями. Экипаж для тяжёлой техники: БМП, танки, артиллерия. Также при необходимости могут управлять лёгкой техникой.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_tank_crew_01_abdula</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Танковый экипаж</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Экипаж для тяжёлой техники: БМП, танки, артиллерия. Также при необходимости могут управлять лёгкой техникой.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_tank_crew_01_masud</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Танковый экипаж</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Масуд Махди с товарищами. Экипаж для тяжёлой техники: БМП, танки, артиллерия. Также при необходимости могут управлять лёгкой техникой.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_btr_crew_01</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Водители</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Экипаж автомобилей и лёгкой бронетехники.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">sirian_btr_crew_01_nail</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Водители</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Наиль Низам с товарищами. Экипаж автомобилей и лёгкой бронетехники.</Data></Cell>
+   </Row>
+   <Row ss:Index="104" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">isis_tank_crew_01</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Танкисты ИГИЛ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">isis_btr_crew_01</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Водители ИГИЛ</Data></Cell>
+   </Row>
+   <Row ss:Index="107" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">alN_tank_crew_01</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Танкисты Нусры</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">alN_btr_crew_01</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Водители Нусры</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:Index="110" ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">rus_veteran</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Ветераны ВДВ РФ</Data></Cell>
+    <Cell><Data ss:Type="String">Ветераны ис состава ВДВ РФ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">rus_gru_veteran</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Ветераны Морпехи РФ</Data></Cell>
+    <Cell><Data ss:Type="String">Ветераны ис состава Морской Пехоты РФ</Data></Cell>
+   </Row>
+   <Row ss:Index="113" ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">german_tank_crew</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Немецкие Танкисты</Data></Cell>
+    <Cell><Data ss:Type="String">Экипаж немецкой техники</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Data="&amp;Я"/>
+    <Footer x:Data="Page &amp;С"/>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+    <Gridlines/>
+   </Print>
+   <Selected/>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>82</TopRowBottomPane>
+   <SplitVertical>1</SplitVertical>
+   <LeftColumnRightPane>1</LeftColumnRightPane>
+   <ActivePane>0</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>1</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>1</ActiveRow>
+    </Pane>
+    <Pane>
+     <Number>0</Number>
+     <ActiveRow>113</ActiveRow>
+     <ActiveCol>0</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

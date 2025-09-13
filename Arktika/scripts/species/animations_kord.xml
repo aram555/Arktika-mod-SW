@@ -1,0 +1,451 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>maks</Author>
+  <LastAuthor>Red</LastAuthor>
+  <Created>2005-09-12T11:58:27Z</Created>
+  <LastSaved>2007-07-04T10:04:12Z</LastSaved>
+  <Company>Mist_Land</Company>
+  <Version>11.5606</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>13035</WindowHeight>
+  <WindowWidth>19035</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>30</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial Cyr" x:CharSet="204"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s21">
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" ss:Color="#00FFFF"/>
+   <Interior ss:Color="#0000FF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s22">
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" ss:Color="#CC99FF"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s23">
+   <Interior/>
+  </Style>
+  <Style ss:ID="s24">
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" ss:Color="#FF0000"/>
+   <Interior ss:Color="#808080" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s25">
+   <Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s26">
+   <Font ss:FontName="Arial Cyr" x:CharSet="204"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s27">
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" ss:Color="#FF0000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s28">
+   <Font ss:FontName="Arial Cyr" x:CharSet="204"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Лист1">
+  <Table ss:ExpandedColumnCount="9" ss:ExpandedRowCount="41" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="104.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="234.75"/>
+   <Column ss:Width="186.75"/>
+   <Column ss:Width="231.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="42.75"/>
+   <Column ss:Width="188.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="90.75"/>
+   <Row ss:StyleID="s22">
+    <Cell><Data ss:Type="String">sysname</Data></Cell>
+    <Cell><Data ss:Type="String">stand</Data></Cell>
+    <Cell><Data ss:Type="String">sit</Data></Cell>
+    <Cell><Data ss:Type="String">lie</Data></Cell>
+    <Cell><Data ss:Type="String">priority</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">move</Data></Cell>
+    <Cell><Data ss:Type="String">st_run_ags</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">sit_walk_mortar3</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">lay_walk_m16</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">движение шагом</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">run</Data></Cell>
+    <Cell><Data ss:Type="String">st_run_ags</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">бег</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">shoot</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">изготовка-стрельба</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">recoil</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">отдача</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">throw_grenade</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">st_throw_grenade_m16</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">sit_throw_grenade_m16</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">lay_throw_grenade_m16</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">бросание гранаты</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">change_weapon</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">sit_change_weapon</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">sit_change_weapon</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">lay_change_weapon</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">смена оружия</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">hand_attack</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">w_nt_st_hand_attack</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">рукопашка</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">hurt</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">w_nt_st_hurt01</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">w_nt_sit_hurt01</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">w_nt_lay_hurt01;w_nt_lay_hurt02</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ранение</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">switch_to_stand</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">lay_stay_kord</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">lay_stay_kord</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">переход в стоячее положение</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">switch_to_sit</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">lay_stay_kord</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">lay_stay_kord</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">переход в сидячее положение</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s27"/>
+    <Cell ss:StyleID="s23"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25">
+    <Cell><Data ss:Type="String">switch_to_lie</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">lay_stay_kord</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">lay_stay_kord</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">переход в лежачее положение</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s27"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">climb_high_wall</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">st_high_wall_m16</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">перелезание через высокую стену/забор</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">climb_low_wall</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">st_low_wall_m16</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">перелезание через низкую стену/забор</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">climb_ladder</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">подъем/спуск по приставным лестницам</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">break_door</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">выбивание двери</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">break_window</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">выбивание окна</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">climb_through_window</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">влезание в дом через окно</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">die</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">st_dead01_m16;st_dead02_m16;st_dead03_m16</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">sit_dead01_m16;sit_dead02_m16;sit_dead03_m16</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">lay_dead01_m16;lay_dead02_m16;lay_dead03_m16</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">смерть</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">die_with_mg</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">st_dead_pulem_01;st_dead_pulem_02</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">st_dead_pulem_01;st_dead_pulem_02</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">st_dead_pulem_01;st_dead_pulem_02</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">смерть за пулеметом</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">take_mg</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">вылезание за пулемет</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">drop_mg</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">спускание в люк из-за пулемета</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">shoot_mg</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">стрельба из танкового пулемета</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dead_flying_forward</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">fly_direct01_part_01;fly_direct02_part_01</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">fly_direct01_part_01;fly_direct02_part_01</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">fly_direct01_part_02</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">смерть при взрывах</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dead_flying_back</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">fly_back01_part_01;fly_back02_part_01</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">fly_back01_part_01;fly_back02_part_01</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">fly_back01_part_02</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">get_out_of_vehicle</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">выпрыгивание из техники</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">lazy</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">lay_stay_kord</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">lay_stay_kord</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">lay_stay_kord</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;lazy&quot;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">stay</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">lay_stay_kord</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">lay_stay_kord</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">lay_stay_kord</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">просто стоять</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">gestures</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">система жестов</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">reload</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">перезарядка</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">special1</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="Number">99</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">special2</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="Number">99</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">special3</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="Number">99</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">special4</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="Number">99</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">special5</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="Number">99</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">lift_down_by_rope</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">lift_down_by_rope</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">спуск по веревки из вертолета</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">walk_bow</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">поворот артиллерии</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">heal</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">st_treatment; st_treatment_02</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">sit_treatment_01;sit_treatment_02;sit_treatment_03</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">lay_treatment_01;lay_treatment_02;lay_treatment_03</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">лечение</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">repair</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="String">st_repair; st_repair_02</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">ремонт</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mining</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="String">st_undermining</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">минирование</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">demining</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="String">st_undermining</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wrong_animation</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">разминирование</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>300</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>26</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Лист2">
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Лист3">
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

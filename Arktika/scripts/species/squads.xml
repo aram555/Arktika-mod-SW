@@ -1,0 +1,2101 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Пользователь</LastAuthor>
+  <Created>2005-02-26T16:04:39Z</Created>
+  <LastSaved>2025-02-09T15:48:01Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>11880</WindowHeight>
+  <WindowWidth>25200</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Normal 3">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#3333CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#CC99FF"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#999933" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s70">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#002060" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#00B050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s74">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s75">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s76">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s77">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FF0000"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s79" ss:Parent="s62">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#00B050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s80" ss:Parent="s62">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#00B050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s81">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#00B050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s82">
+   <Font ss:FontName="Arial Unicode MS" x:CharSet="204" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s83">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#0070C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s84">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#333399" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s85">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s87" ss:Parent="s62">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s88">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#00B0F0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s89">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s90">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s91" ss:Parent="s62">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s92">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="tanks">
+  <Table ss:ExpandedColumnCount="60" ss:ExpandedRowCount="113" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s63" ss:DefaultRowHeight="12.1875">
+   <Column ss:StyleID="s64" ss:Width="144"/>
+   <Column ss:StyleID="s63" ss:Width="200.25" ss:Span="4"/>
+   <Column ss:Index="7" ss:StyleID="s63" ss:Width="103.5"/>
+   <Column ss:StyleID="s63" ss:Width="203.25"/>
+   <Column ss:StyleID="s63" ss:Width="85.5"/>
+   <Column ss:StyleID="s63" ss:Width="86.25"/>
+   <Column ss:StyleID="s63" ss:Width="51" ss:Span="2"/>
+   <Column ss:Index="14" ss:StyleID="s63" ss:Width="110.25"/>
+   <Column ss:StyleID="s63" ss:Width="78.75"/>
+   <Column ss:StyleID="s63" ss:Width="219"/>
+   <Column ss:StyleID="s63" ss:Width="60"/>
+   <Column ss:StyleID="s63" ss:Width="85.5" ss:Span="1"/>
+   <Column ss:Index="20" ss:StyleID="s63" ss:Width="227.25"/>
+   <Column ss:StyleID="s63" ss:Width="132.75"/>
+   <Column ss:StyleID="s63" ss:Width="57"/>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">sysname</Data></Cell>
+    <Cell><Data ss:Type="String">member1</Data></Cell>
+    <Cell><Data ss:Type="String">member2</Data></Cell>
+    <Cell><Data ss:Type="String">member3</Data></Cell>
+    <Cell><Data ss:Type="String">member4</Data></Cell>
+    <Cell><Data ss:Type="String">member5</Data></Cell>
+    <Cell><Data ss:Type="String">member6</Data></Cell>
+    <Cell><Data ss:Type="String">member7</Data></Cell>
+    <Cell><Data ss:Type="String">member8</Data></Cell>
+    <Cell><Data ss:Type="String">member9</Data></Cell>
+    <Cell><Data ss:Type="String">member10</Data></Cell>
+    <Cell><Data ss:Type="String">member11</Data></Cell>
+    <Cell><Data ss:Type="String">member12</Data></Cell>
+    <Cell><Data ss:Type="String">voices</Data></Cell>
+    <Cell><Data ss:Type="String">driving_classes</Data></Cell>
+    <Cell><Data ss:Type="String">reaction_blackboard</Data></Cell>
+    <Cell><Data ss:Type="String">exp_levels</Data></Cell>
+    <Cell><Data ss:Type="String">base_fighting_skill</Data></Cell>
+    <Cell><Data ss:Type="String">specialty</Data></Cell>
+    <Cell><Data ss:Type="String">hover_image</Data></Cell>
+    <Cell><Data ss:Type="String">hover_image_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">nationality</Data></Cell>
+    <Cell><Data ss:Type="String">cost</Data></Cell>
+    <Cell><Data ss:Type="String">sort_priority</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s67">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">#ar_crew</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s70"/>
+    <Cell ss:Index="52" ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="58" ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">isis_tank_crew_01</Data></Cell>
+    <Cell><Data ss:Type="String">talib_crew_03</Data></Cell>
+    <Cell><Data ss:Type="String">talib_crew_02</Data></Cell>
+    <Cell><Data ss:Type="String">talib_crew_03</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle,tank</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\igil</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">isis_btr_crew_01</Data></Cell>
+    <Cell><Data ss:Type="String">talib_crew_03</Data></Cell>
+    <Cell><Data ss:Type="String">talib_crew_04</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle_crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\igil</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s67">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">#ar</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s74"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="45" ss:StyleID="s70"/>
+    <Cell ss:Index="52" ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="58" ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ar_mercenary_01</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ar_mercenary_01</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ar_mercenary_02</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ar_mercenary_03</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ar_mercenary_04</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ar_mercenary_01</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ar_mercenary_04</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ar_mercenary_01</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">none</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">commando</Data></Cell>
+    <Cell><Data ss:Type="String">talib_commando</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\an-nusra</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">wahid</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ar_mercenary_01</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">none</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">commando</Data></Cell>
+    <Cell><Data ss:Type="String">talib_commando</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\an-nusra</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria11</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">#us_crew</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s74"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">alN_tank_crew_01</Data></Cell>
+    <Cell><Data ss:Type="String">us_crew_03</Data></Cell>
+    <Cell><Data ss:Type="String">us_crew_02</Data></Cell>
+    <Cell><Data ss:Type="String">us_crew_03</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle,tank</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\an-nusra</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">alN_btr_crew_01</Data></Cell>
+    <Cell><Data ss:Type="String">us_crew_01</Data></Cell>
+    <Cell><Data ss:Type="String">us_crew_04</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle_crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\an-nusra</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">#RAT_National_Defence_Forces</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s76"/>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_tank_crew_01</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">saudi_crew_02</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">saudi_crew_02</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">saudi_crew_02</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s79"><Data ss:Type="String">syr_tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle,tank</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+    <Cell><Data ss:Type="Number">400</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_tank_crew_01_mansur</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">saudi_crew_02</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">saudi_crew_02</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">saudi_crew_02</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s79"><Data ss:Type="String">syr_tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle,tank</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria1</Data></Cell>
+    <Cell><Data ss:Type="Number">400</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_tank_crew_01_abdula</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">saudi_crew_02</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">saudi_crew_02</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">saudi_crew_02</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s79"><Data ss:Type="String">syr_tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle,tank</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria5</Data></Cell>
+    <Cell><Data ss:Type="Number">400</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_tank_crew_01_masud</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">saudi_crew_02</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">saudi_crew_02</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">saudi_crew_02</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s79"><Data ss:Type="String">syr_tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle,tank</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria3</Data></Cell>
+    <Cell><Data ss:Type="Number">400</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_btr_crew_01</Data></Cell>
+    <Cell><Data ss:Type="String">saudi_crew_01</Data></Cell>
+    <Cell><Data ss:Type="String">saudi_crew_01</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s79"><Data ss:Type="String">syr_vehicle_crew</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle_crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\vehicle_crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_btr_crew_01_nail</Data></Cell>
+    <Cell><Data ss:Type="String">saudi_crew_01</Data></Cell>
+    <Cell><Data ss:Type="String">saudi_crew_01</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s79"><Data ss:Type="String">syr_vehicle_crew</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle_crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\vehicle_crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria2</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">#RAT_Syrian_Army</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s76"/>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_heli_crew_01</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">saudi_crew_02</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">saudi_crew_02</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s79"><Data ss:Type="String">syr_heli_crew</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle,heli</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">heli_crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\syrianVVS</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+    <Cell><Data ss:Type="Number">400</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_squad_osv</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon3_osv</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon2_svd</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s80"><Data ss:Type="String">syr_sniper</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">commando</Data></Cell>
+    <Cell><Data ss:Type="String">spec_squad</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\sniper</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">98</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_squad_infantry_dust</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon1_dust_ak</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon2_dust_ak</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon3_dust_ak</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon2_dust_ak</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon1_vampir</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon2_dust_svd</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon3_dust_rpk</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s80"><Data ss:Type="String">syr_infantry</Data></Cell>
+    <Cell><Data ss:Type="String">none</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">us_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\suqur</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_squad_stormtroopers</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon2_ags</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon1_rpo</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon3_rpo</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon2_rpo</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon3_svd</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s81"><Data ss:Type="String">syr_guard</Data></Cell>
+    <Cell><Data ss:Type="String">none</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">commando</Data></Cell>
+    <Cell><Data ss:Type="String">us_commando</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\guard</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+    <Cell><Data ss:Type="Number">350</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">99</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_squad_metis</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon2_metis</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon1_ak</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon3_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s81"><Data ss:Type="String">syr_at_squad</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">light_vehicle,medium_vehicle,tank,heavy_vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">at_squad</Data></Cell>
+    <Cell><Data ss:Type="String">spec_squad</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\antitank</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+    <Cell><Data ss:Type="Number">400</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">97</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_squad_minomet</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon3_minomet</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon2_minomet</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon1_minomet</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s81"><Data ss:Type="String">syr_mortar</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">commando</Data></Cell>
+    <Cell><Data ss:Type="String">spec_squad</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\minomet</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+    <Cell><Data ss:Type="Number">400</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">96</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_engineer</Data></Cell>
+    <Cell><Data ss:Type="String">siri_sapper_01</Data></Cell>
+    <Cell><Data ss:Type="String">siri_sapper_02</Data></Cell>
+    <Cell><Data ss:Type="String">siri_sapper_03</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s80"><Data ss:Type="String">syr_sapper</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">spec_squad</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">engineer</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\sapper</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+    <Cell><Data ss:Type="Number">150</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">80</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">sirian_squad_spg</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">siri_tiger_spg</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon1_ak</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon3_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s81"><Data ss:Type="String">syr_spg</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">light_vehicle,medium_vehicle,tank,heavy_vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">at_squad</Data></Cell>
+    <Cell><Data ss:Type="String">spec_squad</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\spg</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+    <Cell><Data ss:Type="Number">200</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">sirian_squad_NDF</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">siri_NDF_AK_01</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">siri_NDF_AK_02</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">siri_NDF_AK_03</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">siri_NDF_AK_04</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">siri_NDF_AK_05</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:Index="14" ss:StyleID="s81"><Data ss:Type="String">syr_ndf</Data></Cell>
+    <Cell><Data ss:Type="String">none</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">spec_squad</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\NDF</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">sirian_squad_NDF_rpg</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">siri_NDF_AK_01</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">siri_NDF_rpg_01</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">siri_NDF_rpg_02</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:Index="14" ss:StyleID="s81"><Data ss:Type="String">syr_ndf_rpg</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">spec_squad</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">UnitTypeIcon\NDF_rpg</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+    <Cell><Data ss:Type="Number">150</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">sirian_squad_NDF_sniper</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">siri_NDF_svd_01</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">siri_NDF_svd_02</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:Index="14" ss:StyleID="s81"><Data ss:Type="String">syr_ndf_svd</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">spec_squad</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">UnitTypeIcon\NDF_sniper</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+    <Cell><Data ss:Type="Number">150</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">sirian_squad_NDF_PK</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">siri_NDF_AK_02</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">siri_NDF_AK_04</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">siri_NDF_PK_01</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:Index="14" ss:StyleID="s81"><Data ss:Type="String">syr_ndf_pk</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">spec_squad</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">UnitTypeIcon\NDF_pk</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+    <Cell><Data ss:Type="Number">150</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">sirian_squad_tigers</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon3_rpo</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon2_rpo</Data></Cell>
+    <Cell><Data ss:Type="String">siri_tiger_metis</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon3_osv</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s81"><Data ss:Type="String">syr_tiger</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">commando</Data></Cell>
+    <Cell><Data ss:Type="String">us_commando</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\tigers</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+    <Cell><Data ss:Type="Number">600</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">98</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">sirian_squad_pulemet</Data></Cell>
+    <Cell><Data ss:Type="String">siri_tiger_pulemet</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon1_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s79"><Data ss:Type="String">syr_hmg</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">light_vehicle,medium_vehicle,tank,heavy_vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">spec_squad</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\pulemet</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+    <Cell><Data ss:Type="Number">300</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">97</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">sirian_squad_leban</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">siri_leban_rpg</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">siri_leban_pk</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">siri_leban_ak_01</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">siri_leban_ak_02</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">siri_leban_ak_03</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">siri_leban_ak_01</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">siri_leban_ak_02</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">siri_leban_ak_03</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s79"><Data ss:Type="String">syr_lybanese</Data></Cell>
+    <Cell><Data ss:Type="String">none</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">us_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\hesbollah</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+    <Cell><Data ss:Type="Number">200</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">96</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">#RAT_Russian_Forces</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s76"/>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s85">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">rus_gru_squad</Data></Cell>
+    <Cell><Data ss:Type="String">ru_gru_barret</Data></Cell>
+    <Cell><Data ss:Type="String">ru_gru_minimi</Data></Cell>
+    <Cell><Data ss:Type="String">ru_gru_gl</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s80"><Data ss:Type="String">ru_gru</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">vehicle,tank</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">infantry</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">commando</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">us_commando</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">engineer</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">UnitTypeIcon\gru</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">rus_cat</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ru_pilots</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ru_pilot_1</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:Index="14" ss:StyleID="s80"><Data ss:Type="String">ru_pilot_br</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">commando</Data></Cell>
+    <Cell><Data ss:Type="String">spec_squad</Data></Cell>
+    <Cell ss:StyleID="s82"/>
+    <Cell><Data ss:Type="String">UnitTypeIcon\vks</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ru_pilots2</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ru_pilot_1b</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ru_pilot_2</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s81"><Data ss:Type="String">ru_pilots</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle,heli</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">commando</Data></Cell>
+    <Cell><Data ss:Type="String">us_infantry</Data></Cell>
+    <Cell ss:StyleID="s82"/>
+    <Cell><Data ss:Type="String">UnitTypeIcon\vks</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ru_pilots2_gazel</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ru_pilot_1b</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ru_pilot_2</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s81"><Data ss:Type="String">ru_pilots</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle,heli</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">commando</Data></Cell>
+    <Cell><Data ss:Type="String">us_infantry</Data></Cell>
+    <Cell ss:StyleID="s82"/>
+    <Cell><Data ss:Type="String">UnitTypeIcon\vks</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">rus_gazel</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ru_sso_1</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ru_sso_1</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s80"><Data ss:Type="String">ru_sso_01</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">commando</Data></Cell>
+    <Cell><Data ss:Type="String">us_commando</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">bomber</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\sso</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+    <Cell><Data ss:Type="Number">600</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ru_sso_2</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ru_sso_2</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s80"><Data ss:Type="String">ru_sso_02</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">commando</Data></Cell>
+    <Cell><Data ss:Type="String">us_commando</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">bomber</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\sso</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+    <Cell><Data ss:Type="Number">600</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ru_sso_3</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ru_sso_3</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s80"><Data ss:Type="String">ru_sso_01</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">commando</Data></Cell>
+    <Cell><Data ss:Type="String">us_commando</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">bomber</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\sso</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+    <Cell><Data ss:Type="Number">600</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ru_sso_4</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ru_sso_4</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s80"><Data ss:Type="String">ru_sso_02</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">commando</Data></Cell>
+    <Cell><Data ss:Type="String">us_commando</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">bomber</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\sso</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+    <Cell><Data ss:Type="Number">600</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s84"/>
+    <Cell ss:Index="14" ss:StyleID="s87"/>
+    <Cell ss:Index="19" ss:StyleID="s82"/>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s85">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">rus_sq</Data></Cell>
+    <Cell><Data ss:Type="String">ru_sq_barret</Data></Cell>
+    <Cell><Data ss:Type="String">ru_sq_gl</Data></Cell>
+    <Cell><Data ss:Type="String">ru_sq_01_ak</Data></Cell>
+    <Cell><Data ss:Type="String">ru_sq_02_ak</Data></Cell>
+    <Cell><Data ss:Type="String">ru_sq_03_ak</Data></Cell>
+    <Cell><Data ss:Type="String">ru_sq_minimi</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s80"><Data ss:Type="String">ru_morpeh</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">none</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">infantry</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">commando</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">us_commando</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">engineer</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">UnitTypeIcon\morpeh</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">rus</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">300</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s85">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">rus_sq_grom</Data></Cell>
+    <Cell><Data ss:Type="String">ru_sq_barret</Data></Cell>
+    <Cell><Data ss:Type="String">ru_sq_gl</Data></Cell>
+    <Cell><Data ss:Type="String">ru_sq_01_ak</Data></Cell>
+    <Cell><Data ss:Type="String">ru_sq_02_ak</Data></Cell>
+    <Cell><Data ss:Type="String">ru_sq_03_ak</Data></Cell>
+    <Cell><Data ss:Type="String">ru_sq_minimi</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s80"><Data ss:Type="String">ru_morpeh</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">none</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">infantry</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">commando</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">us_commando</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">engineer</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">UnitTypeIcon\morpeh</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">rus</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">250</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s85">
+    <Cell ss:StyleID="s88"><Data ss:Type="String">rus_vdv</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ru_vdv_pk</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ru_vdv_svd</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ru_vdv_01_ak</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ru_vdv_02_ak</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ru_vdv_01_rpg</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ru_vdv_02_rpg</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ru_vdv_02_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s80"><Data ss:Type="String">rus_vdv</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">none</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">infantry</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">commando</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">us_commando</Data></Cell>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">UnitTypeIcon\vdv</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">rus</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">350</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">#RAT__al-Nusra_Front</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s76"/>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">nusra_merk_rpg_squad_01</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_03_ak</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_01_rpg</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_04_rpg</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">light_vehicle,medium_vehicle,tank,heavy_vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\an-nusra</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">nusra_merk_rpg_frag_squad_01</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_01_ak</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_02_rpg</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_03_rpg</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">light_vehicle,medium_vehicle,tank,heavy_vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\an-nusra</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">nusra_merk_svd_squad_01</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_02_svd</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_03_ak</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_01_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\an-nusra</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">nusra_merk_pk_squad_01</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_04_pk</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_02_ak</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_03_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\an-nusra</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">nusra_merk_squad_big</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_01_ak</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_02_ak</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_03_ak</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_04_ak</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_02_rpg</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_04_svd</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_01_pk</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">none</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\an-nusra</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">nusra_merk_small</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_04_ak</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_01_ak</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_02_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">vehicle,tank</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\an-nusra</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">nusra_ptur</Data></Cell>
+    <Cell><Data ss:Type="String">alN_a_ptur</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_01_ak</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_02_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">light_vehicle,medium_vehicle,tank,heavy_vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">at_squad</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\an-nusra</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">nusra_metis</Data></Cell>
+    <Cell><Data ss:Type="String">alN_metis</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_03_ak</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_04_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">light_vehicle,medium_vehicle,tank,heavy_vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">at_squad</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\an-nusra</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">nusra_pzrk</Data></Cell>
+    <Cell><Data ss:Type="String">alN_pzrk</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_01_ak</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_02_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">at_squad</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\an-nusra</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">nusra_metis_pzrk</Data></Cell>
+    <Cell><Data ss:Type="String">alN_metis_pzrk</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_03_ak</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_04_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">at_squad</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\an-nusra</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">nusra_ags</Data></Cell>
+    <Cell><Data ss:Type="String">alN_ags</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_01_ak</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_03_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">at_squad</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\an-nusra</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">nusra_min</Data></Cell>
+    <Cell><Data ss:Type="String">alN_min</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_02_ak</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_04_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">at_squad</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\an-nusra</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">nusra_spg</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">alN_spg</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_01_ak</Data></Cell>
+    <Cell><Data ss:Type="String">alN_04_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">light_vehicle,medium_vehicle,tank,heavy_vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">at_squad</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\an-nusra</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">nusra_pulemet</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">alN_pulemet</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_03_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">at_squad</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\an-nusra</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">nusra_tankkiller_team</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_vampir</Data></Cell>
+    <Cell><Data ss:Type="String">ar_mercenary_03_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">light_vehicle,medium_vehicle,tank,heavy_vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">at_squad</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\an-nusra</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">#RAT_ISIS</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s76"/>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">isis_suicide</Data></Cell>
+    <Cell><Data ss:Type="String">isis_shahid</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">none</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">at_squad</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\igil</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">isis_rpg_squad_01</Data></Cell>
+    <Cell><Data ss:Type="String">alN_03_ak</Data></Cell>
+    <Cell><Data ss:Type="String">alN_01_rpg</Data></Cell>
+    <Cell><Data ss:Type="String">alN_04_rpg</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">light_vehicle,medium_vehicle,tank,heavy_vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\igil</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">isis_rpg_frag_squad_01</Data></Cell>
+    <Cell><Data ss:Type="String">alN_02_ak</Data></Cell>
+    <Cell><Data ss:Type="String">alN_02_rpg</Data></Cell>
+    <Cell><Data ss:Type="String">alN_03_rpg</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">light_vehicle,medium_vehicle,tank,heavy_vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\igil</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">isis_svd_squad_01</Data></Cell>
+    <Cell><Data ss:Type="String">alN_02_svd</Data></Cell>
+    <Cell><Data ss:Type="String">alN_03_ak</Data></Cell>
+    <Cell><Data ss:Type="String">alN_01_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\igil</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">isis_pk_squad_01</Data></Cell>
+    <Cell><Data ss:Type="String">alN_04_pk</Data></Cell>
+    <Cell><Data ss:Type="String">alN_02_ak</Data></Cell>
+    <Cell><Data ss:Type="String">alN_03_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\igil</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">isis_squad_big</Data></Cell>
+    <Cell><Data ss:Type="String">alN_01_ak</Data></Cell>
+    <Cell><Data ss:Type="String">alN_02_ak</Data></Cell>
+    <Cell><Data ss:Type="String">alN_03_ak</Data></Cell>
+    <Cell><Data ss:Type="String">alN_04_ak</Data></Cell>
+    <Cell><Data ss:Type="String">alN_02_rpg</Data></Cell>
+    <Cell><Data ss:Type="String">alN_04_svd</Data></Cell>
+    <Cell><Data ss:Type="String">alN_01_pk</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">none</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\igil</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">isis_small</Data></Cell>
+    <Cell><Data ss:Type="String">alN_04_ak</Data></Cell>
+    <Cell><Data ss:Type="String">alN_01_ak</Data></Cell>
+    <Cell><Data ss:Type="String">alN_02_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">vehicle,tank</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\igil</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">isis_verysmall</Data></Cell>
+    <Cell><Data ss:Type="String">alN_02_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\igil</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">isis_ptur</Data></Cell>
+    <Cell><Data ss:Type="String">isis_ptur</Data></Cell>
+    <Cell><Data ss:Type="String">alN_02_ak</Data></Cell>
+    <Cell><Data ss:Type="String">alN_04_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">light_vehicle,medium_vehicle,tank,heavy_vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">at_squad</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\igil</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">isis_metis</Data></Cell>
+    <Cell><Data ss:Type="String">isis_metis</Data></Cell>
+    <Cell><Data ss:Type="String">alN_02_ak</Data></Cell>
+    <Cell><Data ss:Type="String">alN_04_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">light_vehicle,medium_vehicle,tank,heavy_vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">at_squad</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\igil</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">isis_pzrk</Data></Cell>
+    <Cell><Data ss:Type="String">isis_pzrk</Data></Cell>
+    <Cell><Data ss:Type="String">alN_02_ak</Data></Cell>
+    <Cell><Data ss:Type="String">alN_03_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">at_squad</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\igil</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">isis_ags</Data></Cell>
+    <Cell><Data ss:Type="String">isis_ags</Data></Cell>
+    <Cell><Data ss:Type="String">alN_01_ak</Data></Cell>
+    <Cell><Data ss:Type="String">alN_03_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">at_squad</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\igil</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">isis_min</Data></Cell>
+    <Cell><Data ss:Type="String">isis_min</Data></Cell>
+    <Cell><Data ss:Type="String">alN_02_ak</Data></Cell>
+    <Cell><Data ss:Type="String">alN_04_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">at_squad</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\igil</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">isis_spg</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">isis_spg</Data></Cell>
+    <Cell><Data ss:Type="String">alN_02_ak</Data></Cell>
+    <Cell><Data ss:Type="String">alN_04_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">light_vehicle,medium_vehicle,tank,heavy_vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">at_squad</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\igil</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">isis_pulemet</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">isis_pulemet</Data></Cell>
+    <Cell><Data ss:Type="String">alN_03_ak</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">voices_enemies</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">at_squad</Data></Cell>
+    <Cell><Data ss:Type="String">talib_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\igil</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">#RAT_sirian_police</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s76"/>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_police_sniper</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">sirian_police_01_svd</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">sirian_police_02_svd</Data></Cell>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:Index="14" ss:StyleID="s79"><Data ss:Type="String">syr_police_sniper</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">us_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\police_sniper</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+    <Cell><Data ss:Type="Number">150</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">94</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_police_sniper_karim</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">sirian_police_01_svd</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">sirian_police_02_svd</Data></Cell>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:Index="14" ss:StyleID="s79"><Data ss:Type="String">syr_police_sniper</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">us_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\police_sniper</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria4</Data></Cell>
+    <Cell><Data ss:Type="Number">150</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">94</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_police_rpg</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">sirian_police_01_rpg</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">sirian_police_02_ak</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">sirian_police_02_rpg</Data></Cell>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:Index="14" ss:StyleID="s79"><Data ss:Type="String">syr_police_rpg</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">light_vehicle,medium_vehicle,tank,heavy_vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">us_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\police_rpg</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+    <Cell><Data ss:Type="Number">150</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_police_rpg_mahmud</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">sirian_police_01_rpg</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">sirian_police_02_ak</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">sirian_police_02_rpg</Data></Cell>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:Index="14" ss:StyleID="s79"><Data ss:Type="String">syr_police_rpg</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">light_vehicle,medium_vehicle,tank,heavy_vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">us_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\police_rpg</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria6</Data></Cell>
+    <Cell><Data ss:Type="Number">150</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_police</Data></Cell>
+    <Cell><Data ss:Type="String">sirian_police_01_rpk</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">sirian_police_01_ak</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">sirian_police_02_aksu</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">sirian_police_02_aksu</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s81"><Data ss:Type="String">syr_police</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">us_infantry</Data></Cell>
+    <Cell ss:Index="20"><Data ss:Type="String">UnitTypeIcon\police</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">93</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_police_hero1</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">sirian_police_01</Data></Cell>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:Index="14" ss:StyleID="s91"/>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">us_infantry</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\police_Captain</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria8</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_police_hero2</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">sirian_police_02</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:Index="14" ss:StyleID="s81"><Data ss:Type="String">syr_main_hero</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">us_infantry</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\police_Lieutenant</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria7</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">anwar</Data></Cell>
+    <Cell><Data ss:Type="String">siri_falcon2_dust_ak</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:Index="14" ss:StyleID="s81"><Data ss:Type="String">syr_main_hero</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">us_infantry</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\none_inv</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria7</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_general</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">sirian_police_01</Data></Cell>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:Index="14" ss:StyleID="s91"/>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">us_infantry</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\none_inv</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria8</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">#RAT_civils</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s87"/>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_civilian1</Data></Cell>
+    <Cell><Data ss:Type="String">ar_civil_03_man_05</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:Index="14" ss:StyleID="s92"><Data ss:Type="String">syr_main_hero</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">spec_squad</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\civilian</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syrian_civil</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_civilian2</Data></Cell>
+    <Cell><Data ss:Type="String">ar_civil_03_man_06</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:Index="14" ss:StyleID="s92"><Data ss:Type="String">syr_main_hero</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">spec_squad</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\civilian</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syrian_civil</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_civilian3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ar_civil_03_man_07</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:Index="14" ss:StyleID="s92"><Data ss:Type="String">syr_main_hero</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">spec_squad</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\civilian</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syrian_civil</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_civilian4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ar_civil_03_man_08</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:Index="14" ss:StyleID="s92"><Data ss:Type="String">syr_main_hero</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">spec_squad</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\civilian</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syrian_civil</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_civilian5</Data></Cell>
+    <Cell><Data ss:Type="String">civil_12_skinned</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:Index="14" ss:StyleID="s92"><Data ss:Type="String">syr_main_hero</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">spec_squad</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\civilian</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syrian_civil</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_civilian6</Data></Cell>
+    <Cell><Data ss:Type="String">civil_13_skinned</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:Index="14" ss:StyleID="s92"><Data ss:Type="String">syr_main_hero</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">spec_squad</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\civilian</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syrian_civil</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_civilian7</Data></Cell>
+    <Cell><Data ss:Type="String">civil_14_skinned</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:Index="14" ss:StyleID="s92"><Data ss:Type="String">syr_main_hero</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">spec_squad</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\civilian</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syrian_civil</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_civilian8</Data></Cell>
+    <Cell><Data ss:Type="String">civil_15_skinned</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:Index="14" ss:StyleID="s92"><Data ss:Type="String">syr_main_hero</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">spec_squad</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\civilian</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syrian_civil</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_civilian9</Data></Cell>
+    <Cell><Data ss:Type="String">civil_16_skinned</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:Index="14" ss:StyleID="s92"><Data ss:Type="String">syr_main_hero</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">spec_squad</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\civilian</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syrian_civil</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_civilian10</Data></Cell>
+    <Cell><Data ss:Type="String">girl_05_skinned</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:Index="14" ss:StyleID="s92"><Data ss:Type="String">syr_main_hero</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">spec_squad</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\civilian</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syrian_civil</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_civilian_troops1</Data></Cell>
+    <Cell><Data ss:Type="String">ar_civil_03_man_05_angry</Data></Cell>
+    <Cell><Data ss:Type="String">civil_13_skinned_angry</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ar_civil_03_man_08_angry</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:Index="14" ss:StyleID="s92"><Data ss:Type="String">syr_main_hero</Data></Cell>
+    <Cell><Data ss:Type="String">none</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">civil</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\civilian</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syrian_civil</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_civilian_troops2</Data></Cell>
+    <Cell><Data ss:Type="String">ar_civil_03_man_06_angry</Data></Cell>
+    <Cell><Data ss:Type="String">civil_15_skinned_angry</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ar_civil_03_man_07_angry</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:Index="14" ss:StyleID="s92"><Data ss:Type="String">syr_main_hero</Data></Cell>
+    <Cell><Data ss:Type="String">none</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">civil</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\civilian</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syrian_civil</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_civilian_hostages</Data></Cell>
+    <Cell><Data ss:Type="String">civil_12_skinned</Data></Cell>
+    <Cell><Data ss:Type="String">girl_05_skinned</Data></Cell>
+    <Cell><Data ss:Type="String">ar_civil_03_man_06</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ar_civil_03_man_08</Data></Cell>
+    <Cell><Data ss:Type="String">civil_16_skinned</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s92"><Data ss:Type="String">syr_main_hero</Data></Cell>
+    <Cell><Data ss:Type="String">none</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">civil</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\civilian</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syrian_civil</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_civilian_hostages2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ar_civil_03_man_07</Data></Cell>
+    <Cell><Data ss:Type="String">civil_13_skinned</Data></Cell>
+    <Cell><Data ss:Type="String">civil_14_skinned</Data></Cell>
+    <Cell><Data ss:Type="String">ar_civil_03_man_05</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s92"><Data ss:Type="String">syr_main_hero</Data></Cell>
+    <Cell><Data ss:Type="String">none</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">civil</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\civilian</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syrian_civil</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_civilian_hostages3</Data></Cell>
+    <Cell><Data ss:Type="String">civil_16_skinned</Data></Cell>
+    <Cell><Data ss:Type="String">ar_civil_03_man_06</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ar_civil_03_man_08</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="14" ss:StyleID="s92"><Data ss:Type="String">syr_main_hero</Data></Cell>
+    <Cell><Data ss:Type="String">none</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">civil</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\civilian</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syrian_civil</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_civilian_hostages4</Data></Cell>
+    <Cell><Data ss:Type="String">civil_14_skinned</Data></Cell>
+    <Cell><Data ss:Type="String">ar_civil_03_man_05</Data></Cell>
+    <Cell><Data ss:Type="String">civil_13_skinned</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="14" ss:StyleID="s92"><Data ss:Type="String">syr_main_hero</Data></Cell>
+    <Cell><Data ss:Type="String">none</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">civil</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\civilian</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syrian_civil</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_civilian_hostages5</Data></Cell>
+    <Cell><Data ss:Type="String">civil_15_skinned</Data></Cell>
+    <Cell><Data ss:Type="String">civil_13_skinned</Data></Cell>
+    <Cell><Data ss:Type="String">civil_12_skinned</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:Index="14" ss:StyleID="s92"><Data ss:Type="String">syr_main_hero</Data></Cell>
+    <Cell><Data ss:Type="String">none</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">civil</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\civilian</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syrian_civil</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">sirian_journalists_squad</Data></Cell>
+    <Cell><Data ss:Type="String">journalist_girl</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">journalist_1</Data></Cell>
+    <Cell><Data ss:Type="String">journalist_2</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s91"/>
+    <Cell><Data ss:Type="String">none</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">civil</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\press</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">journalists</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">ospc_squad</Data></Cell>
+    <Cell><Data ss:Type="String">civil_14_skinned</Data></Cell>
+    <Cell><Data ss:Type="String">civil_15_skinned</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ar_civil_03_man_07</Data></Cell>
+    <Cell><Data ss:Type="String">ar_civil_03_man_06</Data></Cell>
+    <Cell><Data ss:Type="String">ar_civil_03_man_05</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s91"/>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">spec_squad</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\OHO</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syrian_civil</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">#MINE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s88"><Data ss:Type="String">rus_veteran</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ru_veteran_pk</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ru_veteran_pk</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ru_veteran_svd</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ru_veteran_svd</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ru_veteran_rpg</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ru_veteran_rpg</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ru_veteran_rpg</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">ru_veteran_pk</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">ru_veteran_ak</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">ru_veteran_ak</Data></Cell>
+    <Cell ss:StyleID="s85"/>
+    <Cell ss:StyleID="s85"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">rus_vdv</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">none</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">infantry</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">commando</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">us_commando</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">engineer</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">UnitTypeIcon\veteran</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">500</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">rus_gru_veteran</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">ru_veteran_gru_barret</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">ru_veteran_gru_minimi</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">ru_veteran_gru_gl</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">ru_veteran_gru_barret</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">ru_veteran_gru_minimi</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">ru_veteran_gru_gl</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">ru_veteran_gru_barret</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">ru_veteran_gru_minimi</Data></Cell>
+    <Cell ss:StyleID="s85"/>
+    <Cell ss:StyleID="s85"/>
+    <Cell ss:StyleID="s85"/>
+    <Cell ss:StyleID="s85"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ru_morpeh</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">none</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">infantry</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">commando</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">us_commando</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">engineer</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">UnitTypeIcon\morpeh_veteran</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">500</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">german_tank_crew</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">german_crew</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">german_crew</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">german_crew</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">german_crew_stg</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s79"><Data ss:Type="String">syr_tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle,tank</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+    <Cell><Data ss:Type="Number">400</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">soviet_tank_crew</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">soviet_crew</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">soviet_crew</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">soviet_crew</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">soviet_crew</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">soviet_crew</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s79"><Data ss:Type="String">syr_tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle,tank</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+    <Cell><Data ss:Type="Number">400</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Data="&amp;Я"/>
+    <Footer x:Data="Page &amp;С"/>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+    <Gridlines/>
+   </Print>
+   <Selected/>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>94</TopRowBottomPane>
+   <SplitVertical>1</SplitVertical>
+   <LeftColumnRightPane>1</LeftColumnRightPane>
+   <ActivePane>0</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>1</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>1</ActiveRow>
+    </Pane>
+    <Pane>
+     <Number>0</Number>
+     <ActiveRow>119</ActiveRow>
+     <ActiveCol>0</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
