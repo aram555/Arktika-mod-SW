@@ -540,7 +540,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="Number">11</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">tank</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">tank</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">soviet_tank_crew</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">russian_tank_crew</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">UnitTypeIcon\vehicle_enemy</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">UnitTypeIcon\vehicle_player</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">models/vehicles/tank_t34_85.mld</Data></Cell>
@@ -609,7 +609,7 @@
     <Cell><Data ss:Type="Number">11</Data></Cell>
     <Cell><Data ss:Type="String">tank</Data></Cell>
     <Cell><Data ss:Type="String">tank</Data></Cell>
-    <Cell><Data ss:Type="String">soviet_tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">russian_tank_crew</Data></Cell>
     <Cell><Data ss:Type="String">UnitTypeIcon\vehicle_enemy</Data></Cell>
     <Cell><Data ss:Type="String">UnitTypeIcon\vehicle_player</Data></Cell>
     <Cell><Data ss:Type="String">models/vehicles/tank_is2.xmdl</Data></Cell>
@@ -672,7 +672,7 @@
     <Cell><Data ss:Type="Number">11</Data></Cell>
     <Cell><Data ss:Type="String">tank</Data></Cell>
     <Cell><Data ss:Type="String">tank</Data></Cell>
-    <Cell><Data ss:Type="String">soviet_tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">russian_tank_crew</Data></Cell>
     <Cell><Data ss:Type="String">UnitTypeIcon\vehicle_enemy</Data></Cell>
     <Cell><Data ss:Type="String">UnitTypeIcon\vehicle_player</Data></Cell>
     <Cell><Data ss:Type="String">models/vehicles/tank_is3.xmdl</Data></Cell>
@@ -735,7 +735,7 @@
     <Cell><Data ss:Type="Number">11</Data></Cell>
     <Cell><Data ss:Type="String">tank</Data></Cell>
     <Cell><Data ss:Type="String">tank</Data></Cell>
-    <Cell><Data ss:Type="String">soviet_tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">russian_tank_crew</Data></Cell>
     <Cell><Data ss:Type="String">UnitTypeIcon\vehicle_enemy</Data></Cell>
     <Cell><Data ss:Type="String">UnitTypeIcon\vehicle_player</Data></Cell>
     <Cell><Data ss:Type="String">models/vehicles/tank_su100.xmdl</Data></Cell>
@@ -878,7 +878,7 @@
     <Cell><Data ss:Type="Number">11</Data></Cell>
     <Cell><Data ss:Type="String">tank</Data></Cell>
     <Cell><Data ss:Type="String">tank</Data></Cell>
-    <Cell><Data ss:Type="String">soviet_tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">russian_tank_crew</Data></Cell>
     <Cell><Data ss:Type="String">UnitTypeIcon\vehicle_enemy</Data></Cell>
     <Cell><Data ss:Type="String">UnitTypeIcon\vehicle_player</Data></Cell>
     <Cell><Data ss:Type="String">models/vehicles/tank_new.xmdl</Data></Cell>
