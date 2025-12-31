@@ -5394,6 +5394,23 @@
     <Cell><Data ss:Type="String">smoke_damage:1.5</Data></Cell>
     <Cell><Data ss:Type="String">korpus.exhaust_broken_cargo</Data></Cell>
    </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">sdkfz4_launcher</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">none;shoot(gun_disabled);smoke(inflammation)+unload_crew(bailing_out)+deny_crew_load;vital</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">korpus.bashnya.turret01.gun</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">600</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">main_gun:37</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">main_gun:37</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">main_gun:37</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">main_gun:300</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">main_gun:450</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">main_gun:450</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">turret</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+   </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>

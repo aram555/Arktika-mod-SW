@@ -25,6 +25,10 @@ Reserves =
 		addCar("ural_cabin", 2)
 		addCar("grad", 2)
 		addCar("ural_tanker", 2)
+		addCar("opel_blitz", 2)
+		addCar("opel_blitz_ammo",1)
+		addCar("studebaker_ammo",2)
+		addTank("tank_sdkfz4_nebelwerfer",3)
 
 	end,
 

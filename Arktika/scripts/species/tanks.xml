@@ -764,6 +764,86 @@
     <Cell><Data ss:Type="Boolean">1</Data></Cell>
    </Row>
    <Row>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">tank_sdkfz4_nebelwerfer</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">0.33</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">6.02</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">artillery</Data></Cell>
+    <Cell ss:StyleID="s74"/>
+    <Cell ss:StyleID="s74"/>
+    <Cell ss:StyleID="s74"/>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">120</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">80</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">150</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">250</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">directed</Data></Cell>
+    <Cell ss:StyleID="s74"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">84</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">462</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">2000</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">1000</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">1500</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">infantry,light_vehicle,medium_vehicle</Data></Cell>
+    <Cell ss:StyleID="s74"/>
+    <Cell ss:StyleID="s74"/>
+    <Cell ss:StyleID="s74"/>
+    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">guntrack_machine_type63</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">missile_107frag_he:50</Data></Cell>
+    <Cell ss:Index="40" ss:StyleID="s95"><Data ss:Type="String">sdkfz4_launcher,grad_tracks,grad_gun,grad_engine,grad_base</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">artillery</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="String">heavy_vehicle</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">artillery</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">tank</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">german_art_crewmen</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">UnitTypeIcon\vehicle_enemy</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">UnitTypeIcon\vehicle_player</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">models/vehicles/sdkfz_4_nebelwerfer.mld</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">grad_voices</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">tank</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">korpus.exhaustsmoke01</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">korpus.exhaust01,korpus.exhaust02</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">_exhaust_tank</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">_dust_tank_medium</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">korpus.wheel01,korpus.wheel02,korpus.st_wheel01,korpus.st_wheel02,korpus.st_wheel03,korpus.st_wheel04,korpus.st_wheel05,korpus.st_wheel06,korpus.st_wheel07,korpus.st_wheel08,korpus.st_wheel09,korpus.st_wheel10,korpus.st_wheel11,korpus.st_wheel12,korpus.st_wheel13,korpus.st_wheel14,korpus.st_wheel15,korpus.st_wheel16</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">yes</Data></Cell>
+    <Cell ss:StyleID="s74"/>
+    <Cell ss:StyleID="s74"/>
+    <Cell ss:StyleID="s74"/>
+    <Cell ss:StyleID="s86"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">blast/destroy_sound/3</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">spots/blast_vehicle_burned</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">390</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">2-5:he400</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">heavy</Data></Cell>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">_destruction_tank_light:0.9</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">pic_sdkfz4_nebelwerfer</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">car_RSZO</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="Boolean">1</Data></Cell>
+   </Row>
+   <Row>
     <Cell><Data ss:Type="String">tank_test</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="Number">50</Data></Cell>
     <Cell ss:StyleID="s73"><Data ss:Type="Number">1.5</Data></Cell>
