@@ -92,10 +92,10 @@
   </Colors>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>11880</WindowHeight>
+  <WindowHeight>12120</WindowHeight>
   <WindowWidth>25200</WindowWidth>
-  <WindowTopX>0</WindowTopX>
-  <WindowTopY>0</WindowTopY>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
   <RefModeR1C1/>
   <ProtectStructure>False</ProtectStructure>
   <ProtectWindows>False</ProtectWindows>
@@ -169,7 +169,7 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="tanks">
-  <Table ss:ExpandedColumnCount="19" ss:ExpandedRowCount="114" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="19" ss:ExpandedRowCount="119" x:FullColumns="1"
    x:FullRows="1" ss:StyleID="s62">
    <Column ss:StyleID="s63" ss:Width="276.75"/>
    <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="30.75"/>
@@ -1746,6 +1746,46 @@
     <Cell ss:StyleID="s72"><Data ss:Type="String">0.17444444444444446</Data></Cell>
     <Cell><Data ss:Type="Number">10</Data></Cell>
    </Row>
+   <Row ss:Index="116">
+    <Cell><Data ss:Type="String">m3_machine_gun_hor</Data></Cell>
+    <Cell><Data ss:Type="String">z</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">korpus.bashnya</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">-180</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">180</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">0.69777777777777783</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">m3_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">y</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">korpus.bashnya</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">-20</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">65</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">0.17444444444444446</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">m3_crew_hor</Data></Cell>
+    <Cell><Data ss:Type="String">z</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">korpus</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">0.69777777777777783</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">m3_crew_ver</Data></Cell>
+    <Cell><Data ss:Type="String">y</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">korpus</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">0.17444444444444446</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+   </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -1781,8 +1821,8 @@
     </Pane>
     <Pane>
      <Number>0</Number>
-     <ActiveRow>115</ActiveRow>
-     <ActiveCol>3</ActiveCol>
+     <ActiveRow>120</ActiveRow>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

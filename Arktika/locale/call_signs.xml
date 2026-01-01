@@ -1,0 +1,3243 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Пользователь Windows</LastAuthor>
+  <Created>2005-02-26T16:04:39Z</Created>
+  <LastSaved>2020-07-16T12:46:12Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <Colors>
+   <Color>
+    <Index>16</Index>
+    <RGB>#8080FF</RGB>
+   </Color>
+   <Color>
+    <Index>17</Index>
+    <RGB>#802060</RGB>
+   </Color>
+   <Color>
+    <Index>18</Index>
+    <RGB>#FFFFC0</RGB>
+   </Color>
+   <Color>
+    <Index>19</Index>
+    <RGB>#A0E0E0</RGB>
+   </Color>
+   <Color>
+    <Index>20</Index>
+    <RGB>#600080</RGB>
+   </Color>
+   <Color>
+    <Index>22</Index>
+    <RGB>#0080C0</RGB>
+   </Color>
+   <Color>
+    <Index>23</Index>
+    <RGB>#C0C0FF</RGB>
+   </Color>
+   <Color>
+    <Index>33</Index>
+    <RGB>#69FFFF</RGB>
+   </Color>
+   <Color>
+    <Index>36</Index>
+    <RGB>#A6CAF0</RGB>
+   </Color>
+   <Color>
+    <Index>37</Index>
+    <RGB>#CC9CCC</RGB>
+   </Color>
+   <Color>
+    <Index>39</Index>
+    <RGB>#E3E3E3</RGB>
+   </Color>
+   <Color>
+    <Index>42</Index>
+    <RGB>#339933</RGB>
+   </Color>
+   <Color>
+    <Index>43</Index>
+    <RGB>#999933</RGB>
+   </Color>
+   <Color>
+    <Index>44</Index>
+    <RGB>#996633</RGB>
+   </Color>
+   <Color>
+    <Index>45</Index>
+    <RGB>#996666</RGB>
+   </Color>
+   <Color>
+    <Index>48</Index>
+    <RGB>#3333CC</RGB>
+   </Color>
+   <Color>
+    <Index>49</Index>
+    <RGB>#336666</RGB>
+   </Color>
+   <Color>
+    <Index>52</Index>
+    <RGB>#663300</RGB>
+   </Color>
+   <Color>
+    <Index>55</Index>
+    <RGB>#424242</RGB>
+   </Color>
+  </Colors>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8100</WindowHeight>
+  <WindowWidth>21600</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#3333CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#CC99FF"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#CC99FF"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#3333CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#3333CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#404040" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#404040" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="tanks">
+  <Table ss:ExpandedColumnCount="15" ss:ExpandedRowCount="725" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="115.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="51"/>
+   <Column ss:Width="82.5" ss:Span="1"/>
+   <Column ss:Index="5" ss:Width="61.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="258"/>
+   <Column ss:Width="31.5"/>
+   <Column ss:Width="193.5"/>
+   <Column ss:Width="56.25"/>
+   <Column ss:Index="11" ss:Width="170.25"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="72"/>
+   <Column ss:Width="55.5"/>
+   <Column ss:Width="69"/>
+   <Row ss:StyleID="s63">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">sysname</Data></Cell>
+    <Cell><Data ss:Type="String">nationality</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Charlie</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Bravo</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Rain</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Wind</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Cloud</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">White</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Grey</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Sabre</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Elm</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Sable</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Green</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Snake</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Goose</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Volcano</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Hammer</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Red</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Old</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Catfish</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Alpha</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Beta</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Gamma</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Delta</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Epsilon</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Zeta</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Eta</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Theta</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Iota</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Spectre</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Kappa</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Lambda</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Mu</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Nu</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Xi</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Omicron</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Pi</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Rho</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Sigma</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Tau</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Upsilon</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Newbie</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Rogue</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Hawk</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Mad Dog</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Buster</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Stake</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Robber</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Cayman</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Lion</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Puma</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Stone</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Stingray</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Smokey</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Dragon</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Buffalo</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Guarder</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Oak</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Trapper</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Giant</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Full-back</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Drake</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Piglet</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Dandy</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Joker</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Coach</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Bulldog</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Rock</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Kelpie</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Sailor</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Skipper</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Dadger</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Bender</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Sugar</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Jemmy</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Dolphin</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Cowboy</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Cricket</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Zulu</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Deer</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Boxer</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Scout</Data></Cell>
+    <Cell><Data ss:Type="String">usa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Генерал</Data></Cell>
+    <Cell><Data ss:Type="String">general</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кот</Data></Cell>
+    <Cell><Data ss:Type="String">rus_cat</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Гром</Data></Cell>
+    <Cell><Data ss:Type="String">rus_grom</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Пресса</Data></Cell>
+    <Cell><Data ss:Type="String">rus1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Пилот</Data></Cell>
+    <Cell><Data ss:Type="String">rus2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Атлас</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Агат</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Берег</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Бинт</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Вектор</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Весна</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Горизонт</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Гранат</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Диод</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Дуб</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Жемчужина</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Фиалка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Тюльпан</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Гиганцит</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Черёмуха</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Изумруд</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Заря</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Звезда</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Петля</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Класс</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Берёза</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Палаш</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Ромашка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Герой</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Защитник</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Клен</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Сапфир</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Кедр</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Тумба</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Лёд</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Абажур</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Абзац</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Аврора</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ажур</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Азимут</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Азот</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Аймак</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Айрон</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Актив</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Акцент</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Алеут</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ампула</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Амур</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ананас</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Анапа</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ангар</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ангара</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Анис</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Антей</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Анфас</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Апогей</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Аргон</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Арена</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Аренда</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Аркан</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Армада</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Артек</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Арык</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Атлет</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Афиша</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Багет</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Багрец</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Базис</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Байкал</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Балкон</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Бант</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Баржа</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Билет</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Биплан</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Биржа</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Бисер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Блесна</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Блок</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Бокал</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Бор</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Боцман</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Бриг</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Брикет</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Буер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Букет</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Буксир</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Бункер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Буран</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Буфер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Бухта</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Вал</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Валдай</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ваниль</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Вар</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ватага</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Вахта</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Веер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Венец</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Вермут</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Весло</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ветка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ветла</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Виза</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Винт</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Витязь</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Водник</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Вольер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ворох</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Втулка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Вуаль</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Вулкан</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Вымпел</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Гавань</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Газель</Data></Cell>
+    <Cell><Data ss:Type="String">rus_gazel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Газета</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Газон</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Гайка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Галун</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Галька</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Гараж</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Гарпун</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Гейзер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Герань</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Герб</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Гигант</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Гипноз</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Гипс</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Гитара</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Гобой</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Голос</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Голубь</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Город</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Гравер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Гравий</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Градус</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Гранит</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Графа</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Груша</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Губка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Гудок</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Гурзуф</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Гусар</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Дамба</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Депо</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Дерево</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Десерт</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Джигит</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Динамо</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Диск</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Днепр</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Доза</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Доклад</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Донец</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Донор</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Драма</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Дублер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Дунай</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Дымка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Дымок</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Елка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Енисей</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Жаргон</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Жасмин</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Жатва</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Жатка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Жгут</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Жемчуг</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Жетон</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Забой</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Завод</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Закат</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Залив</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Залп</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Запал</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Звонок</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Звук</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Зебра</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Зенит</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Зеница</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Зерно</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Зефир</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Зима</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Зорька</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Зубр</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Зурна</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Иволга</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Игарка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Идеал</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Иней</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Инжир</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ирис</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Искра</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Кабина</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Кавказ</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Кагор</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Кактус</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Калибр</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Калий</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Калина</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Калька</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Камера</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Канат</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Капот</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Карат</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Карниз</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Картер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Картон</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Картуз</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Каскад</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Каспий</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Катет</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Каток</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Кафтан</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Кварта</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Киоск</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Кипа</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Кисет</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Кит</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Клапан</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Клевер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Клиент</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Климат</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Клубок</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Клумба</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Кожух</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Кокос</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Колба</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Колос</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Комета</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Компас</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Конек</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Консул</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Контур</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Кора</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Корвет</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Корма</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Корона</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Корпус</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Коса</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Космос</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Костер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Котлас</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Кредо</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Крокет</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Кроль</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Круг</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Крым</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Куба</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Кубань</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Кубик</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Кубок</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Кумир</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Кунгур</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Куница</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Куплет</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Купол</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Курган</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Курок</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Курорт</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Курсив</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Лабаз</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Лава</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ладога</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Лазурь</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Лампа</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Лампас</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ласка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ластик</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Лебедь</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ледник</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Лейка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Лектор</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Лепка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Лес</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Леска</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Лиана</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ливень</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ликер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Линза</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Лира</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Лирика</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Литер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Логика</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ложа</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Локон</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Лоток</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Лужок</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Лупа</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Магний</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Мажор</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Мак</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Макет</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Малага</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Малина</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Мальта</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Маркер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Матрос</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Маузер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Маяк</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Мел</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Метель</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Метеор</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Метка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Метла</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Микрон</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Минута</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Мир</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Мираж</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Мисхор</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Модуль</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Молва</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Монета</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Монтер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Морфий</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Муза</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Музыка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Мускат</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Набат</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Наган</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Накат</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Напев</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Нарвик</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Нарзан</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Нарта</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Насос</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Натрий</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Небо</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Невка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Нейлон</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Неман</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Нитка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Нора</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Норма</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Нота</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Обвал</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Обзор</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Обнова</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Овал</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Овраг</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ограда</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ока</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Окно</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Округ</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Олень</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Олифа</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Онега</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Опера</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Орех</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Осень</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Осина</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Осока</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ось</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Отара</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Отлив</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Отмель</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Отрада</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Отсек</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Охота</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Охра</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Охта</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Пакет</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Памир</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Пар</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Парад</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Парк</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Паром</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Парта</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Патока</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Патрон</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Пафос</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Пахра</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Педаль</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Пемза</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Пенал</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Перец</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Персик</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Пиала</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Пика</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Пикет</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Пила</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Пинцет</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Пион</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Пионер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Пирога</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Пирс</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Письмо</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Пихта</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Плавка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Плазма</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Планер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Плафон</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Плетка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Плита</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Плутон</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Подвиг</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Покос</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Полет</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Полынь</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Полюс</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Понтон</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Порт</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Посад</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Посол</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Прибой</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Прибор</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Привод</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Приз</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Призер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Прима</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Провод</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Прокос</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Пролив</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Пролог</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Просо</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Пульт</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Пурга</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Путина</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Рабкор</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Радиан</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Радий</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Радон</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Радуга</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Разлив</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Рамка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Рампа</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ранет</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ранец</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ранжир</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Раскат</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Реглан</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Редут</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Резина</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Рекрут</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ректор</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Рельеф</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Репа</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Репер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Риска</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Рифма</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Родос</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Рожок</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Рожь</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Роза</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Рокада</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Рокот</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ром</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ромб</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Роса</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Роща</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ртуть</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Рубка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Руда</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ружье</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Рулон</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Руль</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Румба</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Рупор</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Русак</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Русло</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Рыбак</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Рыцарь</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Рябина</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Сабза</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Сад</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Садко</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Сажень</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Салат</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Салон</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Салют</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Самара</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Сани</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Сарай</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Сатин</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Сатира</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Сатурн</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Сафра</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Сахара</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Свет</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Свита</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Седло</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Сейнер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Секрет</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Сено</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Сервиз</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Серна</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Серп</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Сила</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Синица</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Синтез</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Синус</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Синька</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Сирень</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Скат</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Скатка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Склад</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Скутер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Слава</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Сланец</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Смена</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Смета</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Смола</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Снег</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Соната</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Сопка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Сосна</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Соха</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Спайка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Спаржа</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Спица</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Стажер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Стакан</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Станок</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Старт</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Статор</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Степь</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Стопор</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Стриж</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Струна</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Стужа</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Суфлер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Сфера</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Схема</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Табель</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Табор</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Таймыр</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Тактик</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Тамань</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Тантал</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Тезис</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Тенор</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Тир</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Тираж</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Титул</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Тобол</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Торец</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Тормоз</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Торос</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Торф</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Трек</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Трибун</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Триумф</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Тропа</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Труба</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Трубка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Тула</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Туман</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Турист</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Турник</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Удаль</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Укроп</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Улан</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Урал</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Уран</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Урок</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Успех</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Утро</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Фаза</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Фазан</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Факир</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Фарада</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Фарфор</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Фасад</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Фаска</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Фауна</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ферма</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Фибра</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Физика</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Фикус</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Финик</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Фиорд</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Фирма</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Флакон</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Фонтан</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Фреза</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Фужер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Фураж</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Фургон</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Цветок</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Цезий</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Целина</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Циксон</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Цинк</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Шарнир</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Широта</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Шкала</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Шкипер</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Школа</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Шлюпка</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Шпага</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Штанга</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Штык</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Щука</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Эбонит</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Эврика</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Элита</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Эпоха</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Эра</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Эфир</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Эхо</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ява</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Янтарь</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Цивил</Data></Cell>
+    <Cell><Data ss:Type="String">civil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Командир</Data></Cell>
+    <Cell><Data ss:Type="String">command</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Шейх</Data></Cell>
+    <Cell><Data ss:Type="String">saudi_sheih</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Гарем</Data></Cell>
+    <Cell><Data ss:Type="String">saudi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Золото</Data></Cell>
+    <Cell><Data ss:Type="String">saudi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Серебро</Data></Cell>
+    <Cell><Data ss:Type="String">saudi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Море</Data></Cell>
+    <Cell><Data ss:Type="String">saudi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Пальма</Data></Cell>
+    <Cell><Data ss:Type="String">saudi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Солнце</Data></Cell>
+    <Cell><Data ss:Type="String">saudi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ветер</Data></Cell>
+    <Cell><Data ss:Type="String">saudi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Небилет</Data></Cell>
+    <Cell><Data ss:Type="String">saudi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Берлиприл</Data></Cell>
+    <Cell><Data ss:Type="String">saudi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Корвитол</Data></Cell>
+    <Cell><Data ss:Type="String">saudi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Холисал</Data></Cell>
+    <Cell><Data ss:Type="String">saudi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Риал</Data></Cell>
+    <Cell><Data ss:Type="String">saudi</Data></Cell>
+   </Row>
+   <Row ss:Index="666">
+    <Cell><Data ss:Type="String">Сокол</Data></Cell>
+    <Cell><Data ss:Type="String">syria_suqur</Data></Cell>
+   </Row>
+   <Row ss:Index="668">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Тигр</Data></Cell>
+    <Cell><Data ss:Type="String">syria_tigr</Data></Cell>
+   </Row>
+   <Row ss:Index="670">
+    <Cell><Data ss:Type="String">Скала</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Лезвме</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Визир</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Герой</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Лавина</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Молот</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Горец</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Восток</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Волк</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Боксер</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Зоркий</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Мастер</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Пламя</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Дракон</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Камень</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Оса</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ястреб</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Пантера</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ходжа</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Гора</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Барс</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Лев</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Леопард</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Игла</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Лавина</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Кузнец</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Слон</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Меч</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Щит</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Джинн</Data></Cell>
+    <Cell><Data ss:Type="String">syria</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Вахид</Data></Cell>
+    <Cell><Data ss:Type="String">syria11</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Анвар</Data></Cell>
+    <Cell><Data ss:Type="String">syria7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row ss:Index="714">
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Красный</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Оранджевый</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Желтый</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Зеленый</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Синий</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Фиолетовый</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Белый</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Черный</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Серый</Data></Cell>
+    <Cell><Data ss:Type="String">rus</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Data="&amp;Я"/>
+    <Footer x:Data="Page &amp;С"/>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+    <Gridlines/>
+   </Print>
+   <Selected/>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>674</TopRowBottomPane>
+   <SplitVertical>1</SplitVertical>
+   <LeftColumnRightPane>1</LeftColumnRightPane>
+   <ActivePane>0</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>1</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>1</ActiveRow>
+    </Pane>
+    <Pane>
+     <Number>0</Number>
+     <ActiveCol>0</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <ConditionalFormatting xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R80C1:R645C1</Range>
+   <Condition>
+    <Value1>AND(COUNTIF(C1, RC)&gt;1,NOT(ISBLANK(RC)))</Value1>
+    <Format Style='color:#9C0006;background:#FFC7CE'/>
+   </Condition>
+  </ConditionalFormatting>
+ </Worksheet>
+</Workbook>

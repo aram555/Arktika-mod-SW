@@ -15,10 +15,10 @@
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>11880</WindowHeight>
+  <WindowHeight>11520</WindowHeight>
   <WindowWidth>25200</WindowWidth>
-  <WindowTopX>0</WindowTopX>
-  <WindowTopY>0</WindowTopY>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
   <RefModeR1C1/>
   <ProtectStructure>False</ProtectStructure>
   <ProtectWindows>False</ProtectWindows>
@@ -524,7 +524,7 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="cars">
-  <Table ss:ExpandedColumnCount="80" ss:ExpandedRowCount="82" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="80" ss:ExpandedRowCount="86" x:FullColumns="1"
    x:FullRows="1" ss:StyleID="s84" ss:DefaultRowHeight="12.1875">
    <Column ss:StyleID="s85" ss:AutoFitWidth="0" ss:Width="153.75"/>
    <Column ss:StyleID="s84" ss:Width="31.5"/>
@@ -556,7 +556,7 @@
    <Column ss:Index="34" ss:StyleID="s84" ss:Width="105"/>
    <Column ss:StyleID="s84" ss:Width="255"/>
    <Column ss:StyleID="s84" ss:Width="42" ss:Span="1"/>
-   <Column ss:Index="38" ss:StyleID="s84" ss:AutoFitWidth="0" ss:Width="211.5"/>
+   <Column ss:Index="38" ss:StyleID="s84" ss:AutoFitWidth="0" ss:Width="426"/>
    <Column ss:StyleID="s84" ss:Width="450.75"/>
    <Column ss:StyleID="s84" ss:Width="552.75"/>
    <Column ss:StyleID="s84" ss:Width="55.5"/>
@@ -6807,6 +6807,556 @@
     <Cell ss:StyleID="s104"><Data ss:Type="Number">97</Data></Cell>
     <Cell><Data ss:Type="Boolean">1</Data></Cell>
    </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s106"><Data ss:Type="String">M3</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">11.5</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">7.5</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">13.33</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;80</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">0.45</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell><Data ss:Type="Number">120</Data></Cell>
+    <Cell><Data ss:Type="String">directed</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="Number">170</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="Number">200</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">heavy</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">290</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s110"><Data ss:Type="Number">4000</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">45</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">500</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1500</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">infantry,light_vehicle,medium_vehicle</Data></Cell>
+    <Cell ss:StyleID="s108"/>
+    <Cell ss:StyleID="s100"/>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">m3_browning</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">ammo_127:1000</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">m3_tracks,m3_turret,m3_engine,m3_base,m3_cargo</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">military</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">medium_vehicle</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">armored_transport</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">sirian_btr_crew_01</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">UnitTypeIcon\vehicle_enemy</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">UnitTypeIcon\vehicle_player</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">models/vehicles/M3.xmdl</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">btr70_voices</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">bmp</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">korpus.linkcar</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">yes</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">korpus.exhaustsmoke01</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">korpus.exhaust01,korpus.exhaust02</Data></Cell>
+    <Cell><Data ss:Type="String">_exhaust_tank</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">_dust_tank_medium</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.wheel01,korpus.wheel02</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.st_wheel01,korpus.st_wheel02,korpus.st_wheel03,korpus.st_wheel04,korpus.st_wheel05,korpus.st_wheel06,korpus.st_wheel07,korpus.st_wheel08,korpus.st_wheel09,korpus.st_wheel10,korpus.st_wheel11,korpus.st_wheel12,korpus.st_wheel13,korpus.st_wheel14,</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell><Data ss:Type="String">blast/destroy_sound/2</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">spots/blast_cars_burned</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="Number">390</Data></Cell>
+    <Cell><Data ss:Type="String">2-5:he100</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:Index="72"><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">_destruction_tank_light:0.8</Data></Cell>
+    <Cell><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">pic_car_btr70</Data></Cell>
+    <Cell><Data ss:Type="String">car_btr</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="Number">97</Data></Cell>
+    <Cell><Data ss:Type="Boolean">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s106"><Data ss:Type="String">studebaker</Data></Cell>
+    <Cell><Data ss:Type="Number">8.08</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">12.5</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;75</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">round</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="Number">190</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="Number">200</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">medium</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell><Data ss:Type="Number">200</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s105"/>
+    <Cell ss:StyleID="s114"><Data ss:Type="Number">20000</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">200</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">600</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s95"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:Index="40" ss:StyleID="s95"><Data ss:Type="String">ural_tracks,ural_engine,ural_cargo,ural_base</Data></Cell>
+    <Cell><Data ss:Type="String">military</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">light_vehicle</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">light_vehicle</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">sirian_btr_crew_01</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">UnitTypeIcon\vehicle_enemy</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">UnitTypeIcon\vehicle_player</Data></Cell>
+    <Cell><Data ss:Type="String">models/vehicles/Studebaker.xmdl</Data></Cell>
+    <Cell ss:StyleID="s160"><Data ss:Type="String">ural_voices</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">truck</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.linkcar</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">yes</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.exhaustsmoke01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.exhaust01,korpus.exhaust02</Data></Cell>
+    <Cell><Data ss:Type="String">_exhaust_btr</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">_dust_tank_medium</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.wheel01,korpus.wheel02</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.st_wheel01,korpus.st_wheel02,korpus.st_wheel03,korpus.st_wheel04</Data></Cell>
+    <Cell ss:Index="65"><Data ss:Type="String">blast/destroy_sound/2</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">spots/blast_cars_burned</Data></Cell>
+    <Cell><Data ss:Type="Number">5.5</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="Number">390</Data></Cell>
+    <Cell><Data ss:Type="String">2-5:he100</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:Index="72"><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">_destruction_civilian_truck:1.02</Data></Cell>
+    <Cell><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">pic_car_ural</Data></Cell>
+    <Cell><Data ss:Type="String">car_heavy_cargo</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s106"><Data ss:Type="String">katyusha</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">13.7</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">7.5</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">12.5</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;75</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">artillery</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s130"><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">directed</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="Number">120</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="Number">190</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="Number">250</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">medium</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">200</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">200</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2000</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">600</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">infantry,light_vehicle,medium_vehicle</Data></Cell>
+    <Cell ss:StyleID="s108"/>
+    <Cell ss:StyleID="s100"/>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">grad_gun</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">missile_122uni:40</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">grad_tracks,grad_gun,grad_engine,grad_base</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">military</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">light_vehicle</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">artillery</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell ss:StyleID="s131"><Data ss:Type="String">sirian_tank_crew_01</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">UnitTypeIcon\vehicle_enemy</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">UnitTypeIcon\vehicle_player</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">models/vehicles/Katyusha.xmdl</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">grad_voices</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">truck</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">korpus.linkcar</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">yes</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">korpus.exhaustsmoke01</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">korpus.exhaust01,korpus.exhaust02</Data></Cell>
+    <Cell><Data ss:Type="String">_exhaust_btr</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">_dust_tank_medium</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.wheel01,korpus.wheel02</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.st_wheel01,korpus.st_wheel02,korpus.st_wheel03,korpus.st_wheel04</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell><Data ss:Type="String">blast/destroy_sound/4</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">spots/blast_cars_burned</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="Number">390</Data></Cell>
+    <Cell><Data ss:Type="String">2-5:he100</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:Index="72"><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">_destruction_artillery:0.65</Data></Cell>
+    <Cell><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">pic_car_grad</Data></Cell>
+    <Cell><Data ss:Type="String">car_RSZO</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="Number">98</Data></Cell>
+    <Cell><Data ss:Type="Boolean">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s106"><Data ss:Type="String">studebaker_truck</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">8.08</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">12.5</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;75</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">ammunition_recharge</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">round</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="Number">190</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="Number">200</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">medium</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">200</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">30000</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">300</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">600</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s108"/>
+    <Cell ss:StyleID="s100"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s161"/>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">ural_tracks,ural_engine,ural_cargo,ural_base</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">military</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">light_vehicle</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">light_vehicle</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">sirian_btr_crew_01</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">UnitTypeIcon\vehicle_enemy</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">UnitTypeIcon\vehicle_player</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">models/vehicles/Studebaker_truck.xmdl</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">ural_recharger_voices</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">truck</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">korpus.linkcar</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">yes</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">korpus.exhaustsmoke01</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">korpus.exhaust01,korpus.exhaust02</Data></Cell>
+    <Cell><Data ss:Type="String">_exhaust_btr</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">_dust_tank_medium</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.wheel01,korpus.wheel02</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.st_wheel01,korpus.st_wheel02,korpus.st_wheel03,korpus.st_wheel04</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell><Data ss:Type="String">blast/destroy_sound/2</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">spots/blast_spot_earth_fuel</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="Number">390</Data></Cell>
+    <Cell><Data ss:Type="String">5-15:he200</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:Index="72"><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">_destruction_ammunition</Data></Cell>
+    <Cell><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">pic_car_ural_truck</Data></Cell>
+    <Cell><Data ss:Type="String">car_heavy_cargo</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s106"><Data ss:Type="String">opel_blitz</Data></Cell>
+    <Cell><Data ss:Type="Number">8.08</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">12.5</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;75</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">round</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="Number">190</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="Number">200</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">medium</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell><Data ss:Type="Number">200</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s105"/>
+    <Cell ss:StyleID="s114"><Data ss:Type="Number">12000</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">160</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">400</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s95"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:Index="40" ss:StyleID="s95"><Data ss:Type="String">ural_tracks,ural_engine,ural_cargo,ural_base</Data></Cell>
+    <Cell><Data ss:Type="String">military.ar</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">light_vehicle</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">light_vehicle</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">german_btr_crew</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">UnitTypeIcon\vehicle_enemy</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">UnitTypeIcon\vehicle_player</Data></Cell>
+    <Cell><Data ss:Type="String">models/vehicles/car_opel_blitz.xmdl</Data></Cell>
+    <Cell ss:StyleID="s163"><Data ss:Type="String">ural_voices</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">truck</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.linkcar</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">yes</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.exhaustsmoke01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.exhaust01,korpus.exhaust02</Data></Cell>
+    <Cell><Data ss:Type="String">_exhaust_btr</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">_dust_tank_medium</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.wheel01,korpus.wheel02</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.st_wheel01,korpus.st_wheel02</Data></Cell>
+    <Cell ss:Index="63"><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">blast/destroy_sound/2</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">spots/blast_cars_burned</Data></Cell>
+    <Cell><Data ss:Type="Number">5.5</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="Number">390</Data></Cell>
+    <Cell><Data ss:Type="String">2-5:he100</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:Index="72"><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">_destruction_civilian_truck:1.02</Data></Cell>
+    <Cell><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">pic_car_opel_blitz</Data></Cell>
+    <Cell><Data ss:Type="String">car_heavy_cargo</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s115">
+    <Cell><Data ss:Type="String">opel_blitz_ammo</Data></Cell>
+    <Cell><Data ss:Type="Number">8.08</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data><Comment ss:Author="dieman"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma"
+         x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">dieman:</Font></B><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+        html:Color="#000000">&#10;75</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">0.55000000000000004</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;2.03</Font></ss:Data></Comment></Cell>
+    <Cell ss:Index="9"><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s164"><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">ammunition_recharge</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">round</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="Number">190</Data></Cell>
+    <Cell><Data ss:Type="Number">200</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">medium</Data></Cell>
+    <Cell ss:Index="26"><Data ss:Type="Number">200</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:Index="30"><Data ss:Type="Number">20000</Data></Cell>
+    <Cell ss:StyleID="s162"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s162"><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell><Data ss:Type="Number">600</Data></Cell>
+    <Cell ss:Index="36" ss:StyleID="s164"/>
+    <Cell ss:StyleID="s163"/>
+    <Cell ss:Index="39" ss:StyleID="s167"/>
+    <Cell ss:StyleID="s164"><Data ss:Type="String">ural_tracks,ural_engine,ural_cargo,ural_base</Data></Cell>
+    <Cell><Data ss:Type="String">military</Data></Cell>
+    <Cell><Data ss:Type="String">light_vehicle</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">light_vehicle</Data></Cell>
+    <Cell ss:StyleID="s163"><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">german_btr_crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\vehicle_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\vehicle_player</Data></Cell>
+    <Cell><Data ss:Type="String">models/vehicles/car_opel_blitz_ammo.xmdl</Data></Cell>
+    <Cell ss:StyleID="s160"><Data ss:Type="String">gaz_recharger_voices</Data></Cell>
+    <Cell><Data ss:Type="String">truck</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.linkcar</Data></Cell>
+    <Cell ss:StyleID="s165"><Data ss:Type="String">yes</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.exhaustsmoke01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.exhaust01,korpus.exhaust02</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">_exhaust_btr</Data></Cell>
+    <Cell><Data ss:Type="String">_dust_tank_medium</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.wheel01,korpus.wheel02</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.st_wheel01,korpus.st_wheel02</Data></Cell>
+    <Cell ss:Index="61"><Data ss:Type="String">animations/vehicles/car_opel_blitz_ammo_open.anim</Data></Cell>
+    <Cell><Data ss:Type="String">animations/vehicles/car_opel_blitz_ammo_close.anim</Data></Cell>
+    <Cell ss:Index="65"><Data ss:Type="String">blast/destroy_sound/2</Data></Cell>
+    <Cell ss:StyleID="s163"><Data ss:Type="String">spots/blast_cars_burned</Data></Cell>
+    <Cell><Data ss:Type="Number">5.5</Data></Cell>
+    <Cell ss:StyleID="s163"><Data ss:Type="Number">390</Data></Cell>
+    <Cell><Data ss:Type="String">2-5:he100</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:Index="72"><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell><Data ss:Type="String">_destruction_ammunition</Data></Cell>
+    <Cell ss:StyleID="s163"><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell ss:StyleID="s163"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s163"><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell ss:StyleID="s163"><Data ss:Type="String">pic_car_opel_blitz_ammo</Data></Cell>
+    <Cell><Data ss:Type="String">car_heavy_cargo</Data></Cell>
+    <Cell ss:StyleID="s163"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s115">
+    <Cell><Data ss:Type="String">studebaker_ammo</Data></Cell>
+    <Cell><Data ss:Type="Number">8.08</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data><Comment ss:Author="dieman"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma"
+         x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">dieman:</Font></B><Font
+        html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+        html:Color="#000000">&#10;75</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">0.55000000000000004</Data><Comment
+      ss:Author="dieman"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:CharSet="204" x:Family="Swiss" html:Size="8"
+         html:Color="#000000">dieman:</Font></B><Font html:Face="Tahoma"
+        x:CharSet="204" x:Family="Swiss" html:Size="8" html:Color="#000000">&#10;2.03</Font></ss:Data></Comment></Cell>
+    <Cell ss:Index="9"><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s164"><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">ammunition_recharge</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">round</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="Number">190</Data></Cell>
+    <Cell><Data ss:Type="Number">200</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">medium</Data></Cell>
+    <Cell ss:Index="26"><Data ss:Type="Number">200</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:Index="30"><Data ss:Type="Number">20000</Data></Cell>
+    <Cell ss:StyleID="s162"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s162"><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell><Data ss:Type="Number">600</Data></Cell>
+    <Cell ss:Index="36" ss:StyleID="s164"/>
+    <Cell ss:StyleID="s163"/>
+    <Cell ss:Index="39" ss:StyleID="s167"/>
+    <Cell ss:StyleID="s164"><Data ss:Type="String">ural_tracks,ural_engine,ural_cargo,ural_base</Data></Cell>
+    <Cell><Data ss:Type="String">military</Data></Cell>
+    <Cell><Data ss:Type="String">light_vehicle</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">light_vehicle</Data></Cell>
+    <Cell ss:StyleID="s163"><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">german_btr_crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\vehicle_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\vehicle_player</Data></Cell>
+    <Cell><Data ss:Type="String">models/vehicles/Studebaker.xmdl</Data></Cell>
+    <Cell ss:StyleID="s160"><Data ss:Type="String">gaz_recharger_voices</Data></Cell>
+    <Cell><Data ss:Type="String">truck</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.linkcar</Data></Cell>
+    <Cell ss:StyleID="s165"><Data ss:Type="String">yes</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.exhaustsmoke01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.exhaust01,korpus.exhaust02</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">_exhaust_btr</Data></Cell>
+    <Cell><Data ss:Type="String">_dust_tank_medium</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.wheel01,korpus.wheel02</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.st_wheel01,korpus.st_wheel02</Data></Cell>
+    <Cell ss:Index="61"><Data ss:Type="String">animations/vehicles/Studebaker_open.anim</Data></Cell>
+    <Cell><Data ss:Type="String">animations/vehicles/Studebaker_close.anim</Data></Cell>
+    <Cell ss:Index="65"><Data ss:Type="String">blast/destroy_sound/2</Data></Cell>
+    <Cell ss:StyleID="s163"><Data ss:Type="String">spots/blast_cars_burned</Data></Cell>
+    <Cell><Data ss:Type="Number">5.5</Data></Cell>
+    <Cell ss:StyleID="s163"><Data ss:Type="Number">390</Data></Cell>
+    <Cell><Data ss:Type="String">2-5:he100</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:Index="72"><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell><Data ss:Type="String">_destruction_ammunition</Data></Cell>
+    <Cell ss:StyleID="s163"><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell ss:StyleID="s163"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s163"><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell ss:StyleID="s163"><Data ss:Type="String">pic_car_opel_blitz_ammo</Data></Cell>
+    <Cell><Data ss:Type="String">car_heavy_cargo</Data></Cell>
+    <Cell ss:StyleID="s163"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -6826,9 +7376,9 @@
    <FreezePanes/>
    <FrozenNoSplit/>
    <SplitHorizontal>1</SplitHorizontal>
-   <TopRowBottomPane>64</TopRowBottomPane>
+   <TopRowBottomPane>55</TopRowBottomPane>
    <SplitVertical>1</SplitVertical>
-   <LeftColumnRightPane>1</LeftColumnRightPane>
+   <LeftColumnRightPane>47</LeftColumnRightPane>
    <ActivePane>0</ActivePane>
    <Panes>
     <Pane>
@@ -6836,6 +7386,7 @@
     </Pane>
     <Pane>
      <Number>1</Number>
+     <ActiveCol>1</ActiveCol>
     </Pane>
     <Pane>
      <Number>2</Number>
@@ -6843,8 +7394,8 @@
     </Pane>
     <Pane>
      <Number>0</Number>
-     <ActiveRow>89</ActiveRow>
-     <ActiveCol>6</ActiveCol>
+     <ActiveRow>91</ActiveRow>
+     <ActiveCol>49</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

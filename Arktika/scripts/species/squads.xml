@@ -15,7 +15,7 @@
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>11880</WindowHeight>
+  <WindowHeight>12480</WindowHeight>
   <WindowWidth>25200</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>0</WindowTopY>
@@ -156,7 +156,7 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="tanks">
-  <Table ss:ExpandedColumnCount="60" ss:ExpandedRowCount="113" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="60" ss:ExpandedRowCount="112" x:FullColumns="1"
    x:FullRows="1" ss:StyleID="s63" ss:DefaultRowHeight="12.1875">
    <Column ss:StyleID="s64" ss:Width="144"/>
    <Column ss:StyleID="s63" ss:Width="200.25" ss:Span="4"/>
@@ -2017,38 +2017,70 @@
     <Cell ss:StyleID="Default"><Data ss:Type="Number">500</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">german_tank_crew</Data></Cell>
-    <Cell ss:StyleID="s77"><Data ss:Type="String">german_crew</Data></Cell>
-    <Cell ss:StyleID="s77"><Data ss:Type="String">german_crew</Data></Cell>
-    <Cell ss:StyleID="s77"><Data ss:Type="String">german_crew</Data></Cell>
-    <Cell ss:StyleID="s77"><Data ss:Type="String">german_crew_stg</Data></Cell>
-    <Cell ss:Index="14" ss:StyleID="s79"><Data ss:Type="String">syr_tank_crew</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="Default">
+    <Cell ss:StyleID="s84"><Data ss:Type="String">german_tank_crewmen</Data></Cell>
+    <Cell><Data ss:Type="String">german_crew_01</Data></Cell>
+    <Cell><Data ss:Type="String">german_crew</Data></Cell>
+    <Cell><Data ss:Type="String">german_crew</Data></Cell>
+    <Cell><Data ss:Type="String">german_crew</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s96"><Data ss:Type="String">ger_tank_crew</Data></Cell>
     <Cell><Data ss:Type="String">vehicle,tank</Data></Cell>
     <Cell><Data ss:Type="String">infantry</Data></Cell>
     <Cell><Data ss:Type="String">tank_crew</Data></Cell>
     <Cell><Data ss:Type="String">crew</Data></Cell>
     <Cell><Data ss:Type="String">crew</Data></Cell>
-    <Cell><Data ss:Type="String">UnitTypeIcon\tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\ger_tank_crew</Data></Cell>
     <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
-    <Cell><Data ss:Type="String">syria</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">syria</Data></Cell>
     <Cell><Data ss:Type="Number">400</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">soviet_tank_crew</Data></Cell>
-    <Cell ss:StyleID="s77"><Data ss:Type="String">soviet_crew</Data></Cell>
-    <Cell ss:StyleID="s77"><Data ss:Type="String">soviet_crew</Data></Cell>
-    <Cell ss:StyleID="s77"><Data ss:Type="String">soviet_crew</Data></Cell>
-    <Cell ss:StyleID="s77"><Data ss:Type="String">soviet_crew</Data></Cell>
-    <Cell ss:StyleID="s77"><Data ss:Type="String">soviet_crew</Data></Cell>
-    <Cell ss:Index="14" ss:StyleID="s79"><Data ss:Type="String">syr_tank_crew</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">german_btr_crew</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">german_crew</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">german_crew</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">ger_btr_crew</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle_crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\ger_btr_crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+	<Cell><Data ss:Type="Number">80</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">german_art_crewmen</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">german_crew</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">german_crew</Data></Cell>
+	<Cell ss:StyleID="s77"><Data ss:Type="String">german_crew</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s72"><Data ss:Type="String">ger_art_crew</Data></Cell>
+	<Cell><Data ss:Type="String">vehicle,tank</Data></Cell>
+    <Cell><Data ss:Type="String">infantry</Data></Cell>
+    <Cell><Data ss:Type="String">tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\ger_art_crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">syria</Data></Cell>
+	<Cell><Data ss:Type="Number">80</Data></Cell>
+    <Cell ss:Index="24" ss:StyleID="s69"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">russian_tank_crew</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">rus_crew_cmd</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">rus_crew_cmd</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">rus_crew_cmd</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">rus_crew_cmd</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s79"><Data ss:Type="String">rus_tank_crew</Data></Cell>
     <Cell><Data ss:Type="String">vehicle,tank</Data></Cell>
     <Cell><Data ss:Type="String">infantry</Data></Cell>
     <Cell><Data ss:Type="String">tank_crew</Data></Cell>
     <Cell><Data ss:Type="String">crew</Data></Cell>
     <Cell><Data ss:Type="String">crew</Data></Cell>
-    <Cell><Data ss:Type="String">UnitTypeIcon\tank_crew</Data></Cell>
+    <Cell><Data ss:Type="String">UnitTypeIcon\russian_tank_crew</Data></Cell>
     <Cell><Data ss:Type="String">UnitTypeIcon\infantry_enemy</Data></Cell>
     <Cell><Data ss:Type="String">syria</Data></Cell>
     <Cell><Data ss:Type="Number">400</Data></Cell>
@@ -2073,9 +2105,9 @@
    <FreezePanes/>
    <FrozenNoSplit/>
    <SplitHorizontal>1</SplitHorizontal>
-   <TopRowBottomPane>94</TopRowBottomPane>
+   <TopRowBottomPane>88</TopRowBottomPane>
    <SplitVertical>1</SplitVertical>
-   <LeftColumnRightPane>1</LeftColumnRightPane>
+   <LeftColumnRightPane>14</LeftColumnRightPane>
    <ActivePane>0</ActivePane>
    <Panes>
     <Pane>
@@ -2083,6 +2115,7 @@
     </Pane>
     <Pane>
      <Number>1</Number>
+     <ActiveCol>1</ActiveCol>
     </Pane>
     <Pane>
      <Number>2</Number>
@@ -2090,8 +2123,8 @@
     </Pane>
     <Pane>
      <Number>0</Number>
-     <ActiveRow>119</ActiveRow>
-     <ActiveCol>0</ActiveCol>
+     <ActiveRow>122</ActiveRow>
+     <ActiveCol>15</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

@@ -6,9 +6,9 @@
  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-  <LastAuthor>Пользователь</LastAuthor>
+  <LastAuthor>PC</LastAuthor>
   <Created>2005-02-26T16:04:39Z</Created>
-  <LastSaved>2025-02-18T17:40:27Z</LastSaved>
+  <LastSaved>2025-09-08T13:08:41Z</LastSaved>
   <Version>16.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
@@ -92,10 +92,10 @@
   </Colors>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>11880</WindowHeight>
+  <WindowHeight>12120</WindowHeight>
   <WindowWidth>25200</WindowWidth>
-  <WindowTopX>0</WindowTopX>
-  <WindowTopY>0</WindowTopY>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
   <RefModeR1C1/>
   <ProtectStructure>False</ProtectStructure>
   <ProtectWindows>False</ProtectWindows>
@@ -183,7 +183,7 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="gun_mounts">
-  <Table ss:ExpandedColumnCount="46" ss:ExpandedRowCount="204" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="46" ss:ExpandedRowCount="207" x:FullColumns="1"
    x:FullRows="1">
    <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="157.5"/>
    <Column ss:Width="157.5"/>
@@ -1601,6 +1601,20 @@
     <Cell ss:StyleID="s78"><Data ss:Type="String">tank_new_mg_hor, tank_new_mg_ver</Data></Cell>
     <Cell><Data ss:Type="String">korpus.bashnya.turret02.mg01.sight01</Data></Cell>
    </Row>
+   <Row ss:Index="206">
+    <Cell><Data ss:Type="String">m3_browning</Data></Cell>
+    <Cell><Data ss:Type="String">inf_dshk</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">m3_machine_gun_hor, m3_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.mg01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.mg01.man01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">m3_browning_2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">cg_2a72</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">m3_machine_gun_hor, m3_machine_gun_ver</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.mg01.sight01</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.man02</Data></Cell>
+   </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -1619,7 +1633,7 @@
    <FreezePanes/>
    <FrozenNoSplit/>
    <SplitHorizontal>1</SplitHorizontal>
-   <TopRowBottomPane>169</TopRowBottomPane>
+   <TopRowBottomPane>172</TopRowBottomPane>
    <SplitVertical>1</SplitVertical>
    <LeftColumnRightPane>1</LeftColumnRightPane>
    <ActivePane>0</ActivePane>
@@ -1636,7 +1650,7 @@
     </Pane>
     <Pane>
      <Number>0</Number>
-     <ActiveRow>206</ActiveRow>
+     <ActiveRow>211</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>

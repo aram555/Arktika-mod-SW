@@ -92,10 +92,10 @@
   </Colors>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>11880</WindowHeight>
+  <WindowHeight>12120</WindowHeight>
   <WindowWidth>25200</WindowWidth>
-  <WindowTopX>0</WindowTopX>
-  <WindowTopY>0</WindowTopY>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
   <RefModeR1C1/>
   <ProtectStructure>False</ProtectStructure>
   <ProtectWindows>False</ProtectWindows>
@@ -464,7 +464,7 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="voices">
-  <Table ss:ExpandedColumnCount="31" ss:ExpandedRowCount="235" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="31" ss:ExpandedRowCount="241" x:FullColumns="1"
    x:FullRows="1">
    <Column ss:StyleID="s62" ss:Width="144"/>
    <Column ss:Width="669"/>
@@ -5312,6 +5312,105 @@
     <Cell ss:StyleID="s71"><Data ss:Type="String">smoke_damage:1.5</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">korpus.exhaust_broken_crew</Data></Cell>
    </Row>
+   <Row ss:Index="237">
+    <Cell><Data ss:Type="String">m3_tracks</Data></Cell>
+    <Cell><Data ss:Type="String">speed_penalty(chassis_damaged);move(chassis_destroyed);none;none</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.tracks01;korpus.tracks02</Data></Cell>
+    <Cell><Data ss:Type="Number">300</Data></Cell>
+    <Cell><Data ss:Type="String">unarmoured:10</Data></Cell>
+    <Cell><Data ss:Type="String">unarmoured:10</Data></Cell>
+    <Cell><Data ss:Type="String">unarmoured:10</Data></Cell>
+    <Cell><Data ss:Type="String">unarmoured:10</Data></Cell>
+    <Cell><Data ss:Type="String">unarmoured:10</Data></Cell>
+    <Cell><Data ss:Type="String">unarmoured:10</Data></Cell>
+    <Cell ss:Index="12"><Data ss:Type="String">chassis</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">m3_turret</Data></Cell>
+    <Cell><Data ss:Type="String">reload_penalty;reload_penalty+kill_crew_member(crew_member_down);smoke(inflammation)+unload_crew(bailing_out)+deny_crew_load;vital</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.bashnya.mg01</Data></Cell>
+    <Cell><Data ss:Type="Number">450</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle_steel_armor:40</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle_steel_armor:40</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle_steel_armor:20</Data></Cell>
+    <Cell><Data ss:Type="String">tank_steel_armor:20</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle_steel_armor:50</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle_steel_armor:40</Data></Cell>
+    <Cell><Data ss:Type="String">turret</Data></Cell>
+    <Cell><Data ss:Type="String">gun</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">smoke_damage:1.5</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.exhaust_broken_turret</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">m3_engine</Data></Cell>
+    <Cell><Data ss:Type="String">speed_penalty(engine_damaged);move(engine_destroyed);smoke(inflammation)+unload_crew(bailing_out)+deny_crew_load;vital</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.engine</Data></Cell>
+    <Cell><Data ss:Type="Number">450</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle_steel_armor:40</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle_steel_armor:40</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle_steel_armor:20</Data></Cell>
+    <Cell><Data ss:Type="String">tank_steel_armor:20</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle_steel_armor:50</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle_steel_armor:40</Data></Cell>
+    <Cell><Data ss:Type="String">back_hull</Data></Cell>
+    <Cell><Data ss:Type="String">engine</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">smoke_damage:1.5</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.exhaust_broken_engine</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">m3_base</Data></Cell>
+    <Cell><Data ss:Type="String">none;kill_driver(driver_down);smoke(inflammation)+unload_crew(bailing_out)+deny_crew_load;vital</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.crew</Data></Cell>
+    <Cell><Data ss:Type="Number">450</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle_steel_armor:40</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle_steel_armor:40</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle_steel_armor:20</Data></Cell>
+    <Cell><Data ss:Type="String">tank_steel_armor:20</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle_steel_armor:50</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle_steel_armor:40</Data></Cell>
+    <Cell><Data ss:Type="String">front_hull</Data></Cell>
+    <Cell><Data ss:Type="String">crew</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">smoke_damage:1.5</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.exhaust_broken_crew</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">m3_cargo</Data></Cell>
+    <Cell><Data ss:Type="String">none;kill_half_cargo(troops_bailing_out)+unload_cargo;kill_cargo(troops_down)+smoke(inflammation)+unload_crew(bailing_out)+deny_crew_load;vital</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.cargo</Data></Cell>
+    <Cell><Data ss:Type="Number">450</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle_steel_armor:40</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle_steel_armor:40</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle_steel_armor:20</Data></Cell>
+    <Cell><Data ss:Type="String">tank_steel_armor:20</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle_steel_armor:50</Data></Cell>
+    <Cell><Data ss:Type="String">vehicle_steel_armor:40</Data></Cell>
+    <Cell><Data ss:Type="String">mid_hull</Data></Cell>
+    <Cell><Data ss:Type="String">cargo</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">smoke_damage:1.5</Data></Cell>
+    <Cell><Data ss:Type="String">korpus.exhaust_broken_cargo</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">sdkfz4_launcher</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">none;shoot(gun_disabled);smoke(inflammation)+unload_crew(bailing_out)+deny_crew_load;vital</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">korpus.bashnya.turret01.gun</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">600</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">main_gun:37</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">main_gun:37</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">main_gun:37</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">main_gun:300</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">main_gun:450</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">main_gun:450</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">turret</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">gun</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+   </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -5330,7 +5429,7 @@
    <FreezePanes/>
    <FrozenNoSplit/>
    <SplitHorizontal>1</SplitHorizontal>
-   <TopRowBottomPane>202</TopRowBottomPane>
+   <TopRowBottomPane>220</TopRowBottomPane>
    <SplitVertical>1</SplitVertical>
    <LeftColumnRightPane>1</LeftColumnRightPane>
    <ActivePane>0</ActivePane>
@@ -5347,7 +5446,7 @@
     </Pane>
     <Pane>
      <Number>0</Number>
-     <ActiveRow>236</ActiveRow>
+     <ActiveRow>241</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
